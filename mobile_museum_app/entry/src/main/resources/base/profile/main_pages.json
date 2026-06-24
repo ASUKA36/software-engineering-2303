@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ArtifactDetailPage",
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/QaChatPage",
+    "pages/QaWebPage"
+  ]
+}
