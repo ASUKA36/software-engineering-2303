@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mapper.CollectMapper">
+    <resultMap id="CollectEntityMap" type="com.entity.Collect">
+        <id column="favorite_id" property="favoriteId"/>
+        <result column="user_id" property="userId"/>
+        <result column="museum_id" property="museumId"/>
+        <result column="object_id" property="objectId"/>
+        <result column="created_at" property="createdAt"/>
+    </resultMap>
+
+    <resultMap id="CollectViewMap" type="com.entity.CollectView">
+        <id column="favorite_id" property="favoriteId"/>
+        <result column="user_id" property="userId"/>
+        <result column="museum_id" property="museumId"/>
+        <result column="object_id" property="objectId"/>
+        <result column="created_at" property="createdAt"/>
+        <result column="username" property="username"/>
+        <result column="object_name" property="objectName"/>
+        <result column="time_period" property="timePeriod"/>
+        <result column="img_url" property="imgUrl"/>
+    </resultMap>
+
+    <insert id="insert" useGeneratedKeys="true" keyProperty="favoriteId">
+        INSERT INTO user_favorite (user_id, museum_id, object_id)
+        VALUES (#{userId}, #{museumId}, #{objectId})
+    </insert>
+
+    <delete id="delete">
+        DELETE FROM user_favorite WHERE favorite_id = #{favoriteId}
+    </delete>
+
+    <select id="findById" resultMap="CollectEntityMap">
+        SELECT * FROM user_favorite WHERE favorite_id = #{favoriteId}
+    </select>
+
+    <select id="findByUserIdAndArtifact" resultMap="CollectEntityMap">
+        SELECT * FROM user_favorite
+        WHERE user_id = #{userId} AND museum_id = #{museumId} AND object_id = #{objectId}
+    </select>
+
+    <select id="findByUserId" resultMap="CollectViewMap">
+        SELECT
+            uf.favorite_id,
+            uf.user_id,
+            uf.museum_id,
+            uf.object_id,
+            uf.created_at,
+            u.username,
+            a.title as object_name,
+            a.period as time_period,
+            a.image_url as img_url
+        FROM user_favorite uf
+        LEFT JOIN user u ON uf.user_id = u.user_id
+        LEFT JOIN artifact a ON uf.museum_id = a.museum_id AND uf.object_id = a.object_id
+        WHERE uf.user_id = #{userId}
+        ORDER BY uf.created_at DESC
+    </select>
+
+    <select id="findByMuseumIdAndObjectId" resultMap="CollectEntityMap">
+        SELECT * FROM user_favorite
+        WHERE museum_id = #{museumId} AND object_id = #{objectId}
+    </select>
+</mapper>

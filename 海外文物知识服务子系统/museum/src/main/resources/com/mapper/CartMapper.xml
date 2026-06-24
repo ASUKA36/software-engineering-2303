@@ -1,0 +1,191 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mapper.CartMapper">
+    <!--
+        数据查询模块SQL映射
+        表名：artifact
+        使用完整字段名
+    -->
+    
+    <resultMap id="CartResultMap" type="com.entity.Cart">
+        <result column="object_id" property="object_id"/>
+        <result column="museum_id" property="museum_id"/>
+        <result column="accession_number" property="accession_number"/>
+        <result column="title" property="title"/>
+        <result column="object_name" property="object_name"/>
+        <result column="artist" property="artist"/>
+        <result column="makers_name" property="makers_name"/>
+        <result column="artist_province" property="artist_province"/>
+        <result column="dynasty" property="dynasty"/>
+        <result column="cat2" property="cat2"/>
+        <result column="artist_wikidata_id" property="artist_wikidata_id"/>
+        <result column="artist_birth" property="artist_birth"/>
+        <result column="artist_death" property="artist_death"/>
+        <result column="artist_bio" property="artist_bio"/>
+        <result column="artist_wikipedia_summary" property="artist_wikipedia_summary"/>
+        <result column="artist_enriched_at" property="artist_enriched_at"/>
+        <result column="period" property="period"/>
+        <result column="period_start_year" property="period_start_year"/>
+        <result column="period_end_year" property="period_end_year"/>
+        <result column="type" property="type"/>
+        <result column="cat3" property="cat3"/>
+        <result column="material" property="material"/>
+        <result column="cat1" property="cat1"/>
+        <result column="culture" property="culture"/>
+        <result column="description" property="description"/>
+        <result column="provenance" property="provenance"/>
+        <result column="bibliography" property="bibliography"/>
+        <result column="dimensions" property="dimensions"/>
+        <result column="museum" property="museum"/>
+        <result column="location" property="location"/>
+        <result column="detail_url" property="detail_url"/>
+        <result column="image_url" property="image_url"/>
+        <result column="img_url" property="img_url"/>
+        <result column="iiif_manifest_url" property="iiif_manifest_url"/>
+        <result column="image_path" property="image_path"/>
+        <result column="credit_line" property="credit_line"/>
+        <result column="crawl_date" property="crawl_date"/>
+    </resultMap>
+
+    <sql id="selectAllColumns">
+        SELECT 
+            object_id,
+            museum_id,
+            accession_number,
+            title,
+            title as object_name,
+            artist,
+            artist as makers_name,
+            artist_province,
+            dynasty,
+            dynasty as cat2,
+            artist_wikidata_id,
+            artist_birth,
+            artist_death,
+            artist_bio,
+            artist_wikipedia_summary,
+            artist_enriched_at,
+            period,
+            period_start_year,
+            period_end_year,
+            type,
+            type as cat3,
+            material,
+            material as cat1,
+            culture,
+            description,
+            provenance,
+            bibliography,
+            dimensions,
+            museum,
+            location,
+            detail_url,
+            image_url,
+            image_url as img_url,
+            iiif_manifest_url,
+            image_path,
+            credit_line,
+            crawl_date
+        FROM artifact
+    </sql>
+
+    <select id="findByMuseum" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE museum LIKE CONCAT('%', #{museum}, '%')
+        LIMIT 100
+    </select>
+
+    <select id="findByCat1" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE material LIKE CONCAT('%', #{cat1}, '%')
+        LIMIT 100
+    </select>
+
+    <select id="findByCat2" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE dynasty = #{cat2}
+        LIMIT 100
+    </select>
+
+    <select id="findByCat3" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE type LIKE CONCAT('%', #{cat3}, '%')
+        LIMIT 100
+    </select>
+
+    <select id="sortByNameUp" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        ORDER BY title ASC
+    </select>
+
+    <select id="sortByNameDown" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        ORDER BY title DESC
+    </select>
+
+    <select id="sortByTimeUp" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        ORDER BY period_start_year ASC
+    </select>
+
+    <select id="sortByTimeDown" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        ORDER BY period_start_year DESC
+    </select>
+
+    <select id="findByMulti" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE museum LIKE CONCAT('%', #{museum}, '%') 
+          AND material LIKE CONCAT('%', #{cat1}, '%') 
+          AND dynasty = #{cat2} 
+          AND type LIKE CONCAT('%', #{cat3}, '%')
+    </select>
+
+    <select id="obscureSearch" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE 
+            artist_bio LIKE CONCAT('%', #{str}, '%') 
+            OR material LIKE CONCAT('%', #{str}, '%')
+            OR title LIKE CONCAT('%', #{str}, '%') 
+            OR type LIKE CONCAT('%', #{str}, '%') 
+            OR provenance LIKE CONCAT('%', #{str}, '%')
+            OR period LIKE CONCAT('%', #{str}, '%') 
+            OR artist LIKE CONCAT('%', #{str}, '%') 
+        LIMIT 100
+    </select>
+
+    <select id="findone" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE museum_id != #{id} 
+        LIMIT #{start},#{end}
+    </select>
+
+    <select id="findByMuseum1" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE museum = #{museum} 
+          AND museum_id != #{id} 
+        LIMIT #{start},#{end}
+    </select>
+
+    <select id="findBymakername1" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE artist = #{makersName} 
+          AND museum_id != #{id} 
+        LIMIT #{start},#{end}
+    </select>
+
+    <select id="findBytime1" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE dynasty = #{cat2} 
+          AND museum_id != #{id} 
+        LIMIT #{start},#{end}
+    </select>
+
+    <select id="findBygeography" resultMap="CartResultMap">
+        <include refid="selectAllColumns"/>
+        WHERE culture = #{culture} 
+          AND museum_id != #{id} 
+        LIMIT #{start},#{end}
+    </select>
+</mapper>

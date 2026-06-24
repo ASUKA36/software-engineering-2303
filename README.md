@@ -25,7 +25,7 @@
 | 编号 | 子系统 | 负责人 | 路径 | 说明 |
 |------|--------|--------|------|------|
 | ① | 知识图谱构建 | 郭晨沛 | [`知识图谱构建子系统/`](知识图谱构建子系统/) | 爬虫、清洗、三元组、MySQL/Neo4j 入库、数据 API |
-| ② | 海外文物知识服务（Web） | 万玉贤 | — | Web 前端与知识服务（见各组对接文档） |
+| ② | 海外文物知识服务（Web） | 万玉贤 | [`海外文物知识服务子系统/`](海外文物知识服务子系统/) | Vue 3 前端 + Spring Boot 后端，浏览/检索/图谱/时间轴 |
 | ③ | 知识问答 | 张芷淇 | [`qa_system-submit/`](qa_system-submit/) | FastAPI + Vue 3，RAG 流式问答 |
 | ④ | 掌上博物馆 | 薛度扬 | [`mobile_museum_app/`](mobile_museum_app/) | HarmonyOS App + Flask 服务端 |
 | ⑤ | 后台管理 | 陶湘园 | [`后台管理子系统/`](后台管理子系统/) | Spring Boot 管理端，RBAC、审核、图谱维护 |
@@ -45,6 +45,21 @@ pip install -r requirements.txt
 ```
 
 数据 API：`知识图谱构建子系统/backend/`（FastAPI，文物只读接口）。
+
+### ② 海外文物知识服务（Web）
+
+```bash
+# 后端（Spring Boot，端口 8085）
+cd 海外文物知识服务子系统/museum
+./mvnw spring-boot:run
+
+# 前端（Vue 3 + Vite，端口 3000）
+cd 海外文物知识服务子系统/myvue
+npm install
+npm run dev
+```
+
+详见 [`海外文物知识服务子系统/README.md`](海外文物知识服务子系统/README.md)。
 
 ### ③ 知识问答
 
@@ -95,6 +110,7 @@ software-engineering-2303/
 │   ├── 项目管理计划.md
 │   └── 组会/                      # 全组周例会记录（第八～十四周）
 ├── 知识图谱构建子系统/              # ① 爬虫、图库、数据 API
+├── 海外文物知识服务子系统/          # ② Vue 3 前端 + Spring Boot 后端
 ├── qa_system-submit/              # ③ 问答后端 + chat-web 前端
 ├── mobile_museum_app/             # ④ HarmonyOS App + server
 ├── 后台管理子系统/                  # ⑤ Spring Boot 管理端
@@ -121,7 +137,8 @@ software-engineering-2303/
 |------|------|
 | 数据层 | MySQL 8、Neo4j |
 | 图谱构建 | Python 爬虫、CSV 清洗、Cypher 同步 |
-| Web / 问答前端 | Vue 3 + Vite |
+| Web / 问答前端 | Vue 3 + Vite、Element Plus、ECharts |
+| Web 后端 | Spring Boot 2、MyBatis、JWT |
 | 问答后端 | FastAPI、LangChain Agent、WebSocket 流式 |
 | 移动端 | HarmonyOS ArkTS（DevEco Studio） |
 | 后台管理 | Java 17、Spring Boot 3、JWT、单页管理 UI |

@@ -1,0 +1,31 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mapper.VisualizationMapper">
+
+    <select id="getMuseumMapData" resultType="java.util.Map">
+        SELECT 
+            museum AS name,
+            location AS location,
+            COUNT(*) AS count
+        FROM artifact
+        WHERE museum IS NOT NULL 
+          AND museum != ''
+        GROUP BY museum, location
+        ORDER BY count DESC
+    </select>
+
+    <select id="getTypeStat" resultType="java.util.Map">
+        SELECT 
+            type AS name,
+            COUNT(*) AS value
+        FROM artifact
+        WHERE type IS NOT NULL 
+          AND type != ''
+        GROUP BY type
+        ORDER BY value DESC
+        LIMIT 8
+    </select>
+
+</mapper>

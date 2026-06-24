@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="study">
+    <!--鼠标悬停几秒钟查看此处动态绑定message信息-->
+    <span v-bind:title="message">
+        鼠标悬浮此处可以查看绑定的message
+    </span>
+    <!--  if判断语句  -->
+    <h1 v-if="ok">Yes</h1>
+    <h1 v-else>No</h1>
+
+    <!--  for循环语句  -->
+    <li v-for="item in items">
+        {{item.information}}
+    </li>
+
+
+</div>
+<script src = "https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.js"></script>
+<script>
+    var vm = new Vue({
+        el: "#study",
+        data: {
+            message: "yuanyuan!",
+            ok: true,
+            items: [
+                {information: 'hello'},
+                {information: '炸丸子'},
+                {information: 'Lynn'}
+            ]
+        }
+    });
+</script>
+</body>
+</html>

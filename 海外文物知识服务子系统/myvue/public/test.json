@@ -1,0 +1,10 @@
+{
+  "data": {
+    "success": 200,
+    "userInfo": {
+      "name": "GQS",
+      "sex": 1,
+      "tel": 1234
+    }
+  }
+}

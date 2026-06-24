@@ -1,0 +1,14 @@
+.history/
+*/.history/
+*.log
+*.temp
+*.exe
+.idea/
+.vscode/
+**/target/
+**/node_modules/
+**/dist/
+**/.npm-cache/
+**/out/
+uploads/*
+!uploads/.gitkeep

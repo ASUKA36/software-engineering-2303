@@ -1,0 +1,374 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mapper.ProductMapper">
+    
+    <sql id="productFields">
+        museum_id AS museumId,
+        object_id AS objectId,
+        title,
+        artist,
+        artist_province AS artistProvince,
+        dynasty,
+        artist_wikidata_id AS artistWikidataId,
+        artist_birth AS artistBirth,
+        artist_death AS artistDeath,
+        artist_bio AS artistBio,
+        artist_wikipedia_summary AS artistWikipediaSummary,
+        artist_enriched_at AS artistEnrichedAt,
+        period,
+        period_start_year AS periodStartYear,
+        period_end_year AS periodEndYear,
+        type,
+        material,
+        culture,
+        description,
+        provenance,
+        bibliography,
+        dimensions,
+        museum,
+        location,
+        detail_url AS detailUrl,
+        image_url AS imageUrl,
+        iiif_manifest_url AS iiifManifestUrl,
+        image_path AS imagePath,
+        credit_line AS creditLine,
+        accession_number AS accessionNumber,
+        crawl_date AS crawlDate
+    </sql>
+
+    <select id="findByProductId" resultType="com.entity.Product">
+        SELECT <include refid="productFields"/>
+        FROM artifact
+        WHERE museum_id = #{museumId} AND object_id = #{objectId}
+    </select>
+
+    <select id="findAllProducts" resultType="com.entity.Product">
+        SELECT <include refid="productFields"/>
+        FROM artifact
+        LIMIT 200
+    </select>
+
+    <select id="countTotal" resultType="java.lang.Integer">
+        SELECT COUNT(*) FROM artifact
+    </select>
+
+    <select id="countByDynasty" resultType="java.util.Map">
+        SELECT dynasty AS name, COUNT(*) AS value FROM artifact
+        WHERE dynasty IS NOT NULL AND dynasty != ''
+        GROUP BY dynasty ORDER BY value DESC
+    </select>
+
+    <select id="countByType" resultType="java.util.Map">
+        SELECT type AS name, COUNT(*) AS value FROM artifact
+        WHERE type IS NOT NULL AND type != ''
+        GROUP BY type ORDER BY value DESC
+    </select>
+
+    <select id="countByMuseum" resultType="java.util.Map">
+        SELECT museum AS name, COUNT(*) AS value FROM artifact
+        WHERE museum IS NOT NULL AND museum != ''
+        GROUP BY museum ORDER BY value DESC
+    </select>
+
+    <select id="countByMaterial" resultType="java.util.Map">
+        SELECT material AS name, COUNT(*) AS value FROM artifact
+        WHERE material IS NOT NULL AND material != ''
+        GROUP BY material ORDER BY value DESC
+    </select>
+
+    <select id="countByLocation" resultType="java.util.Map">
+        SELECT location AS name, COUNT(*) AS value FROM artifact
+        WHERE location IS NOT NULL AND location != ''
+        GROUP BY location ORDER BY value DESC
+    </select>
+
+    <select id="countDistinctDynasty" resultType="java.lang.Integer">
+        SELECT COUNT(DISTINCT dynasty) FROM artifact
+        WHERE dynasty IS NOT NULL AND dynasty != ''
+    </select>
+
+    <select id="countDistinctMuseum" resultType="java.lang.Integer">
+        SELECT COUNT(DISTINCT museum) FROM artifact
+        WHERE museum IS NOT NULL AND museum != ''
+    </select>
+
+    <select id="countDistinctType" resultType="java.lang.Integer">
+        SELECT COUNT(DISTINCT type) FROM artifact
+        WHERE type IS NOT NULL AND type != ''
+    </select>
+
+    <select id="findByDynasty" resultType="com.entity.Product">
+        SELECT
+            museum_id AS museumId,
+            object_id AS objectId,
+            title,
+            artist,
+            dynasty,
+            type,
+            material,
+            museum,
+            location,
+            image_url AS imageUrl,
+            image_path AS imagePath
+        FROM artifact
+        WHERE dynasty = #{dynasty}
+        LIMIT 50
+    </select>
+
+    <select id="countByYear" resultType="java.util.Map">
+        SELECT YEAR(crawl_date) AS name, COUNT(*) AS value FROM artifact
+        WHERE crawl_date IS NOT NULL
+        GROUP BY YEAR(crawl_date)
+        ORDER BY name ASC
+    </select>
+
+    <select id="countDynastyMuseum" resultType="java.util.Map">
+        SELECT dynasty AS source, museum AS target, COUNT(*) AS value FROM artifact
+        WHERE dynasty IS NOT NULL AND dynasty != '' AND museum IS NOT NULL AND museum != ''
+        GROUP BY dynasty, museum
+    </select>
+
+    <select id="countDynastyMaterial" resultType="java.util.Map">
+        SELECT dynasty AS source, material AS target, COUNT(*) AS value FROM artifact
+        WHERE dynasty IS NOT NULL AND dynasty != '' AND material IS NOT NULL AND material != ''
+        GROUP BY dynasty, material
+    </select>
+
+    <select id="countDynastyType" resultType="java.util.Map">
+        SELECT dynasty AS source, type AS target, COUNT(*) AS value FROM artifact
+        WHERE dynasty IS NOT NULL AND dynasty != '' AND type IS NOT NULL AND type != ''
+        GROUP BY dynasty, type
+    </select>
+
+    <select id="countMuseumType" resultType="java.util.Map">
+        SELECT museum AS source, type AS target, COUNT(*) AS value FROM artifact
+        WHERE museum IS NOT NULL AND museum != '' AND type IS NOT NULL AND type != ''
+        GROUP BY museum, type
+    </select>
+
+    <select id="countMuseumMaterial" resultType="java.util.Map">
+        SELECT museum AS source, material AS target, COUNT(*) AS value FROM artifact
+        WHERE museum IS NOT NULL AND museum != '' AND material IS NOT NULL AND material != ''
+        GROUP BY museum, material
+    </select>
+
+    <select id="countTypeMaterial" resultType="java.util.Map">
+        SELECT type AS source, material AS target, COUNT(*) AS value FROM artifact
+        WHERE type IS NOT NULL AND type != '' AND material IS NOT NULL AND material != ''
+        GROUP BY type, material
+    </select>
+
+    <select id="searchProducts" resultType="com.entity.Product">
+        SELECT
+            museum_id AS museumId,
+            object_id AS objectId,
+            title,
+            artist,
+            dynasty,
+            type,
+            material,
+            museum,
+            location,
+            image_url AS imageUrl,
+            image_path AS imagePath
+        FROM artifact
+        WHERE title LIKE CONCAT('%', #{keyword}, '%')
+           OR artist LIKE CONCAT('%', #{keyword}, '%')
+           OR dynasty LIKE CONCAT('%', #{keyword}, '%')
+        LIMIT 30
+    </select>
+
+    <select id="countNoDynasty" resultType="java.lang.Integer">
+        SELECT COUNT(*) FROM artifact
+        WHERE dynasty IS NULL OR dynasty = ''
+    </select>
+
+    <select id="findNoDynasty" resultType="com.entity.Product">
+        SELECT
+            museum_id AS museumId,
+            object_id AS objectId,
+            title,
+            artist,
+            dynasty,
+            type,
+            material,
+            museum,
+            location,
+            image_url AS imageUrl,
+            image_path AS imagePath
+        FROM artifact
+        WHERE dynasty IS NULL OR dynasty = ''
+        LIMIT 50
+    </select>
+
+    <select id="findByPage" resultType="com.entity.Product">
+        SELECT <include refid="productFields"/>
+        FROM artifact
+        WHERE 1=1
+        <if test="params.title != null and params.title != ''">
+            AND title LIKE CONCAT('%', #{params.title}, '%')
+        </if>
+        <if test="params.type != null and params.type != ''">
+            AND type = #{params.type}
+        </if>
+        <if test="params.dynasty != null and params.dynasty != ''">
+            AND dynasty = #{params.dynasty}
+        </if>
+        <if test="params.museumId != null">
+            AND museum_id = #{params.museumId}
+        </if>
+        <if test="params.museum != null and params.museum != ''">
+            AND museum LIKE CONCAT('%', #{params.museum}, '%')
+        </if>
+        <if test="params.material != null and params.material != ''">
+            AND material LIKE CONCAT('%', #{params.material}, '%')
+        </if>
+        <if test="params.culture != null and params.culture != ''">
+            AND culture LIKE CONCAT('%', #{params.culture}, '%')
+        </if>
+        <if test="params.artist != null and params.artist != ''">
+            AND artist LIKE CONCAT('%', #{params.artist}, '%')
+        </if>
+        ORDER BY 
+            <choose>
+                <when test="params.sortBy == 'title'">title</when>
+                <when test="params.sortBy == 'dynasty'">dynasty</when>
+                <when test="params.sortBy == 'periodStartYear'">period_start_year</when>
+                <when test="params.sortBy == 'crawlDate'">crawl_date</when>
+                <otherwise>crawl_date</otherwise>
+            </choose>
+            <choose>
+                <when test="params.sortOrder == 'desc'">DESC</when>
+                <otherwise>ASC</otherwise>
+            </choose>
+        LIMIT #{offset}, #{limit}
+    </select>
+
+    <select id="countByParams" resultType="java.lang.Integer">
+        SELECT COUNT(*)
+        FROM artifact
+        WHERE 1=1
+        <if test="params.title != null and params.title != ''">
+            AND title LIKE CONCAT('%', #{params.title}, '%')
+        </if>
+        <if test="params.type != null and params.type != ''">
+            AND type = #{params.type}
+        </if>
+        <if test="params.dynasty != null and params.dynasty != ''">
+            AND dynasty = #{params.dynasty}
+        </if>
+        <if test="params.museumId != null">
+            AND museum_id = #{params.museumId}
+        </if>
+        <if test="params.museum != null and params.museum != ''">
+            AND museum LIKE CONCAT('%', #{params.museum}, '%')
+        </if>
+        <if test="params.material != null and params.material != ''">
+            AND material LIKE CONCAT('%', #{params.material}, '%')
+        </if>
+        <if test="params.culture != null and params.culture != ''">
+            AND culture LIKE CONCAT('%', #{params.culture}, '%')
+        </if>
+        <if test="params.artist != null and params.artist != ''">
+            AND artist LIKE CONCAT('%', #{params.artist}, '%')
+        </if>
+    </select>
+
+    <select id="findByIds" resultType="com.entity.Product">
+        SELECT <include refid="productFields"/>
+        FROM artifact
+        WHERE CONCAT(museum_id, '_', object_id) IN
+        <foreach collection="ids" item="id" open="(" separator="," close=")">
+            #{id}
+        </foreach>
+    </select>
+
+    <select id="getAllTypes" resultType="java.lang.String">
+        SELECT DISTINCT type FROM artifact WHERE type IS NOT NULL ORDER BY type
+    </select>
+
+    <select id="getAllDynasties" resultType="java.lang.String">
+        SELECT DISTINCT dynasty FROM artifact WHERE dynasty IS NOT NULL ORDER BY dynasty
+    </select>
+
+    <select id="getAllMuseums" resultType="java.lang.String">
+        SELECT DISTINCT museum FROM artifact WHERE museum IS NOT NULL ORDER BY museum
+    </select>
+
+    <select id="getAllMaterials" resultType="java.lang.String">
+        SELECT DISTINCT material FROM artifact WHERE material IS NOT NULL ORDER BY material
+    </select>
+
+    <sql id="Base_Where_Condition">
+        <where>
+            <if test="query.keyword != null and query.keyword != ''">
+                AND (title LIKE CONCAT('%', #{query.keyword}, '%')
+                OR artist LIKE CONCAT('%', #{query.keyword}, '%')
+                OR dynasty LIKE CONCAT('%', #{query.keyword}, '%')
+                OR type LIKE CONCAT('%', #{query.keyword}, '%')
+                OR material LIKE CONCAT('%', #{query.keyword}, '%')
+                OR museum LIKE CONCAT('%', #{query.keyword}, '%'))
+            </if>
+            <if test="query.title != null and query.title != ''">
+                AND title LIKE CONCAT('%', #{query.title}, '%')
+            </if>
+            <if test="query.artist != null and query.artist != ''">
+                AND artist LIKE CONCAT('%', #{query.artist}, '%')
+            </if>
+            <if test="query.dynasty != null and query.dynasty != ''">
+                AND dynasty = #{query.dynasty}
+            </if>
+            <if test="query.period != null and query.period != ''">
+                AND period LIKE CONCAT('%', #{query.period}, '%')
+            </if>
+            <if test="query.type != null and query.type != ''">
+                AND type = #{query.type}
+            </if>
+            <if test="query.material != null and query.material != ''">
+                AND material = #{query.material}
+            </if>
+            <if test="query.culture != null and query.culture != ''">
+                AND culture = #{query.culture}
+            </if>
+            <if test="query.museum != null and query.museum != ''">
+                AND museum = #{query.museum}
+            </if>
+            <if test="query.museumId != null">
+                AND museum_id = #{query.museumId}
+            </if>
+        </where>
+    </sql>
+
+    <select id="findByConditions" resultType="com.entity.Product">
+        SELECT <include refid="productFields"/>
+        FROM artifact
+        <include refid="Base_Where_Condition" />
+    </select>
+
+    <select id="findByConditionsWithPage" resultType="com.entity.Product">
+        SELECT <include refid="productFields"/>
+        FROM artifact
+        <include refid="Base_Where_Condition" />
+        LIMIT #{offset}, #{limit}
+    </select>
+
+    <select id="countByConditions" resultType="java.lang.Integer">
+        SELECT COUNT(*)
+        FROM artifact
+        <include refid="Base_Where_Condition" />
+    </select>
+
+    <select id="searchByKeyword" resultType="com.entity.Product">
+        SELECT <include refid="productFields"/>
+        FROM artifact
+        WHERE title LIKE CONCAT('%', #{keyword}, '%')
+        OR artist LIKE CONCAT('%', #{keyword}, '%')
+        OR dynasty LIKE CONCAT('%', #{keyword}, '%')
+        OR type LIKE CONCAT('%', #{keyword}, '%')
+        OR material LIKE CONCAT('%', #{keyword}, '%')
+        OR museum LIKE CONCAT('%', #{keyword}, '%')
+        LIMIT 50
+    </select>
+
+</mapper>
