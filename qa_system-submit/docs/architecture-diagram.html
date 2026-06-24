@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>海外藏中国文物知识问答子系统 — 整体架构</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif;
+      background: #f0f4f8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 24px;
+    }
+    .canvas {
+      width: 1600px;
+      height: 900px;
+      background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+      border-radius: 16px;
+      box-shadow: 0 8px 32px rgba(15, 23, 42, 0.12);
+      padding: 28px 36px 24px;
+      position: relative;
+      overflow: hidden;
+    }
+    .title {
+      text-align: center;
+      margin-bottom: 6px;
+    }
+    .title h1 {
+      font-size: 26px;
+      font-weight: 700;
+      color: #0f172a;
+      letter-spacing: 1px;
+    }
+    .title p {
+      font-size: 13px;
+      color: #64748b;
+      margin-top: 4px;
+    }
+    .layer {
+      border-radius: 10px;
+      padding: 10px 14px 12px;
+      margin-top: 10px;
+      position: relative;
+    }
+    .layer-label {
+      position: absolute;
+      left: -2px;
+      top: -9px;
+      background: #fff;
+      padding: 0 8px;
+      font-size: 11px;
+      font-weight: 700;
+      color: #475569;
+      letter-spacing: 0.5px;
+    }
+    .layer-frontend {
+      background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+      border: 2px solid #93c5fd;
+    }
+    .layer-api {
+      background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+      border: 2px solid #86efac;
+    }
+    .layer-core {
+      background: linear-gradient(135deg, #fff7ed 0%, #ffedd5 100%);
+      border: 2px solid #fdba74;
+    }
+    .layer-agent {
+      background: linear-gradient(135deg, #faf5ff 0%, #ede9fe 100%);
+      border: 2px solid #c4b5fd;
+    }
+    .layer-data {
+      background: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
+      border: 2px solid #94a3b8;
+      margin-top: 8px;
+    }
+    .row {
+      display: flex;
+      gap: 10px;
+      align-items: stretch;
+      flex-wrap: wrap;
+    }
+    .box {
+      border-radius: 8px;
+      padding: 8px 10px;
+      text-align: center;
+      flex: 1;
+      min-width: 110px;
+    }
+    .box-title {
+      font-size: 12px;
+      font-weight: 700;
+      color: #1e293b;
+      margin-bottom: 3px;
+    }
+    .box-sub {
+      font-size: 10px;
+      color: #64748b;
+      line-height: 1.35;
+    }
+    .fe-chat { background: #fff; border: 1.5px solid #60a5fa; }
+    .fe-admin { background: #fff; border: 1.5px solid #60a5fa; }
+    .api-box { background: #fff; border: 1.5px solid #4ade80; }
+    .core-box { background: #fff; border: 1.5px solid #fb923c; }
+    .agent-box { background: #fff; border: 1.5px solid #a78bfa; }
+    .data-box { background: #fff; border: 1.5px solid #64748b; }
+    .highlight { background: #fef3c7; border-color: #f59e0b !important; }
+    .flow-area {
+      display: grid;
+      grid-template-columns: 1fr 60px 1fr;
+      gap: 0;
+      margin-top: 8px;
+      align-items: center;
+    }
+    .pipeline {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .pipe-step {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: #fff;
+      border: 1.5px solid #a78bfa;
+      border-radius: 8px;
+      padding: 6px 10px;
+      font-size: 11px;
+      color: #334155;
+    }
+    .pipe-num {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #7c3aed;
+      color: #fff;
+      font-size: 10px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .pipe-text strong { color: #5b21b6; }
+    .arrows-col {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 4px;
+      font-size: 18px;
+      color: #94a3b8;
+    }
+    .func-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-top: 6px;
+    }
+    .tag {
+      font-size: 9.5px;
+      padding: 2px 7px;
+      border-radius: 10px;
+      background: rgba(255,255,255,0.85);
+      border: 1px solid #cbd5e1;
+      color: #475569;
+    }
+    .tag-hl { background: #fef9c3; border-color: #eab308; color: #854d0e; }
+    .legend {
+      position: absolute;
+      bottom: 14px;
+      right: 20px;
+      display: flex;
+      gap: 14px;
+      font-size: 10px;
+      color: #64748b;
+    }
+    .legend span { display: flex; align-items: center; gap: 4px; }
+    .dot { width: 10px; height: 10px; border-radius: 3px; }
+    svg.connectors {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      z-index: 0;
+    }
+    .content { position: relative; z-index: 1; }
+    .mid-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .ws-label {
+      text-align: center;
+      font-size: 10px;
+      color: #0369a1;
+      font-weight: 600;
+      margin: 4px 0 2px;
+    }
+    .http-label {
+      text-align: center;
+      font-size: 10px;
+      color: #15803d;
+      font-weight: 600;
+      margin: 4px 0 2px;
+    }
+  </style>
+</head>
+<body>
+  <div class="canvas" id="diagram">
+    <div class="content">
+      <div class="title">
+        <h1>海外藏中国文物知识问答子系统 — 整体架构流程图</h1>
+        <p>前后端分离 · 双 Agent RAG · 流式 WebSocket · 答案溯源 · 用户反馈闭环</p>
+      </div>
+
+      <!-- 前端层 -->
+      <div class="layer layer-frontend">
+        <span class="layer-label">前端层 chat-web（Vue 3 + Vite + Pinia）</span>
+        <div class="row">
+          <div class="box fe-chat" style="flex:2">
+            <div class="box-title">问答首页 ChatView</div>
+            <div class="box-sub">Sidebar · MessageList · ChatInput · MessageItem</div>
+            <div class="func-tags">
+              <span class="tag">流式回答</span>
+              <span class="tag">RAG过程折叠</span>
+              <span class="tag">来源溯源</span>
+              <span class="tag">复制/重试</span>
+              <span class="tag">有帮助/不准确</span>
+              <span class="tag">停止生成</span>
+            </div>
+          </div>
+          <div class="box fe-admin" style="flex:1">
+            <div class="box-title">管理后台 AdminDashboard</div>
+            <div class="box-sub">AdminLogin · 反馈统计 · 不准确审核</div>
+            <div class="func-tags">
+              <span class="tag">管理员登录</span>
+              <span class="tag">高频错误 TopN</span>
+            </div>
+          </div>
+        </div>
+        <div class="ws-label">WebSocket 流式问答 / agent_step &nbsp;&nbsp;|&nbsp;&nbsp; HTTP REST 会话·历史·反馈</div>
+      </div>
+
+      <!-- API层 -->
+      <div class="layer layer-api">
+        <span class="layer-label">接口层 FastAPI（main.py :8000）</span>
+        <div class="row">
+          <div class="box api-box">
+            <div class="box-title">ws_router</div>
+            <div class="box-sub">/api/qa/ws<br/>message·resume·stop·ping</div>
+          </div>
+          <div class="box api-box">
+            <div class="box-title">qa_router</div>
+            <div class="box-sub">session·history<br/>ask·feedback</div>
+          </div>
+          <div class="box api-box">
+            <div class="box-title">admin_router</div>
+            <div class="box-sub">login·feedback/stats<br/>feedback/inaccurate</div>
+          </div>
+          <div class="box api-box">
+            <div class="box-title">admin_auth</div>
+            <div class="box-sub">X-Admin-Session<br/>鉴权中间件</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 核心服务层 + 问答流水线 -->
+      <div class="mid-row">
+        <div class="layer layer-core" style="margin-top:0">
+          <span class="layer-label">核心服务层 app/core</span>
+          <div class="row" style="flex-direction:column; gap:6px">
+            <div class="box core-box highlight">
+              <div class="box-title">WSManager</div>
+              <div class="box-sub">连接管理·广播·chunk/done·断线续传 cursor</div>
+            </div>
+            <div class="box core-box">
+              <div class="box-title">SessionManager</div>
+              <div class="box-sub">会话·ai_history·流式写入·反馈存储</div>
+            </div>
+            <div class="row" style="gap:6px">
+              <div class="box core-box highlight" style="flex:1">
+                <div class="box-title">SourceExtractor</div>
+                <div class="box-sub">溯源提取·Neo4j↔MySQL桥接</div>
+              </div>
+              <div class="box core-box highlight" style="flex:1">
+                <div class="box-title">KgFactsFormatter</div>
+                <div class="box-sub">图谱事实格式化</div>
+              </div>
+            </div>
+            <div class="row" style="gap:6px">
+              <div class="box core-box highlight" style="flex:1">
+                <div class="box-title">AnswerBuilder</div>
+                <div class="box-sub">答案组装·LLM润色·空结果兜底</div>
+              </div>
+              <div class="box core-box highlight" style="flex:1">
+                <div class="box-title">AdminSession</div>
+                <div class="box-sub">管理端 Token 会话</div>
+              </div>
+            </div>
+            <div class="row" style="gap:6px">
+              <div class="box core-box" style="flex:1">
+                <div class="box-title">ChatHistory</div>
+                <div class="box-sub">多轮上下文裁剪</div>
+              </div>
+              <div class="box core-box" style="flex:1">
+                <div class="box-title">QueryMemory</div>
+                <div class="box-sub">SQL/Cypher 短期记忆</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="layer layer-agent" style="margin-top:0">
+          <span class="layer-label">智能体层 app/agents — 双 Agent RAG 流水线</span>
+          <div class="pipeline">
+            <div class="pipe-step">
+              <div class="pipe-num">1</div>
+              <div class="pipe-text"><strong>Graph Agent</strong> — 意图识别 · 工具选择与调用 · 收集 query_snapshots</div>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-num">2</div>
+              <div class="pipe-text">调用 <strong>MySQL Tool</strong>（execute_sql）/ <strong>Neo4j Tool</strong>（query_neo4j 等）</div>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-num">3</div>
+              <div class="pipe-text"><strong>SourceExtractor + KgFactsFormatter</strong> — 提取溯源链接 · 判定 has_kg_facts</div>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-num">4</div>
+              <div class="pipe-text"><strong>Main Agent</strong> — RAG Context 约束下 LLM 流式润色生成回答</div>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-num">5</div>
+              <div class="pipe-text"><strong>WSManager</strong> 推送 agent_step / chunk / done（含 sources·元数据）</div>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-num">6</div>
+              <div class="pipe-text">持久化 ai_history · 前端展示回答·来源·反馈 · 管理端统计分析</div>
+            </div>
+          </div>
+          <div class="row" style="margin-top:8px; gap:6px">
+            <div class="box agent-box" style="flex:1">
+              <div class="box-title">mysql_tool</div>
+              <div class="box-sub">execute_sql · 文物检索</div>
+            </div>
+            <div class="box agent-box" style="flex:1">
+              <div class="box-title">neo4j_tool</div>
+              <div class="box-sub">query_neo4j · 图谱查询</div>
+            </div>
+            <div class="box agent-box" style="flex:1">
+              <div class="box-title">LLM</div>
+              <div class="box-sub">OpenAI 兼容 API · 流式生成</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 数据层 -->
+      <div class="layer layer-data">
+        <span class="layer-label">数据层</span>
+        <div class="row">
+          <div class="box data-box" style="flex:2">
+            <div class="box-title">MySQL — overseas_chinese_artifacts</div>
+            <div class="box-sub">artifact 表（文物结构化数据·detail_url）· ai_history 表（对话历史·sources·流式cursor）· ai_feedback 表（用户反馈）</div>
+          </div>
+          <div class="box data-box" style="flex:1">
+            <div class="box-title">Neo4j 知识图谱</div>
+            <div class="box-sub">Artifact · Museum · Artist<br/>COLLECTED_BY · CREATED_BY</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
