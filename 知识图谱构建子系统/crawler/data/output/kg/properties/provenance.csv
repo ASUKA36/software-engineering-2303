@@ -1,0 +1,1537 @@
+﻿from,relation,to
+entity:artifact:2:100098,provenance,"Peter W. Scheinman purchased from J.J. Lally & Co., New York"
+entity:artifact:2:100099,provenance,"Peter W. Scheinman purchased from dealer Susan Chen, Hong Kong"
+entity:artifact:2:100180,provenance,"Peter W. Scheinman purchased from Kaikodo, New York"
+entity:artifact:2:100181,provenance,"[Christie's, New York, 1 June 1990, lot 161] sold; to Peter W. Scheinman (1990-2003), partial gift; to Harvard University Art Museums, 2003.
+
+Note:
+Peter W. Scheinman (b. 1932 - d. 2017)"
+entity:artifact:2:101448,provenance,"Shao F. Wang purchased from Sotheby's, New York
+Ex-coll: Robert H. Ellsworth Collection, New York"
+entity:artifact:2:101449,provenance,"Ex-coll: Mr. and Mrs. James E. Breece, III, Evanston, IL"
+entity:artifact:2:101784,provenance,"Peter W. Scheinman purchased from Luen Chai Curios, Hong Kong"
+entity:artifact:2:101785,provenance,"Peter W. Scheinman purchased at Sotheby's or Christie's, London
+Formerly in Lord Cunliffe Collection"
+entity:artifact:2:101796,provenance,"Peter W. Scheinman purchased from dealer Martin Fung, Hong Kong"
+entity:artifact:2:117351,provenance,"Peter W. Scheinman purchased at Sotheby's, New York"
+entity:artifact:2:142056,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:1429,provenance,"Chun-yi Lee, Tempe, AZ (2005-2006), sold; to Harvard University Art Museums, 2006."
+entity:artifact:2:1430,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:143022,provenance,"[Thomas Erben Gallery, New York, New York], sold; to Harvard University Art Museums, August 13, 2002."
+entity:artifact:2:143056,provenance,"[J. J. Lally & Co., New York, 2002], sold; to Harvard University Art Museums, 2002."
+entity:artifact:2:143057,provenance,"J.J. Lally & Co., New York  (Lally inventory number 93368)"
+entity:artifact:2:143090,provenance,"[J. J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:143091,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:143354,provenance,"[J. J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:146265,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146266,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146434,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:146482,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146484,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:146524,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146525,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146554,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:146559,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146580,provenance,"Source: The Chinese Porcelain Company, New York"
+entity:artifact:2:146583,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146585,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146626,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146694,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:146712,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146754,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:146760,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:146761,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:147177,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:147219,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:147220,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:147441,provenance,"Source: J.J. Lally & Co., New York 
+Provenance: Chang Wei-Hwa & Co., Taipei (Yunzhongju guwan, Taibei)"
+entity:artifact:2:147442,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148273,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148274,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148464,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148465,provenance,"[The Chinese Procelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148466,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148467,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148468,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148469,provenance,"[The Chinese Procelain Company, New York, 2002] sold; to Walter C. Sedgwick, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148472,provenance,"[Mathias Komor, New York (by February 1945)], sold; to Mr. and Mrs. Myron S. Falk Jr. Collection, New York (February 1945-2001), sold; through [Christie's, New York, 15 October 2001, lot. 5]; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148478,provenance,"[Roger Keverne, London, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148479,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148480,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148553,provenance,"[Eskenazi, Ltd., London, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148554,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148555,provenance,"[The Chinese Procelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148556,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148608,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:148609,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149462,provenance,"[J.J. Lally & Co., New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149463,provenance,"[J.J. Lally & Co., New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149464,provenance,"C.T. Loo, New York
+Mr. and Mrs. Myron S. Falk, Jr. Collection, New York (Collection number 117); purchased from C.T. Loo, New York, in June 1950
+HUAM purchased from J.J. Lally & Co., New York Christie’s, New York, Sale 9822, Lot 75"
+entity:artifact:2:149507,provenance,"[The Chinese Porcelain Company, New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149508,provenance,"[The Chinese Porcelain Company, New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149509,provenance,"[The Chinese Porcelain Company, New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149541,provenance,"[J.J. Lally & Co., New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149542,provenance,"[J.J. Lally & Co., New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149543,provenance,"[J.J. Lally & Co., New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149545,provenance,"[Nicholas Grindley, London, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149547,provenance,"[Nicholas Grindley, London, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149551,provenance,"[J.J. Lally & Co., New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149552,provenance,"[Kaikodo, New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149553,provenance,"[Kaikodo, New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149554,provenance,"Provenance:	
+J.J. Lally & Co., New York
+Christie’s, New York, Sale 9822, Lot 83
+Mr. and Mrs. Myron S. Falk, Jr. Collection, New York	(Collection number 112); purchased from Yamanaka	and Company, New York, in 1943 Yamanaka and Company, New York"
+entity:artifact:2:149555,provenance,"Provenance:	
+J.J. Lally & Co., New York
+Christie’s, New York, Sale 9822, Lot 91
+Mr. and Mrs. Myron S. Falk, Jr. Collection, New York	(Collection number 103); purchased from C.T. Loo	& Cie, Paris, in February 1963
+C.T. Loo & Cie, Paris
+Mme. Ramet, Paris"
+entity:artifact:2:149557,provenance,"[Nicholas Grindley, London, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:149558,provenance,"[Nicholas Grindley, London, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:160276,provenance,"Mr. and Mrs. Myron S. Falk, Jr. New York 
+[Falk Collection number 113]"
+entity:artifact:2:164893,provenance,"[J.J. Lally & Co., New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:164894,provenance,"[J.J. Lally & Co., New York, July 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:165054,provenance,"[Zetterquist Gallery, New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:165055,provenance,"[The Chinese Porcelain Company, New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:165056,provenance,"Eskenazi Ltd., London"
+entity:artifact:2:165247,provenance,"Peter W. Scheinman purchased at Sotheby's, London
+Formerly in British Rail Pension Fund Collection"
+entity:artifact:2:167086,provenance,"[Eskenazi Ltd., London, July 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:167598,provenance,"Peter W. Scheinman purchased from J.J. Lally & Co., New York"
+entity:artifact:2:167599,provenance,"[J.J. Lally & Co., New York, July 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:167603,provenance,"[J.J. Lally & Co., New York, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:167756,provenance,"Peter W. Scheinman purchased at Sotheby's, London"
+entity:artifact:2:167760,provenance,"Recovered from the remains of a ship that sank off Tanjung Batu Hitam, Belitung Island, Sumatra, Indonesia, in the ninth century
+Sold to Widodo Latip, Jakarta, Indonesia
+Sold to The Chinese Porcelain Company, New York
+Sold to HUAM"
+entity:artifact:2:169023,provenance,"Recovered from the remains of a ship that sank off Tanjung Batu Hitam, Belitung Island, Sumatra, Indonesia, in the ninth century
+Sold to Widodo Latip, Jakarta, Indonesia
+Sold to The Chinese Porcelain Company, New York
+Sold to HUAM"
+entity:artifact:2:169025,provenance,"[S. Marchant & Son, London, July 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:169458,provenance,"[Eskenazi Ltd., London, July 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:169493,provenance,"Peter W. Scheinman purchased from dealer Mason Wong, Hong Kong"
+entity:artifact:2:169494,provenance,"[J.J. Lally & Co., New York, July 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173145,provenance,"[Galerie Gisèle Croës - Arts d'Extreme-Orient, Brussels, Belgium, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173146,provenance,"[Kaikodo, New York, March 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173147,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173148,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173149,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173150,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173592,provenance,"[J. J. Lally & Co., New York, March 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173593,provenance,"[J.J. Lally & Co., New York, March 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173612,provenance,"[Priestley and Ferraro, London, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173613,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173614,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173615,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173616,provenance,"[Eskenazi, Ltd., London] sold; to [J.J. Lally & Co., New York, by March 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173621,provenance,"[J.J. Lally & Co., New York, June 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173622,provenance,"[J.J. Lally & Co., New York, March 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:173623,provenance,"[Christian Boehm, London, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174173,provenance,"[Priestley and Ferraro, London, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174174,provenance,"[Priestley and Ferraro, London, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174175,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174176,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174177,provenance,"[The Chinese Porcelain Company, New York, May 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174249,provenance,"[Nicholas Grindley, London, 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174250,provenance,"[Uragami Sokyu-do Co., Ltd, Tokyo, February 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174251,provenance,"[Uragami Sokyu-do Co., Ltd, Tokyo, February 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174432,provenance,"[Eskenazi, Ltd., London, April 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174435,provenance,"Robert H. Ellsworth acquired jar in Hong Kong, mid-1970s.
+Robert H. Ellsworth, collector, Sold to HUAM"
+entity:artifact:2:174445,provenance,"[Eskenazi Ltd., London, April 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174784,provenance,"[Nicholas Grindley, London, March 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174785,provenance,"[Nicholas Grindley, London, March 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174786,provenance,"[J.J. Lally & Co., New York, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174787,provenance,"[Uragami Sokyu-do Co., Ltd, Tokyo, February 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174788,provenance,"[Uragami Sokyu-do Co., Ltd., Tokyo, February 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174843,provenance,"[Sotheby's, New York, 20 September 2000, lot. 66] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174848,provenance,"[J. J. Lally & Co., New York, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174849,provenance,"[J.J. Lally & Co., New York, March 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174850,provenance,"[J.J. Lally & Co., New York, March 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174966,provenance,"[The Chinese Porcelain Company, New York, October 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174967,provenance,"[The Chinese Porcelain Company, New York, October 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:174968,provenance,"Weng Tonghe, Changshu and Beijing, China (by 1904), by inheritance; to Weng Zhilian, Changshu and Tianjin, China (1904-1919), by inheritance; to Wan-go H.C. Weng, Tianjin, China, New York, and New Hampshire (1919-2000), gift; to Harvard University Art Museums, 2000.
+
+Footnotes:
+Weng Tonghe 翁同龢 (1830-1904)
+Weng Zhilian 翁之廉 (d. 1919), great-grandson of Weng Tonghe
+Wan-go H.C. Weng 翁万戈 (1918-2018), son of Weng Zhilian"
+entity:artifact:2:175142,provenance,"Weng Tonghe, Changshu and Beijing, China (by 1904), by inheritance; to Weng Zhilian, Changshu and Tianjin, China (1904-1919), by inheritance; to Wan-go H.C. Weng, Tianjin, China, New York, and New Hampshire (1919-2000), gift; to Harvard University Art Museums, 2000.
+
+Footnotes:
+Weng Tonghe 翁同龢 (1830-1904)
+Weng Zhilian 翁之廉 (d. 1919), great-grandson of Weng Tonghe
+Wan-go H.C. Weng 翁万戈 (1918-2018), son of Weng Zhilian"
+entity:artifact:2:175143,provenance,"[Christian Boehm, London, February 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:175365,provenance,"Mrs. Bettina Warburg Grimson, New York
+C.T. Loo, New York (dealer)"
+entity:artifact:2:175366,provenance,"[J.J. Lally & Co., New York, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176272,provenance,"[Kaikodo, New York, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176273,provenance,"[Kaikodo, New York, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176274,provenance,"[Kaikodo, New York, 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176359,provenance,"Peter W. Scheinman purchased from J.J. Lally & Co., New York"
+entity:artifact:2:176360,provenance,"[J.J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176362,provenance,"Shirley Nye, New York, NY"
+entity:artifact:2:176365,provenance,"[Kaikodo, New York, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176366,provenance,"[Kaikodo, New York, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176655,provenance,"[Christian Boehm Oriental Art, London, 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176656,provenance,"Shirley Nye, New York, NY
+Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:176657,provenance,"Shirley Nye, New York (by 2004), gift; to Harvard University Art Museums, 2004."
+entity:artifact:2:176658,provenance,"Peter W. Scheinman purchased at Sotheby's, London"
+entity:artifact:2:176659,provenance,"[Christie's, New York, 21 September 2000, lot 219] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176893,provenance,"[Christie's, New York, 21 September 2000, lot 222] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176894,provenance,"[Ralph M. Chait Galleries, New York, December 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176895,provenance,"[J.J. Lally & Co., New York, December 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176896,provenance,"[Kaikodo, New York, October 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176897,provenance,"[Kaikodo, New York, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176954,provenance,"[Uragami Sokyu-do Co., Ltd., Tokyo, July 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176955,provenance,"[Uragami Sokyu-do Co., Ltd., Tokyo, July 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176956,provenance,"[J.J. Lally & Co., New York, September 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176957,provenance,"[J.J. Lally & Co., New York, September 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176960,provenance,"Peter W. Scheinman purchased at Sotheby's, London"
+entity:artifact:2:176962,provenance,"[The Chinese Porcelain Company, New York, 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176963,provenance,"Peter W. Scheinman purchased from J.J. Lally & Co., New York"
+entity:artifact:2:176965,provenance,"[J.J. Lally & Co., New York, September 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176966,provenance,"[J.J. Lally & Co., New York, September 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176967,provenance,"[J. J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176968,provenance,"[Ralph M. Chait Galleries, New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176969,provenance,"[Uragami Sokyu-do Co., Ltd., Tokyo, July 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176970,provenance,"[Roger Keverne Limited, London, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176971,provenance,"[Roger Keverne Limited, London, January 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176972,provenance,"Peter W. Scheinman purchased at Christie's, New York"
+entity:artifact:2:176993,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:176994,provenance,"[Uragami Sokyu-do Co., Ltd., Tokyo, July 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176995,provenance,"[Uragami Sokyu-do Co., Ltd., Tokyo, July 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176996,provenance,"[Uragami Sokyu-do Co., Ltd., Tokyo, July 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:176997,provenance,"[Roger Keverne Limited, London, 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:177002,provenance,"Shirley Nye, New York, NY"
+entity:artifact:2:178612,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Warren E. Cox Associates, Inc., New York
+Ex-Coll.:	Warren E. Cox, New York"
+entity:artifact:2:178613,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:178614,provenance,"[Uragami Sokyu-do Co., Ltd., Tokyo, July 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:178615,provenance,"[J.J. Lally & Co., New York, September 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:178616,provenance,"[J.J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:178617,provenance,"[J.J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:178618,provenance,"[Andrew Kahane Oriental Art, New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:179575,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:179580,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:179581,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:179582,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:179583,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:179584,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:179585,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:179586,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:179597,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Warren E. Cox Associates, Inc., New York
+Ex-Coll.:	Warren E. Cox, New York"
+entity:artifact:2:179605,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:179606,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:179607,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:179608,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:180588,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:180589,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:180590,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:180591,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:180592,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:180593,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:180594,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:180595,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:180730,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:180731,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:180732,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Ralph M. Chait Galleries, New York"
+entity:artifact:2:180733,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:180734,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:180735,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:182174,provenance,"[Galerie Gisèle Croës - Arts d'Extreme-Orient, Brussels, Belgium, May 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182232,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:182233,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:182234,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:182235,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Ex-Coll: Alvin Grauer  (supposedly selected for Mr. Grauer by Sherman E. Lee)"
+entity:artifact:2:182236,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Spink and Son, London"
+entity:artifact:2:182237,provenance,"Kaikodo, New York, NY, USA, sold to Harvard University Art Museums."
+entity:artifact:2:182242,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:182243,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:182244,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:182245,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:182246,provenance,"Shirley Nye, New York, NY, gift to HUAM"
+entity:artifact:2:182247,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:182443,provenance,"[Christian Boehm, London, March 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182444,provenance,"[J.J. Lally & Co., New York, March 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182445,provenance,"[J.J. Lally & Co., New York, March 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182446,provenance,"[J.J. Lally & Co., New York, March 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182449,provenance,"[J.J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182450,provenance,"David Berg, New York (by 1999), bequest; to Arthur M. Sackler Museum, Harvard University, 1999.
+
+Note:
+David Berg (1904–1999)"
+entity:artifact:2:182452,provenance,"[J.J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182453,provenance,"[J.J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182454,provenance,"[J.J. Lally & Co., New York, March 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182455,provenance,"Wentworth Collection, London (early 20th century). Richard Bryant Hobart, Cambridge, MA (by 1963), by inheritance; to Mabel Hobart Wentworth, Washington, DC (1963–1969), sold; through [Parke-Bernet Galleries, New York (12 December 1969), sold; to David Berg, New York (1969?–1999), bequest; to Arthur M. Sackler Museum, Harvard University, 1999.
+
+Notes:
+1. Richard Bryant Hobart (1885–1963), Harvard College Class of 1906
+2. Mabel ""Muffie"" Hobart Wentworth Brandon Cabot (b. 1936), daughter of Richard
+3. David Berg (1904–1999)"
+entity:artifact:2:182456,provenance,"[J.J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182460,provenance,"[J.J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182461,provenance,"[The Chinese Porcelain Company, New York, April 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182462,provenance,"[The Chinese Porcelain Company, New York, April 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182487,provenance,"[J.J. Lally & Co., New York, March 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182488,provenance,"[J.J. Lally & Co., New York, March 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182489,provenance,"[Nicholas Grindley, London, February 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182492,provenance,"[J. J. Lally & Co., New York, June 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2001-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182524,provenance,"[J.J. Lally & Co., New York, July 2001] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182526,provenance,"[The Chinese Porcelain Company, New York, April 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182527,provenance,"[The Chinese Porcelain Company, New York, April 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182528,provenance,"[The Chinese Porcelain Company, New York, April 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182529,provenance,"[Sotheby's, New York, 22 March 2000, lot. 82] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182530,provenance,"[Kaikodo, New York, April 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182595,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182596,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182605,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182606,provenance,"[J.J. Lally & Co., New York, March 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182607,provenance,"[J.J. Lally & Co., New York, June 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:182655,provenance,"[Priestley and Ferraro, London, April 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185032,provenance,"[Blitz Chinese Ceramics and Works of Art, Amsterdam, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185033,provenance,"[Blitz Chinese Ceramics and Works of Art, Amsterdam, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185034,provenance,"David Berg, New York (by 1999), bequest; to Arthur M. Sackler Museum, Harvard University, 1999.
+
+Note:
+David Berg (1904–1999)"
+entity:artifact:2:185035,provenance,"David Berg, New York (by 1999), bequest; to Arthur M. Sackler Museum, Harvard University, 1999.
+
+Note:
+David Berg (1904–1999)"
+entity:artifact:2:185127,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185128,provenance,"[J. J. Lally & Co., New York, 2000], sold; to Harvard University Art Museums, 2000."
+entity:artifact:2:185129,provenance,"[J.J. Lally & Co., New York, March 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185449,provenance,"[Blitz Chinese Ceramics and Works of Art, Amsterdam, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185450,provenance,"David Berg, New York (by 1999), bequest; to Arthur M. Sackler Museum, Harvard University, 1999.
+
+Note:
+David Berg (1904–1999)"
+entity:artifact:2:185451,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185452,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185453,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185759,provenance,"[Blitz Chinese Ceramics and Works of Art, Amsterdam, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185760,provenance,"[Blitz Chinese Ceramics and Works of Art, Amsterdam, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185761,provenance,"[Blitz Chinese Ceramics and Works of Art, Amsterdam, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185762,provenance,"Anonymous Donor, New York, NY, gift to the Sackler Museum."
+entity:artifact:2:185763,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:185764,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:186658,provenance,"[Christie's, New York, 16 September 1999, lot. 260] sold; through [J.J. Lally & Co., New York, 1999]; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:186659,provenance,"[Christie's, New York, 23 September 1999, lot 272] sold;  to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:186745,provenance,"[Blitz Chinese Ceramics and Works of Art, Amsterdam, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:186746,provenance,"[J.J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:186747,provenance,"[J. J. Lally & Co., New York, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:186931,provenance,"Stephen Junkunc III, Chicago (by 1978). [Chinese Porcelain Company, New York, October 1999], sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006.
+
+Notes:
+1. Stephen Junkunc III (d. 1978)
+2. On long-term loan to Harvard University Art Museums from 2000 to 2006."
+entity:artifact:2:186934,provenance,"[Warren E. Cox, New York, by 1950s], sold; to [The Chinese Porcelain Company, New York, 1950s] sold; to Ralph C. Marcove, New York (1950s-2001), transfer; to Trust u/w/o Ralph C. Marcove FBO C Marcove, New York (2001-2016), sold; to Harvard Art Museums, 2016. 
+Footnote:
+Ralph C. Marcove, MD (1929-2001)"
+entity:artifact:2:187002,provenance,"[J.T. Tai & Co., New York, ?], sold; to David Berg, New York (?–1999), bequest; to Arthur M. Sackler Museum, Harvard University, 1999.
+
+Note:
+David Berg (1904–1999)"
+entity:artifact:2:187003,provenance,"David Berg, New York (by 1999), bequest; to Arthur M. Sackler Museum, Harvard University, 1999.
+
+Note:
+David Berg (1904–1999)"
+entity:artifact:2:187004,provenance,"[Christie's, New York, 16 September 1999, sale number Kang-9210, lot. 290] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:187005,provenance,"[Warren E. Cox, New York, 1965], sold; to Ralph C. Marcove, New York (1965-2001), transfer; to Trust u/w/o Ralph C. Marcove FBO C Marcove, New York (2001-2016), sold; to Harvard Art Museums, 2016. 
+Footnote:
+Ralph C. Marcove, MD (1929-2001)"
+entity:artifact:2:18759,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:187802,provenance,"[Christian Boehm, London, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:188082,provenance,"[The Chinese Porcelain Company, New York, 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:188083,provenance,"[The Chinese Porcelain Company, New York, 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:188084,provenance,"Stephen Junkunc III, Chicago, IL (by 1978). Private collection (by 1996), sold; through [Christie's, New York, 28 March 1996, lot 316]; to [Chinese Porcelain Company, New York (1996-1999)], sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006.
+
+Notes:
+1. Stephen Junkunc III (d. 1978)
+2. On long-term loan to Harvard University Art Museums from 1999 to 2006."
+entity:artifact:2:188085,provenance,"Richard Bryant Hobart, Cambridge, MA (by 1949–1963), by inheritance; to Mabel Hobart Wentworth, Washington, DC (1963–1969), sold; through [Parke-Bernet Galleries, New York (12 December 1969); to [J.T. Tai & Co., New York, 1969?], sold; to David Berg, New York (after 1969–1999), bequest; to Arthur M. Sackler Museum, Harvard University, 1999.
+
+Notes:
+1. Richard Bryant Hobart (1885–1963), Harvard College Class of 1906
+2. Mabel ""Muffie"" Hobart Wentworth Brandon Cabot (b. 1936), daughter of Richard Bryant Hobart and Janet Elliott Wulsin (1894–1963)
+3. David Berg (1904–1999)"
+entity:artifact:2:188153,provenance,"The Chinese Porcelain Company, New York, NY, USA, Gift to the Sackler Museum."
+entity:artifact:2:188154,provenance,"[The Chinese Porcelain Company, New York, July 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:188169,provenance,"[The Chinese Porcelain Company, New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:188954,provenance,"[Christian Boehm, London, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189064,provenance,"Acquired from Kaikodo, New York."
+entity:artifact:2:189065,provenance,"Acquired from Kaikodo, New York."
+entity:artifact:2:189066,provenance,"Acquired from Kaikodo, New York."
+entity:artifact:2:189067,provenance,"James D. Tigerman, Lake Forest, IL (by 1999); sold to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189098,provenance,"Richard Bryant Hobart, Cambridge, MA (by 1963), by inheritance; to Mabel Hobart Wentworth, Washington, DC (1963–1969), sold; through [Parke-Bernet Galleries, New York (12 December 1969); to [Walter Hochstadter, New York, 1969], sold; to David Berg, New York (after 1969–1999), bequest; to Arthur M. Sackler Museum, Harvard University, 1999.
+
+Notes:
+1. Richard Bryant Hobart (1885–1963), Harvard College Class of 1906
+2. Mabel ""Muffie"" Hobart Wentworth Brandon Cabot (b. 1936), daughter of Richard Bryant Hobart and Janet Elliott Wulsin (1894–1963)
+3. David Berg (1904–1999)"
+entity:artifact:2:189158,provenance,"[Kaikodo, New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189159,provenance,"[Kaikodo, New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189160,provenance,"Acquired from Kaikodo, New York."
+entity:artifact:2:189161,provenance,"James D. Tigerman, Lake Forest, IL (by 1999); sold to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189162,provenance,"[J.J. Lally & Co., New York, April 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189163,provenance,"[J.J. Lally & Co., New York, April 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189165,provenance,"J.J. Lally & Co., New York
+Blitz Antiek en Kunsthandel, Amsterdam, The Netherlands"
+entity:artifact:2:189200,provenance,"[Kaikodo, New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189203,provenance,"Acquired from Kaikodo, New York."
+entity:artifact:2:189204,provenance,"[J.J. Lally & Co., New York, April 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189205,provenance,"[J.J. Lally & Co., New York, 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189235,provenance,"[Christian Boehm, London, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189432,provenance,"Acquired from Kaikodo, New York."
+entity:artifact:2:189565,provenance,"[Kaikodo, New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189739,provenance,"[Kaikodo, New York, April 2000] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2000-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:189837,provenance,Hong Kong/London April/76
+entity:artifact:2:189839,provenance,Hong Kong/London April/76
+entity:artifact:2:189840,provenance,Hong Kong/London April/76
+entity:artifact:2:189841,provenance,Hong Kong/London June/76
+entity:artifact:2:189843,provenance,Hong Kong/London June/76
+entity:artifact:2:189844,provenance,Hong Kong/London June/76
+entity:artifact:2:190122,provenance,Hong Kong/London April/76
+entity:artifact:2:190123,provenance,Hong Kong/London April/76
+entity:artifact:2:190137,provenance,Hong Kong/London April/76
+entity:artifact:2:190138,provenance,Hong Kong/London April/76
+entity:artifact:2:190139,provenance,Hong Kong/London June/76
+entity:artifact:2:190142,provenance,Hong Kong/London April/76
+entity:artifact:2:190144,provenance,Hong Kong/London April/76
+entity:artifact:2:190145,provenance,Hong Kong/London April/76
+entity:artifact:2:190148,provenance,Hong Kong/London Nov./76
+entity:artifact:2:190159,provenance,"[J.J. Lally & Co., New York, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190160,provenance,"[J.J. Lally & Co., New York, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190161,provenance,"[J.J. Lally & Co., New York, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190162,provenance,"[J.J. Lally & Co., New York, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190163,provenance,"[J.J. Lally & Co., New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190164,provenance,"[J.J. Lally & Co., New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190165,provenance,"[J.J. Lally & Co., New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190167,provenance,Hong Kong/London June/76
+entity:artifact:2:190168,provenance,Hong Kong/London June/76
+entity:artifact:2:190169,provenance,Hong Kong/London April/76
+entity:artifact:2:190170,provenance,Hong Kong/London April/76
+entity:artifact:2:190184,provenance,Hong Kong/London June/76
+entity:artifact:2:190185,provenance,Hong Kong/London June/76
+entity:artifact:2:190209,provenance,"[J.J. Lally & Co., New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190217,provenance,"[J.J. Lally & Co., New York, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190218,provenance,"[J.J. Lally & Co., New York, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190471,provenance,"[J.J. Lally & Co., New York, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190472,provenance,"[J. J. Lally & Co., New York, November 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190809,provenance,"[J.J. Lally & Co., New York, August 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190810,provenance,"Acquired from Kaikodo, New York."
+entity:artifact:2:190811,provenance,"[J.J. Lally & Co., New York, August 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190850,provenance,"[Galerie Gisèle Croës - Arts d'Extreme-Orient, Brussels, Belgium, April 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1997-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190851,provenance,"[Berwald Oriental Art, London, March 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190853,provenance,"Peter W. Scheinman purchased at Sotheby's, New York between 1986 and 1988"
+entity:artifact:2:190854,provenance,"[J.J. Lally & Co., New York, July 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190928,provenance,"[The Chinese Porcelain Company, New York, March 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190929,provenance,"[J.J. Lally & Co., New York, March 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190930,provenance,"[J. J. Lally & Co., New York, 1999], sold; to Harvard University Art Museums, 1999."
+entity:artifact:2:190996,provenance,"[Eskenazi Ltd., London, April 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190997,provenance,"[J.J. Lally & Co., New York, April 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:190998,provenance,"[J.J. Lally & Co., New York, April 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191000,provenance,"[James Freeman, Kyoto, July 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191001,provenance,"[J.J. Lally & Co., New York, 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191003,provenance,"[J.J. Lally & Co., New York, August 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191004,provenance,"[J.J. Lally & Co., New York, August 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191054,provenance,"[Blitz Antiek en Kunsthandel, Amsterdam, the Netherlands, March 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191055,provenance,"[James Freeman, Kyoto, July 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191056,provenance,"[J. J. Lally & Co., New York, August 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191057,provenance,"[J. J. Lally & Co., New York, August 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191323,provenance,"[Kaikodo, New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191325,provenance,"Unidentified Owner. A portion of a collection sticker, presumably from an old French collection, adheres to the bottle's base.
+Unidentified Owner. An old Argentine Collection
+The Chinese Porcelain Company, New York, NY, USA, Sold to the HUAM."
+entity:artifact:2:191326,provenance,"[Zetterquist Gallery, New York, August 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191328,provenance,"[Alberts-Langdon, Inc., Boston, March 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:191329,provenance,"[Buttlefield & Butterfield, San Francisco, May 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192051,provenance,"[Kaikodo, New York, November 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192060,provenance,"[Kaikodo, New York, September 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192061,provenance,"[Kaikodo, New York, September 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192062,provenance,"[J.J. Lally & Co., New York, January 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192063,provenance,"[J.J. Lally & Co., New York, January 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192138,provenance,"[J.J. Lally & Co., New York, 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192140,provenance,"[Kaikodo, New York, October 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192166,provenance,"[J.J. Lally & Co., New York, February 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:19277,provenance,"[Sotheby's, New York, 31 March and 1 April 2005, lot. 11] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2005-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192947,provenance,"[Kaikodo, New York, April 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192948,provenance,"[J.J. Lally & Co., New York, January 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:192949,provenance,"[J.J. Lally & Co., New York, January 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:193287,provenance,"[Ariadne Gallery, New York, February 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:193288,provenance,"[Kaikodo, New York, September 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:193289,provenance,"[Kaikodo, New York, September 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:193290,provenance,"[Kaikodo, New York, September 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:193291,provenance,"[James Freeman, Kyoto, January 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:193292,provenance,"[Nicholas Grindley, London, April 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:195548,provenance,"Ex-coll: Robert M. Ferris, IV, Windsor, VT"
+entity:artifact:2:195610,provenance,"[Kaikodo, New York, 1996] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1996-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:195611,provenance,"[Berwald Oriental Art, London, November 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:196417,provenance,"[J.J. Lally & Co., New York, September 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:196983,provenance,"J.J. Lally & Co., New York, NY"
+entity:artifact:2:196994,provenance,"[Galerie Gisèle Croës - Arts d'Extreme-Orient, Brussels, Belgium, June 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:196995,provenance,"[Art Market, Beijing (by 1940)], sold; to Max Loehr, Lexington, MA (1940-1988), by inheritance; to his son Thomas Loehr (1988-1995), sold; through [J.J. Lally & Co., New York, 1995-1998] to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006.
+
+Notes:
+1. Max Loehr (b. 1903 - d. 1988)
+2. On long-term loan to Harvard University Art Museums from 1998 to 2006."
+entity:artifact:2:196996,provenance,"[Kaikodo, New York, September 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:196997,provenance,"[Berwald Oriental Art, London, August 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:196998,provenance,"[J.J. Lally & Co., New York, October 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:197026,provenance,"[Butterfield & Butterfield, San Francisco, June 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:197027,provenance,"[Zentner Collection, San Francisco, 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:197028,provenance,"[Berwald Oriental Art, London, 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:197049,provenance,"[Galerie Gisèle Croës - Arts d'Extreme-Orient, Brussels, Belgium, June 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:197050,provenance,"[J.J. Lally & Co., New York, September 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:197058,provenance,"[Zentner, San Francisco, 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006) partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:197661,provenance,"[J.J. Lally & Co., New York, May 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:197666,provenance,"[Galerie Gisèle Croës - Arts d'Extreme-Orient, Brussels, Belgium, June 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:198016,provenance,"Ralph C. Marcove, M.D. purchased from Sotheby's, New York"
+entity:artifact:2:198019,provenance,"[Berwald Oriental Art, London, 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:198023,provenance,"[Galerie Gisèle Croës - Arts d'Extreme-Orient, Brussels, Belgium, June 1998] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1998-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:198095,provenance,"[Blitz Antiek en Kunsthandel, Amsterdam, 1995], sold; to Harvard University Art Museums, 1995."
+entity:artifact:2:198359,provenance,Hong Kong/London Aug./76
+entity:artifact:2:198461,provenance,Hong Kong/London Aug./76
+entity:artifact:2:198961,provenance,"[Yamanaka & Co., New York, 6/6/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:198963,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:198984,provenance,"Dr. Arnold Knapp, New York (by 1951-1956), bequest; to the Fogg Museum, 1956."
+entity:artifact:2:198988,provenance,"[Yamanaka & Co., New York, 6/6/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:198992,provenance,"Hervey E. Wetzel, Boston (by 1919), bequest; to Fogg Art Museum, 1919."
+entity:artifact:2:199013,provenance,"[Yamanaka & Co., New York, 6/6/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:199179,provenance,"Dr. Arnold Knapp, New York (by 1951-1956), bequest; to the Fogg Museum, 1956."
+entity:artifact:2:199427,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased in Hong Kong or London, April 1976; bequest to Harvard Art Museum"
+entity:artifact:2:199592,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:199593,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:199594,provenance,"Dr. Arnold Knapp, New York (by 1951-1956), bequest; to the Fogg Museum, 1956."
+entity:artifact:2:199595,provenance,"Dr. Arnold Knapp, New York (by 1951-1956), bequest; to the Fogg Museum, 1956."
+entity:artifact:2:199631,provenance,"Dr. Arnold Knapp, New York (by 1951-1956), bequest; to the Fogg Museum, 1956."
+entity:artifact:2:199636,provenance,"Dr. Arnold Knapp, New York (by 1951-1956), bequest; to the Fogg Museum, 1956."
+entity:artifact:2:199690,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:199693,provenance,"Dr. Arnold Knapp, New York (by 1954), gift; to Fogg Art Museum, 1954."
+entity:artifact:2:199694,provenance,"Dr. Arnold Knapp, New York (by 1951-1956), bequest; to the Fogg Museum, 1956."
+entity:artifact:2:199695,provenance,"Dr. Arnold Knapp, New York (by 1951-1956), bequest; to the Fogg Museum, 1956."
+entity:artifact:2:199805,provenance,"[J. J. Lally & Co., New York, 1994], sold; to Harvard University Art Museums, 1994."
+entity:artifact:2:200101,provenance,"J.J. Lally & Co., New York"
+entity:artifact:2:200497,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:200547,provenance,"Ex-coll: Robert M. Ferris, IV, Windsor, VT"
+entity:artifact:2:200584,provenance,"[J. J. Lally & Co., New York, 1995], sold; to Harvard University Art Museums, 1995."
+entity:artifact:2:200715,provenance,"Ex-Collection: Mr. and Mrs. Gordon Morrill, Boston, MA"
+entity:artifact:2:200716,provenance,"Ex. Coll.: F. Gordon and Elizabeth Hunter Morrill, Boston, Mass."
+entity:artifact:2:200763,provenance,"J.J. Lally & Co., New York"
+entity:artifact:2:200764,provenance,"[J. J. Lally & Co., New York, 1990], sold; to Harvard University Art Museums, 1990."
+entity:artifact:2:200821,provenance,"The Ralph C. Marcove International Understanding Through Arts and Crafts Foundation purchased from J.J. Lally & Co., New York as a gift to the HUAM"
+entity:artifact:2:200837,provenance,"Dr. and Mrs. Milford D. Schulz purchased at the Louis Joseph auction company, Boston (ca. 1950s)."
+entity:artifact:2:200838,provenance,"Dr. and Mrs. Milford D. Schulz purchased at the Louis Joseph auction company, Boston (ca. 1950s)."
+entity:artifact:2:200839,provenance,"Dr. and Mrs. Milford D. Schulz purchased at the Louis Joseph auction company, Boston (ca. 1950s)."
+entity:artifact:2:200840,provenance,"Dr. and Mrs. Milford D. Schulz purchased at the Louis Joseph auction company, Boston (ca. 1950s)."
+entity:artifact:2:200868,provenance,"James H. Soong, Soong/Asian Art, San Francisco"
+entity:artifact:2:200957,provenance,"Dr. and Mrs. Milford D. Schulz purchased at the Louis Joseph auction company, Boston (ca. 1950s)."
+entity:artifact:2:200958,provenance,"Dr. and Mrs. Milford D. Schulz purchased at the Louis Joseph auction company, Boston (ca. 1950s)."
+entity:artifact:2:201014,provenance,"[J. J. Lally & Co., New York, 1995], sold; to Harvard University Art Museums, 1995."
+entity:artifact:2:201090,provenance,"Mao Liqing, Flushing, NY (by 1985), sold; to Harvard University Art Museums, 1985."
+entity:artifact:2:201091,provenance,"Mao Liqing, Flushing, NY (by 1985), sold; to Harvard University Art Museums, 1985."
+entity:artifact:2:201147,provenance,"Mao Liqing, Flushing, NY (by 1985), sold; to Harvard University Art Museums, 1985."
+entity:artifact:2:201240,provenance,"Dr. and Mrs. Milford D. Schulz purchased at the Louis Joseph auction company, Boston (ca. 1950s)."
+entity:artifact:2:201469,provenance,"Mr. and Mrs. Gilbert Zuellig, Switzerland, purchased from J.J. Lally & Co., New York, as a gift for the Harvard University Art Museums"
+entity:artifact:2:201470,provenance,"Ralph C. Marcove, M.D., New York purchased from Sotheby's, New York (1991)."
+entity:artifact:2:201471,provenance,"Ralph C. Marcove, M.D., New York purchased from Sotheby's, New York."
+entity:artifact:2:201472,provenance,"Ralph C. Marcove, M.D., New York purchased from Sotheby's, New York."
+entity:artifact:2:201473,provenance,"Ralph C. Marcove, M.D., New York purchased from Bluett and Sons, London."
+entity:artifact:2:201474,provenance,"Cunliffe Collection, London
+A.L. Hetherington, London"
+entity:artifact:2:201475,provenance,"Ralph C. Marcove, M.D., New York purchased from Sotheby's, New York (1991)."
+entity:artifact:2:201507,provenance,"Lois Orswell (1904-1998), Pomfret, Connecticut (by 1984), gift; to Harvard University Art Museums, 1984."
+entity:artifact:2:201530,provenance,"Mr. and Mrs. Fritz W. Bilfinger, Zurich, Switzerland (by 1984), sold; to Harvard University Art Museums, 1984."
+entity:artifact:2:201531,provenance,Mr. and Mrs. Fritz W. Bilfinger.
+entity:artifact:2:201532,provenance,Mr. and Mrs. Fritz W. Bilfinger.
+entity:artifact:2:201553,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased in Hong Kong, March 1972; gift to Harvard Art Museum"
+entity:artifact:2:201677,provenance,"Ex-coll: Robert M. Ferris, IV, Windsor, VT
+Hugh Moss, London"
+entity:artifact:2:201682,provenance,Mrs. Simon Kuznets purchased at an antique store in Beijing (Summer 1946).
+entity:artifact:2:201685,provenance,"Mr. and Mrs. Richard Rosenblum, Newton Center, MA
+E&J Frankel Gallery, New York, NY"
+entity:artifact:2:201687,provenance,"Mrs. Stanley Marcus, Dallas, TX (by 1981), gift; to Fogg Art Museum, 1981."
+entity:artifact:2:201774,provenance,"Robert M. Ferris, IV, Windsor, VT (by 1997), sold; to Harvard University Art Museums, 1997."
+entity:artifact:2:201778,provenance,"Robert M. Ferris, IV, Windsor, VT (by 1997), sold; to Harvard University Art Museums, 1997."
+entity:artifact:2:201785,provenance,"Ralph C. Marcove, M.D., New York purchased from Bluett and Sons, London."
+entity:artifact:2:201787,provenance,"Ralph C. Marcove, M.D., New York purchased from Sotheby's, London (ca. 1971).
+H.R.N. Norton, London
+Marquese Gia Quili Ferrini, Florence
+John Sparks, London"
+entity:artifact:2:201793,provenance,"Mrs. Irmgard Loehr, Portland, Oregon
+Dr. and Mrs. Max Loehr, Lexington, Mass."
+entity:artifact:2:201794,provenance,"J.J. Lally & Co., New York"
+entity:artifact:2:201795,provenance,"J.J. Lally & Co., New York"
+entity:artifact:2:201796,provenance,"Ralph C. Marcove, M.D., New York purchased from Sotheby's, New York (1991)."
+entity:artifact:2:201798,provenance,"[Bluett & Sons Ltd., London] sold; to Ralph C. Marcove, M.D., New York (by 1991), gift; to Harvard University Art Museums, 1991."
+entity:artifact:2:201801,provenance,"Ralph C. Marcove, M.D., New York purchased from Sotheby's, New York."
+entity:artifact:2:201804,provenance,"Ralph C. Marcove, M.D., New York purchased from Sotheby's or Christie's, New York (late 1980s)."
+entity:artifact:2:201807,provenance,"[Christie's, New York (by 1990)] sold; to Ralph C. Marcove, M.D., New York (by 1990-1991), gift; to Harvard University Art Museums, 1991."
+entity:artifact:2:201808,provenance,"Gregory (1922-1988) and Maia Henderson (?-2007), Medford, Ma (by 1969-1988) inherited; by Maia Henderson, Medford, Ma (1988-1991) partial gift and partial purchase; to Harvard University Art Museums, 1991."
+entity:artifact:2:201840,provenance,"Ex-collection: C.T. Loo & Co., New York"
+entity:artifact:2:201849,provenance,"Ex-coll: Robert M. Ferris, IV, Windsor, VT, 1978-1997
+Sotheby's, London, 30 March 1978 Chinese sale, lot 154"
+entity:artifact:2:201854,provenance,"Transmission in Japan:
+Gion Nankai (1677-1751)
+[Ikeno Taiga (1723-1776)]
+Kimura Kenkadô (1736-1802)
+[Kikuchi Gozan (1772-1855)]
+Yamaguchi Jinroku (active ca. 1863)
+[Nukina Kaioku (1778-1863)]
+Tomioka Tessai (1836-1924)
+Murata Kôkoku (1831-1912)
+[Tani Tetsuomi (1822-1905)]"
+entity:artifact:2:201983,provenance,"Mr. and Mrs. Samuel B. Grimson, New York (by 1983), gift; to Fogg Art Museum, 1983."
+entity:artifact:2:202121,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202370,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202380,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202388,provenance,"Nicholas Marshall Cummins (by 1891–1904), by inheritance; to Martina Josephine Cummins (1904–1945), by inheritance; to Philip Cummins (1945–after 1955), sold; to Richard Bryant Hobart, Cambridge, MA (after 1955–1961), gift; to Fogg Art Museum, 1961.
+
+Notes:
+1. Collector Nicholas Marshall Cummins (1834/5–1904), an Irish engineer employed by the British East Indian Railway Co. who retired to Magog, Quebec, Canada in 1891.
+2. Martina Josephine Cummins (d. 1945), wife of Nicholas Marshall Cummins
+3. Philip Cummins (1884–1986), son of Nicholas Marshall Cummins
+4. Richard Bryant Hobart (1885–1963), Harvard College Class of 1906"
+entity:artifact:2:202479,provenance,"[Bourgeois Galleries, New York, April 28, 1915] sold; to Paul J. Sachs, New York (1915-1965), bequest; to Fogg Art Museum, 1965."
+entity:artifact:2:202578,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202581,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202582,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202583,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202603,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202693,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202694,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202752,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202754,provenance,"Ex-Collection: Senator Theodore Francis Green (1867-1966), Rhode Island"
+entity:artifact:2:202762,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:202765,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:202770,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:202773,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:202789,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:202790,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:202794,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202804,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202805,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202806,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202831,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202842,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202977,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:202978,provenance,"Ex-Collection: Senator Theodore Francis Green, Rhode Island"
+entity:artifact:2:203174,provenance,"Richard Bryant Hobart, Cambridge, MA (by 1961), gift; to Fogg Art Museum, 1961.
+
+Note:
+Richard Bryant Hobart (1885–1963), Harvard College Class of 1906"
+entity:artifact:2:203226,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203252,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203253,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203260,provenance,Ex-collection: Edwin Mills
+entity:artifact:2:203272,provenance,"Mrs. Frederick B. Jennings, Ipswich, MA (by 1959), gift; to Fogg Art Museum, 1959."
+entity:artifact:2:203289,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203482,provenance,"Private Collection (by 1949), gift; to Fogg Art Museum, 1949."
+entity:artifact:2:203525,provenance,"[Yamanaka & Co., New York, March 1914] sold; to Grenville L. Winthrop, New York (1914-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203526,provenance,"[Yamanaka & Co., New York, March 1914] sold; to Grenville L. Winthrop, New York (1914-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203527,provenance,"[Yamanaka & Co., New York, March 2, 1932] sold; to Grenville L. Winthrop, New York (1932-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203528,provenance,"[Yamanaka & Co., New York, March 2, 1932] sold; to Grenville L. Winthrop, New York (1932-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203530,provenance,"Grenville L. Winthrop (1864-1943) purchased from Yamanaka & Co., New York"
+entity:artifact:2:203531,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203606,provenance,"Dr. Arnold Knapp, New York (by 1956), bequest; to Fogg Art Museum, 1956."
+entity:artifact:2:203607,provenance,"Dr. Arnold Knapp, New York (by 1951-1956), bequest; to the Fogg Museum, 1956."
+entity:artifact:2:203632,provenance,Ex-collection: Edwin Mills
+entity:artifact:2:203785,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203788,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203789,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203865,provenance,"[Yamanaka & Co., New York, 6/6/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:203866,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203867,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203870,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203872,provenance,"Mrs. Warfield Longcope, Baltimore, MD (by 1946), gift; to Fogg Art Museum, 1946."
+entity:artifact:2:203944,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203945,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203946,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203947,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:203950,provenance,"Mrs. Edward Norris (by 1948), gift; to Fogg Art Museum, 1948."
+entity:artifact:2:203956,provenance,"C. T. Loo, Paris (by 1950), gift; to Fogg Art Museum, 1950."
+entity:artifact:2:203979,provenance,"[Edgar Worch vorm. Ludwig Glenk Antiquitäten, Berlin, January 6, 1931] sold; to Grenville L. Winthrop, New York (1931-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203980,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York (May 1934)"
+entity:artifact:2:203981,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203983,provenance,"[Yamanaka & Co., New York, June 29, 1936] sold; to Grenville L. Winthrop, New York (1936-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203986,provenance,"[C. T. Loo & Co., New York, March 17, 1942] sold; to Grenville L. Winthrop, New York (1942-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203987,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203988,provenance,"[C. T. Loo & Co., New York, March 17, 1942] sold; to Grenville L. Winthrop, New York (1942-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203989,provenance,"[Yamanaka & Co., New York, January 28, 1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203993,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203994,provenance,"[Yamanaka & Co., New York, January 28, 1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203995,provenance,"[Yamanaka & Co., New York, April 22, 1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203997,provenance,"[C. T. Loo & Co., Paris, May 1, 1930, Lot 14215] sold; to Grenville L. Winthrop, New York (1930-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:203999,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204001,provenance,"[Yamanaka & Co., New York, January 4, 1915] sold; to Grenville L. Winthrop, New York (1915-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204004,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204005,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204006,provenance,"[Yamanaka & Co., New York, July 2, 1936] sold; to Grenville L. Winthrop, New York (1936-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204037,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204041,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204042,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204044,provenance,"[C. T. Loo, Paris] sold; to Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204045,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204048,provenance,"[C. T. Loo & Co., Paris, April 29, 1932] sold; to Grenville L. Winthrop, New York (1932-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204049,provenance,"[Yamanaka & Co., New York, January 12, 1931] sold; to Grenville L. Winthrop, New York (1931-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204066,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204067,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204068,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204071,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204072,provenance,"Grenville L. Winthrop (1864-1943) purchased from Yamanaka & Co., 1937."
+entity:artifact:2:204074,provenance,"[Yamanaka & Co., New York (by 1940)] sold; to Grenville L. Winthrop, New York (by 1940-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204075,provenance,"[Yamanaka & Co., New York, March 2, 1932] sold; to Grenville L. Winthrop, New York (1932-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204076,provenance,"[Yamanaka & Co., New York, March 2, 1932] sold; to Grenville L. Winthrop, New York (1932-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204077,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204088,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York"
+entity:artifact:2:204090,provenance,"[C. T. Loo & Co., New York, December 7, 1933] sold; to Grenville L. Winthrop, New York (1933-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204092,provenance,"[Yamanaka & Co., New York, 11/12/1935] sold; to Grenville L. Winthrop, New York (1935-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:204093,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204094,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204102,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204103,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204107,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204115,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York"
+entity:artifact:2:204117,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York (February 1931)"
+entity:artifact:2:204118,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York"
+entity:artifact:2:204120,provenance,"Grenville L. Winthrop purchased from Lai-Yuan & Co., New York, June 1916"
+entity:artifact:2:204130,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204132,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204133,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204138,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204139,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204140,provenance,"[Yamanaka & Co., New York, May 11, 1936] sold; to Grenville L. Winthrop, New York (1936-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204141,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204162,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204163,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204167,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204168,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204169,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204198,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204199,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204200,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204211,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204212,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204213,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204214,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:204243,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York"
+entity:artifact:2:204244,provenance,"Grenville L. Winthrop purchased from Lai-Yuan & Co., Paris (March 1920)"
+entity:artifact:2:204245,provenance,"Grenville L. Winthrop purchased from C.T. Loo, New York (October 1931)"
+entity:artifact:2:204246,provenance,"Grenville L. Winthrop purchased from C.T. Loo, New York (October 1931)"
+entity:artifact:2:204269,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York"
+entity:artifact:2:204272,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York"
+entity:artifact:2:204274,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York (December 1936)"
+entity:artifact:2:204276,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York (May 1934)"
+entity:artifact:2:204277,provenance,"Grenville L. Winthrop purchased from C.T. Loo & Co., New York (May 1942)"
+entity:artifact:2:204278,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204290,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204295,provenance,"[A. W. Bahr, March 23, 1929] sold; to Grenville L. Winthrop, New York (1929-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204303,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204304,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York (April 1936)"
+entity:artifact:2:204305,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York (February 1938)"
+entity:artifact:2:204306,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York"
+entity:artifact:2:204307,provenance,"[Yamanaka & Co., New York, March 1, 1935] sold; to Grenville L. Winthrop, New York (1935-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204308,provenance,"Grenville L. Winthrop purchased from C.T. Loo & Co., New York"
+entity:artifact:2:204309,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York (May 1934)"
+entity:artifact:2:204310,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York (December 1936)"
+entity:artifact:2:204313,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204315,provenance,"[Yamanaka & Co., New York, February 21, 1935] sold; to Grenville L. Winthrop, New York (1935-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204344,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204345,provenance,"[Yamanaka & Co., New York, April 22, 1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204346,provenance,"[Yamanaka & Co., New York, February 21, 1935] sold; to Grenville L. Winthrop, New York (1935-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204347,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204348,provenance,"[Yamanaka & Co., New York, 4/22/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:204349,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204350,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204351,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204352,provenance,"[Yamanaka & Co., New York, 1/19/1931] sold; to Grenville L. Winthrop, New York (1931-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204353,provenance,"[Yamanaka & Co., New York, 1/19/1931] sold; to Grenville L. Winthrop, New York (1931-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204354,provenance,"[Yamanaka & Co., New York, 12/5/1931] sold; to Grenville L. Winthrop, New York (1931-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204355,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204356,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204358,provenance,"[Yamanaka & Co., New York, January 20, 1931] sold; to Grenville L. Winthrop, New York (1931-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204362,provenance,"[Yamanaka & Co., New York, October 2, 1914] sold; to Grenville L. Winthrop, New York (1914-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204363,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204364,provenance,"[Yamanaka & Co., New York, 10/19/1931] sold; to Grenville L. Winthrop, New York (1931-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204365,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204366,provenance,"[Yamanaka and Company, New York, (by 1941)], sold; to Grenville L. Winthrop, New York and Lenox, MA (1941-1943), bequest; to Fogg Museum."
+entity:artifact:2:204368,provenance,"[Yamanaka & Co., New York, August 5, 1930] sold; to Grenville L. Winthrop, New York (1930-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204379,provenance,"[Yamanaka & Co., New York, 12/31/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:204386,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204387,provenance,"[Yamanaka & Co., New York, 12/31/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:204389,provenance,"[C. T. Loo & Co., New York, January 28, 1930] sold; to Grenville L. Winthrop, New York (1930-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204391,provenance,"[Ton-Ying & Co., New York, November 12, 1935] sold; to Grenville L. Winthrop, New York (1935-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204396,provenance,"[Yamanaka & Co., New York, by 1930] sold; to Grenville L. Winthrop, New York (by 1930-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204417,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204421,provenance,"[Yamanaka & Co., New York, March 1, 1935] sold; to Grenville L. Winthrop, New York (1935-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204422,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204423,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204424,provenance,"[C. T. Loo & Co.,Paris, May 1, 1930] sold; to Grenville L. Winthrop, New York (1930-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204426,provenance,"[Yamanaka & Co., New York, 5/23/1932] sold; to Grenville L. Winthrop, New York (1932-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204427,provenance,"[Yamanaka & Co., New York, 5/23/1932] sold; to Grenville L. Winthrop, New York (1932-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204428,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204429,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204430,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204431,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204432,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204440,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204441,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204459,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204463,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204466,provenance,"Grenville L. Winthrop purchased from Yamanaka & Co., New York (January 1931)"
+entity:artifact:2:204478,provenance,"[Yamanaka & Co., New York, 1/28/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943"
+entity:artifact:2:204479,provenance,"[Yamanaka & Co., New York, 1/28/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943"
+entity:artifact:2:204481,provenance,"[Yamanaka & Co., New York, December 31, 1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204482,provenance,"[Yamanaka & Co., New York, December 31,1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204485,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204491,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204528,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204531,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204532,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204533,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204541,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204547,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204553,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204563,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204564,provenance,"[C. T. Loo & Co., New York, January 23, 1933] sold; to Grenville L. Winthrop, New York (1933-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204565,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204566,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204567,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204571,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204574,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204575,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204576,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204580,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204581,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204587,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204589,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204593,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204598,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204605,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204606,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204607,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204612,provenance,"[C. T. Loo & Co., New York, May 18, 1932] sold; to Grenville L. Winthrop, New York (1932-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204613,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204618,provenance,"[C. T. Loo & Co., New York, October 1, 1940] sold; to Grenville L. Winthrop, New York (1940-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204619,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204620,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204621,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204623,provenance,"[Yamanaka & Co., New York, January 28, 1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204624,provenance,"[Yamanaka & Co., New York, 1/28/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943"
+entity:artifact:2:204631,provenance,"[A. W. Bahr, March 23, 1929] sold; to Grenville L. Winthrop, New York (1929-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204632,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204636,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204639,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204641,provenance,"[Yamanaka & Co., New York, January 13, 1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204642,provenance,"[Yamanaka & Co., New York, 1/28/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943"
+entity:artifact:2:204645,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204646,provenance,"[Yamanaka & Co., New York, January 28, 1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204648,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204651,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204652,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204656,provenance,"[Yamanaka & Co., New York, 12/31/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:204660,provenance,"[Yamanaka & Co., New York, December 5, 1931] sold; to Grenville L. Winthrop, New York (1931-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204661,provenance,"[C. T. Loo & Co., New York, January 18, 1934] sold; to Grenville L. Winthrop, New York (1934-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204664,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204665,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204682,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204683,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204684,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204686,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204709,provenance,"[Yamanaka & Co., New York, January 7, 1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204710,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204729,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204734,provenance,"[C. T. Loo & Co., New York, March 29, 1935] sold; to Grenville L. Winthrop, New York (1935-1943), bequest; to Harvard Art Museums, 1943"
+entity:artifact:2:204737,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204741,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204745,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204746,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204747,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204749,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204761,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204774,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204780,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204781,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204782,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204785,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204792,provenance,"[Yamanaka & Co., New York, December 28, 1940] sold; to Grenville L. Winthrop, New York (1940-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204794,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204795,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204796,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204797,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204799,provenance,"[A. W. Bahr, March 23, 1929] sold; to Grenville L. Winthrop, New York (1929-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204805,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204810,provenance,"[Yamanaka & Co., New York, December 28, 1940] sold; to Grenville L. Winthrop, New York (1940-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204811,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204812,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204813,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204815,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204818,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204821,provenance,"[Yamanaka & Co., New York] sold; to Grenville L. Winthrop, New York (by 1918-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204824,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204830,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204854,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204860,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204863,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204875,provenance,"[Yamanaka & Co., New York, October 21, 1929] sold; to Grenville L. Winthrop, New York (1929-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204876,provenance,"[Yamanaka & Co., New York, October 21, 1929] sold; to Grenville L. Winthrop, New York (1929-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204895,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204905,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204921,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204924,provenance,"[Ton-Ying & Co., January 8, 1935] sold; to Grenville L. Winthrop, New York (1935-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204955,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204960,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204967,provenance,"[C. T. Loo & Co., New York, December 22, 1933] sold; to Grenville L. Winthrop, New York (1933-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204977,provenance,"[C. T. Loo & Co., New York, January 27, 1932] sold; to Grenville L. Winthrop, New York (1932-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204980,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204992,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:204993,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205007,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205015,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205020,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205025,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205028,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205037,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205044,provenance,"[Yamanaka & Co., New York, March 12, 1918] sold; to Grenville L. Winthrop, New York (1918-1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205058,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205060,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205061,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205064,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205094,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205144,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205166,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205167,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205168,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205169,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205195,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205226,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205228,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205229,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205261,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205265,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205271,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205274,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205278,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205280,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205282,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205297,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205301,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205360,provenance,"Ernest B. and Helen Pratt Dane, Brookline, MA (by 1942), gift; to Fogg Art Museum, 1942."
+entity:artifact:2:205361,provenance,"Ernest B. and Helen Pratt Dane, Brookline, MA (by 1942), gift; to Fogg Art Museum, 1942."
+entity:artifact:2:205369,provenance,"Ernest B. and Helen Pratt Dane, Brookline, MA (by 1942), gift; to Fogg Art Museum, 1942."
+entity:artifact:2:205523,provenance,"Ernest B. and Helen Pratt Dane, Brookline, MA (by 1942), gift; to Fogg Art Museum, 1942."
+entity:artifact:2:205544,provenance,"Grenville L. Winthrop, New York (by 1943), bequest; to Fogg Art Museum, 1943."
+entity:artifact:2:205669,provenance,"Ernest B. and Helen Pratt Dane, Brookline, MA (by 1942), gift; to Fogg Art Museum, 1942."
+entity:artifact:2:205793,provenance,"Laurence Sickman, Kansas, MO (by 1934 - 1937), sold; to Fogg Art Museum, 1937
+
+Note:
+Laurence Sickman (1906-1988)"
+entity:artifact:2:206190,provenance,"Laurence Sickman, Kansas, MO (by 1934 - 1937), sold; to Fogg Art Museum, 1937
+
+Note:
+Laurence Sickman (1906 -1988)"
+entity:artifact:2:206495,provenance,"Langdon Warner (1881-1955), Cambridge, Ma (by 1929), gift; to Fogg Art Museum, 1929."
+entity:artifact:2:20955,provenance,"William B. Goldstein, M.D. purchased from Kaikodo, New York"
+entity:artifact:2:20956,provenance,"E.M. Soudavar, Geneva Switzerland"
+entity:artifact:2:20957,provenance,"[R. H. Ellsworth Ltd., New York, 2004] gift; to Harvard University Art Museums, 2004."
+entity:artifact:2:20968,provenance,"William B. Goldstein, M.D., Wilton, Conn. purchased from J.J. Lally & Co. , New York"
+entity:artifact:2:20970,provenance,"William B. Goldstein, M.D. purchased from Blitz Antiek en Kunsthandel / Blitz Chinese Ceramics and Works of Art, Amsterdam, The Netherlands"
+entity:artifact:2:20972,provenance,"Richard Bryant Hobart, Cambridge, MA (by 1963), by inheritance; to Mabel Hobart Wentworth, Washington DC (1963–1969), sold; through [Parke Bernet Galleries, New York, December 1969], sold; through [Spink and Son, London, 1969]; to F. Gordon and Elizabeth Hunter Morrill Collection, Boston/ Del Ray, Florida/ Florence, Italy, (1969–2003), sold; to [Doyle Galleries, New York, September 2003], sold; to [S. Marchant & Son, London, September 2003–March 2005], sold; to [Chinese Porcelain Company, New York, March–August 2005], sold; to Harvard University Art Museum, August 2005.
+
+Notes:
+1. Richard Bryant Hobart (1885–1963), Harvard College Class of 1906
+2. Mabel ""Muffie"" Hobart Wentworth Brandon Cabot (b. 1936), daughter of Richard Bryant Hobart and Janet Elliott Wulsin (1894–1963)
+3. Ferdinand Gordon Morrill (1910–2000)
+4. Elizabeth Hunter Morrill (1912–2003)"
+entity:artifact:2:20978,provenance,"[J.J. Lally & Co., New York, 2005] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2005-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:21115,provenance,"William B. Goldstein, M.D. purchased from Roger Keverne, London"
+entity:artifact:2:21116,provenance,Commissioned from the artist by the Harvard University Art Museums
+entity:artifact:2:21117,provenance,"[Sotheby's, New York, 31 March and 1 April 2005, lot. 3] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2005-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:31296,provenance,"Robert D. Mowry, Brookline, Mass. (acquired in November 2002)
+Susan Chen Collection, Hong Kong"
+entity:artifact:2:4641,provenance,"Anthony M. Solomon, New York (by 2003), gift; to Harvard University Art Museums, 2003."
+entity:artifact:2:47803,provenance,Hong Kong/London April/76
+entity:artifact:2:47804,provenance,Hong Kong/London April/76
+entity:artifact:2:47805,provenance,Hong Kong/London April/76
+entity:artifact:2:47806,provenance,Hong Kong/London April/76
+entity:artifact:2:47807,provenance,Hong Kong/London April/76
+entity:artifact:2:47808,provenance,Hong Kong/London April/76
+entity:artifact:2:47809,provenance,Hong Kong/London April/76
+entity:artifact:2:47965,provenance,Hong Kong/London April/76
+entity:artifact:2:47966,provenance,Hong Kong/London April/76
+entity:artifact:2:47967,provenance,Hong Kong/London April/76
+entity:artifact:2:47968,provenance,Hong Kong/London April/76
+entity:artifact:2:48083,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48084,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48085,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48086,provenance,Hong Kong/London April/76
+entity:artifact:2:48087,provenance,Hong Kong/London April/76
+entity:artifact:2:48129,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48130,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48131,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48132,provenance,"Senator Theodore Francis Green, Rhode Island (by 1968), sold; [estate sale] to Philip Hofer, Cambridge, MA (1968-1984), bequest; to Harvard Art Museums, 1984."
+entity:artifact:2:48147,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48148,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48149,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48150,provenance,Hong Kong/London April/76
+entity:artifact:2:48183,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48237,provenance,Hong Kong/London April/76
+entity:artifact:2:48238,provenance,Hong Kong/London April/76
+entity:artifact:2:48239,provenance,Hong Kong/London April/76
+entity:artifact:2:48240,provenance,Hong Kong/London April/76
+entity:artifact:2:48284,provenance,Hong Kong/London April/76
+entity:artifact:2:48285,provenance,Hong Kong/London April/76
+entity:artifact:2:48286,provenance,Hong Kong/London April/76
+entity:artifact:2:48287,provenance,Hong Kong/London April/76
+entity:artifact:2:48288,provenance,Hong Kong/London April/76
+entity:artifact:2:48372,provenance,Komor 11/67
+entity:artifact:2:48395,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48601,provenance,Hong Kong/London April/76
+entity:artifact:2:48602,provenance,Hong Kong/London April/76
+entity:artifact:2:48603,provenance,Hong Kong/London April/76
+entity:artifact:2:48604,provenance,Hong Kong/London June/76
+entity:artifact:2:48605,provenance,Hong Kong/London April/76
+entity:artifact:2:48606,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48607,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48613,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48614,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48644,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48645,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48646,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48647,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48648,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48649,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48650,provenance,"Senator Theodore Francis Green, Rhode Island (by 1968), sold; [estate sale] to Philip Hofer, Cambridge, MA (1968-1984), bequest; to Harvard Art Museums, 1984."
+entity:artifact:2:48651,provenance,"Senator Theodore Francis Green, Rhode Island (by 1968), sold; [estate sale] to Philip Hofer, Cambridge, MA (1968-1984), bequest; to Harvard Art Museums, 1984."
+entity:artifact:2:48652,provenance,"Senator Theodore Francis Green, Rhode Island (by 1968), sold; [estate sale] to Philip Hofer, Cambridge, MA (1968-1984), bequest; to Harvard Art Museums, 1984."
+entity:artifact:2:48665,provenance,"Senator Theodore Francis Green, Rhode Island (by 1968), sold; [estate sale] to Philip Hofer, Cambridge, MA (1968-1984), bequest; to Harvard Art Museums, 1984."
+entity:artifact:2:48666,provenance,"Senator Theodore Francis Green, Rhode Island (by 1968), sold; [estate sale] to Philip Hofer, Cambridge, MA (1968-1984), bequest; to Harvard Art Museums, 1984."
+entity:artifact:2:48670,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48671,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48672,provenance,"Senator Theodore Francis Green, Rhode Island (by 1968), sold; [estate sale] to Philip Hofer, Cambridge, MA (1968-1984), bequest; to Harvard Art Museums, 1984."
+entity:artifact:2:48673,provenance,"Senator Theodore Francis Green, Rhode Island (by 1968), sold; [estate sale] to Philip Hofer, Cambridge, MA (1968-1984), bequest; to Harvard Art Museums, 1984."
+entity:artifact:2:48783,provenance,Hong Kong/London April/76
+entity:artifact:2:48784,provenance,Hong Kong/London April/76
+entity:artifact:2:48785,provenance,Hong Kong/London April/76
+entity:artifact:2:48786,provenance,Hong Kong/London June/76
+entity:artifact:2:48787,provenance,Hong Kong/London June/76
+entity:artifact:2:48788,provenance,Hong Kong/London June/76
+entity:artifact:2:48789,provenance,Hong Kong/London June/76
+entity:artifact:2:48790,provenance,Hong Kong/London April/76
+entity:artifact:2:48791,provenance,Hong Kong/London April/76
+entity:artifact:2:48792,provenance,Hong Kong/London April/76
+entity:artifact:2:48793,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48794,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48795,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48796,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48797,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48828,provenance,Hong Kong/London April/76
+entity:artifact:2:48829,provenance,Hong Kong/London April/76
+entity:artifact:2:48830,provenance,Hong Kong/London April/76
+entity:artifact:2:48831,provenance,Hong Kong/London April/76
+entity:artifact:2:48832,provenance,Hong Kong/London June/76
+entity:artifact:2:48833,provenance,Hong Kong/London June/76
+entity:artifact:2:48834,provenance,Hong Kong/London April/76
+entity:artifact:2:48835,provenance,Hong Kong/London April/76
+entity:artifact:2:48836,provenance,Hong Kong/London April/76
+entity:artifact:2:48837,provenance,Hong Kong/London June/76
+entity:artifact:2:48838,provenance,Hong Kong/London April/76
+entity:artifact:2:48839,provenance,Hong Kong/London April/76
+entity:artifact:2:48840,provenance,Hong Kong/London April/76
+entity:artifact:2:48841,provenance,Hong Kong/London April/76
+entity:artifact:2:48842,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48843,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48844,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48847,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48848,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48849,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48887,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48888,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48930,provenance,Hong Kong/London April/76
+entity:artifact:2:48931,provenance,Hong Kong/London April/76
+entity:artifact:2:48932,provenance,Hong Kong/London April/76
+entity:artifact:2:48933,provenance,Hong Kong/London April/76
+entity:artifact:2:48934,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48935,provenance,Hong Kong/London Aug./76
+entity:artifact:2:48939,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48940,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:48941,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49026,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49038,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49048,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49049,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49050,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49051,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49052,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49053,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49054,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49055,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49056,provenance,Hong Kong/London April/76
+entity:artifact:2:49057,provenance,Hong Kong/London April/76
+entity:artifact:2:49101,provenance,Hong Kong/London April/76
+entity:artifact:2:49113,provenance,Hong Kong/London April/76
+entity:artifact:2:49114,provenance,Hong Kong/London April/76
+entity:artifact:2:49115,provenance,Hong Kong/London April/76
+entity:artifact:2:49116,provenance,Hong Kong/London April/76
+entity:artifact:2:49117,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49118,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49119,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49120,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49121,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49122,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49123,provenance,Hong Kong/London April/76
+entity:artifact:2:49124,provenance,Hong Kong/London April/76
+entity:artifact:2:49125,provenance,Hong Kong/London April/76
+entity:artifact:2:49126,provenance,Hong Kong/London April/76
+entity:artifact:2:49149,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49150,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49151,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49152,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49153,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49154,provenance,Hong Kong/London April/76
+entity:artifact:2:49155,provenance,Hong Kong/London April/76
+entity:artifact:2:49156,provenance,Hong Kong/London April/76
+entity:artifact:2:49169,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49170,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49184,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49190,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49191,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49192,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49193,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49194,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49213,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49214,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49215,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49216,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49217,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49218,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49219,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49220,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49221,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49222,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49223,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49224,provenance,Hong Kong/London April/76
+entity:artifact:2:49225,provenance,Hong Kong/London April/76
+entity:artifact:2:49265,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49266,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49267,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49268,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49278,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49279,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49502,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:49511,provenance,"Philip Hofer (1898-1984), Cambridge, MA, purchased from the estate of Rhode Island Senator Theodore Francis Green, July 1968; bequest to Harvard Art Museum"
+entity:artifact:2:5108,provenance,"J.J. Lally & Co., New York
+William B. Goldstein, M.D., Wilton, Conn.
+Hurst Gallery, Cambridge, Mass.
+Mrs. Samuel T. Peters, New York"
+entity:artifact:2:52757,provenance,"William B. Goldstein, M.D. purchased from Blitz Antiek en Kunsthandel / Blitz Chinese Ceramics and Works of Art, Amsterdam, The Netherlands"
+entity:artifact:2:5277,provenance,"Hong Kong, 1990. [J.J. Lally & Co., New York, 1993], sold; to Ralph C. Marcove, New York (1993-2001), transfer; to Trust u/w/o Ralph C. Marcove FBO C Marcove, New York (2001-2016), sold; to Harvard Art Museums, 2016. 
+Footnote:
+Ralph C. Marcove, MD (1929-2001)"
+entity:artifact:2:54270,provenance,"William B. Goldstein, M.D. purchased from J.J. Lally & Co., New York"
+entity:artifact:2:54271,provenance,"William B. Goldstein, M.D. purchased from Robert H. Ellsworth, New York"
+entity:artifact:2:54272,provenance,"William B. Goldstein, M.D. purchased from J.J. Lally & Co., New York"
+entity:artifact:2:54285,provenance,"William B. Goldstein, M.D. purchased from The Chinese Porcelain Company, New York"
+entity:artifact:2:54286,provenance,"William B. Goldstein, M.D. purchased from Robert H. Ellsworth, New York"
+entity:artifact:2:54287,provenance,"William B. Goldstein, M.D. purchased from The Chinese Porcelain Company, New York"
+entity:artifact:2:54288,provenance,"William B. Goldstein, M.D. purchased from J.J. Lally & Co., New York"
+entity:artifact:2:54289,provenance,"William B. Goldstein, M.D. purchased from J.J. Lally & Co., New York"
+entity:artifact:2:54339,provenance,"William B. Goldstein, M.D. purchased from J.J. Lally & Co., New York"
+entity:artifact:2:54340,provenance,"William B. Goldstein, M.D. purchased from Kaikodo, New York"
+entity:artifact:2:54341,provenance,"William B. Goldstein, M.D. purchased from The Chinese Porcelain Company, New York"
+entity:artifact:2:54342,provenance,"William B. Goldstein, M.D. purchased from Blitz Antiek en Kunsthandel / Blitz Chinese Ceramics and Works of Art, Amsterdam, The Netherlands
+Provenance: Ray Thompson Collection"
+entity:artifact:2:54343,provenance,"William B. Goldstein, M.D. purchased from The Chinese Porcelain Company, New York"
+entity:artifact:2:54471,provenance,"[Uragami Sokyu-do Co., Ltd., Tokyo, 2004] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2004-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:54474,provenance,"Peter W. Scheinman purchased at Sotheby's, New York (December 1992, Lot no. 261)"
+entity:artifact:2:54481,provenance,"Peter W. Scheinman purchased at Christie's, New York in September 2003 sale (Lot 243)
+Formerly in the collection of Mr. and Mrs. James E. Breece III, Evanston, Illinois
+Formerly in the collection of James Godfrey, Charlottesville, Virginia
+Formerly in the collection of Jan Hellner Collection, Stockholm"
+entity:artifact:2:54482,provenance,"David and Simone Schloss Gandler, Pelham Manor, NY
+Lillian Schloss, New York, NY"
+entity:artifact:2:54550,provenance,"David and Simone Schloss Gandler, Pelham Manor, NY
+Lillian Schloss, New York, NY"
+entity:artifact:2:54630,provenance,"J.J. Lally & Co. , New York"
+entity:artifact:2:54631,provenance,"William B. Goldstein, M.D. purchased from J.J. Lally & Co., New York (Lally inventory number 3170)"
+entity:artifact:2:54632,provenance,"William B. Goldstein, M.D. purchased from J.J. Lally & Co., New York"
+entity:artifact:2:54633,provenance,"William B. Goldstein, M.D. purchased from J.J. Lally & Co., New York"
+entity:artifact:2:54634,provenance,"William B. Goldstein, M.D. purchased from Andrew Kahane, New York"
+entity:artifact:2:54635,provenance,"William B. Goldstein, M.D. purchased from James Freeman, Kyoto, Japan"
+entity:artifact:2:54636,provenance,"William B. Goldstein, M.D. purchased from James Freeman, Kyoto, Japan"
+entity:artifact:2:54860,provenance,"Blitz Antiek en Kunsthandel / Blitz Chinese Ceramics and Works of Art, The Netherlands"
+entity:artifact:2:54861,provenance,"[J.J. Lally & Co., New York, May 2004] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2004-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:54916,provenance,"Shirley Nye, New York, NY, gift to HUAM
+Shirley Nye purchased from Blitz Oriental Art, Amsterdam, The Netherlands"
+entity:artifact:2:54917,provenance,"[J.J. Lally & Co., New York, 2004] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2004-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:54920,provenance,"David and Simone Schloss Gandler, Pelham Manor, NY
+Lillian Schloss, New York, NY"
+entity:artifact:2:54939,provenance,"Peter W. Scheinman purchased at Christie's, New York in September 2001 (Sale 9822, Lot 155)
+Formerly in the Mr. and Mrs. Myron S. Falk, Jr. Collection, New York
+Mr. and Mrs. Myron S. Falk, Jr. purchased from dealer Mathias Komor, New York, in 1949"
+entity:artifact:2:54940,provenance,"Peter W. Scheinman purchased at Sotheby's, London in June 1992 sale (Lot 123)"
+entity:artifact:2:55195,provenance,"Purchased from James Soong, San Francisco, in March 1988."
+entity:artifact:2:5661,provenance,"Linda Wrigglesworth Ltd., London"
+entity:artifact:2:5859,provenance,"J.J. Lally & Co., New York
+William B. Goldstein, M.D., Wilton, Conn."
+entity:artifact:2:58969,provenance,"Richard Bryant Hobart, Cambridge, MA, (by 1963), sold; to Sylvan Barnet and William Burto, Cambridge, MA, (1963-2014), gift from Sylvan Barnet and bequest from William Burto; to the Harvard Art Museums, 2014."
+entity:artifact:2:59008,provenance,"[William H. Wolff, New York, (by late 1960s)], sold; to Sylvan Barnet and William Burto, Cambridge, MA, (late 1960s-2014), gift from Sylvan Barnet and bequest from William Burto; to the Harvard Art Museums, 2014."
+entity:artifact:2:6314,provenance,"[Bluett & Sons, London, 1968], sold; to Ralph C. Marcove, New York (1968-2001), transfer; to Trust u/w/o Ralph C. Marcove FBO C Marcove, New York (2001-2016), sold; to Harvard Art Museums, 2016. 
+Footnote:
+Ralph C. Marcove, MD (1929-2001)"
+entity:artifact:2:6315,provenance,"Edgar Worch, Berlin and New York, by 1991, sold; to [J.J. Lally & Co., New York, 1991], sold; to Ralph C. Marcove, New York (YEAR-2001), transfer; to Trust u/w/o Ralph C. Marcove FBO C Marcove, New York (2001-2016), sold; to Harvard Art Museums, 2016. 
+Footnote:
+Ralph C. Marcove, MD (1929-2001)"
+entity:artifact:2:6318,provenance,"H. Medill Sarkisian(1909-1993) purchased object in China between 1946 and 1949
+Collection of H. Medill Sarkisian, Denver, CO (1946/49-1965)
+Private Collection, San Francisco, CA (1965-2001), purchased from H. Medill Sarkisian in 1965
+J.J. Lally & Co., New York, NY  (2001), purchased from the private collector
+William B. Goldstein, M.D., Wilton, CT  (2001-2009), purchased from J.J. Lally & Co.
+Partial Gift/Partial Purchase, Arthur M. Sackler Museum, Harvard Art Museum (2009)"
+entity:artifact:2:64558,provenance,"Peter W. Scheinman purchased from Luen Chai Curios, Hong Kong"
+entity:artifact:2:64559,provenance,"Peter W. Scheinman purchased at Sotheby's or Christie's, New York or London"
+entity:artifact:2:6758,provenance,"Peter W. Scheinman, New York, by 1998, sold through [Christie’s, New York, 25 March 1998, lot 162]; to Ralph C. Marcove, New York (1998-2001), transfer; to Trust u/w/o Ralph C. Marcove FBO C Marcove, New York (2001-2016), sold; to Harvard Art Museums, 2016. 
+Footnote:
+Ralph C. Marcove, MD (1929-2001)"
+entity:artifact:2:6759,provenance,"[Warren E. Cox, New York, 1960s], sold; to Ralph C. Marcove, New York (1960s-2001), transfer; to Trust u/w/o Ralph C. Marcove FBO C Marcove, New York (2001-2016), sold; to Harvard Art Museums, 2016.
+Footnote:
+Ralph C. Marcove, MD (1929-2001)"
+entity:artifact:2:6760,provenance,"[Parke-Bernet Galleries, New York, 1969], sold; to Ralph C. Marcove, New York (1969-2001), transfer; to Trust u/w/o Ralph C. Marcove FBO C Marcove, New York (2001-2016), sold; to Harvard Art Museums, 2016. 
+Footnote:
+Ralph C. Marcove, MD (1929-2001)"
+entity:artifact:2:6762,provenance,"[Bluett & Sons, London, 1960s], sold; to Ralph C. Marcove, New York (1960s-2001), transfer; to Trust u/w/o Ralph C. Marcove FBO C Marcove, New York (2001-2016), sold; to Harvard Art Museums, 2016. 
+Footnote:
+Ralph C. Marcove, MD (1929-2001)"
+entity:artifact:2:6786,provenance,"[Warren E. Cox, New York (1950s)]. [The Chinese Porecelain Company, New York, (by 1996)], sold; to Ralph C Marcove, New York (1996-2001) inherited; by Christina J. Marcove, New York (2001-2015), gift; to the Harvard Art Museums."
+entity:artifact:2:6791,provenance,"William B. Goldstein, M.D., Wilton, Connecticut.
+Purchased from J.J. Lally & Co., New York"
+entity:artifact:2:6797,provenance,"[Warren E. Cox, New York (1950s)]. Ralph C Marcove, New York (1972-2001), inherited; by Christina J. Marcove, New York (2001-2015), gift; to the Harvard Art Museums."
+entity:artifact:2:70462,provenance,"Reverend Claude L. Pickens Jr. (1900-1985), Collection of Muslims in China;  Loan from the Harvard-Yenching Library. 2004/"
+entity:artifact:2:70467,provenance,"[J.J. Lally & Co., New York, 2004] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2004-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:70471,provenance,"Peter W. Scheinman purchased at Sotheby's, New York"
+entity:artifact:2:70472,provenance,"Peter W. Scheinman purchased at Sotheby's or Christie's, New York or London"
+entity:artifact:2:70508,provenance,"Peter W. Scheinman purchased from dealer Sydney L. Moss, London"
+entity:artifact:2:70622,provenance,"Ex-coll: Mr. and Mrs. James E. Breece, III, Evanston, IL"
+entity:artifact:2:70724,provenance,"Peter W. Scheinman purchased at Christie's, New York in September 2001 (Sale 9822, Lot 27)
+Formerly in the Mr. and Mrs. Myron S. Falk, Jr. Collection, New York
+Mr. and Mrs. Myron S. Falk, Jr. purchased from dealer C.T. Loo, New York in December 1949"
+entity:artifact:2:70759,provenance,"Rosenkranz Charitable Foundation, New York, NY
+Robert Rosenkranz, New York"
+entity:artifact:2:73665,provenance,"Rosenkranz Charitable Foundation, New York, NY
+Robert Rosenkranz, New York"
+entity:artifact:2:73713,provenance,"[J. J. Lally & Co., New York, 2003] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2003-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:73719,provenance,"Peter W. Scheinman purchased from J.J. Lally & Co., New York
+Said to be formerly owned by a Mrs. Black, Peking, 1934"
+entity:artifact:2:73720,provenance,"Peter W. Scheinman purchased from dealer Roger Keverne, London"
+entity:artifact:2:73730,provenance,"Peter W. Scheinman purchased at Christie's, New York in September 2001 (Sale 9822, Lot 20)
+Formerly in the Mr. and Mrs. Myron S. Falk, Jr. Collection, New York"
+entity:artifact:2:73737,provenance,"Rosenkranz Charitable Foundation, New York, NY
+Robert Rosenkranz, New York"
+entity:artifact:2:77785,provenance,"[Yamanaka & Co., New York, 6/6/1941] sold; to Grenville L. Winthrop, New York (1941-1943), bequest; to Harvard Art Museums, 1943."
+entity:artifact:2:77878,provenance,"Langdon Warner (1881-1955), Cambridge, Ma (by 1929), gift; to Fogg Art Museum, 1929."
+entity:artifact:2:78047,provenance,"The Chinese Porcelain Company, New York
+Ex-coll. Michael Dunn, Tokyo, Japan"
+entity:artifact:2:78048,provenance,"Zhu Zhichi (17th century). Weng Tonghe, China (by 1903), by inheritance; to his son Weng Zhilian, China (1904-1919), by inheritance; to Wan-go H.C. Weng, Lyme, NH (1919-2003), gift; to Ssu Isabel Weng and Hugo I-Hsueh Weng (2003-2022), gift; to Harvard Art Museums, 2022. 
+ 
+Footnotes:
+Zhu Zhichi 朱之赤 (17th century)
+Weng Tonghe 翁同龢 (1830–1904)
+Weng Zhilian 翁之廉 (1882–1919)
+Wan-go H.C. Weng 翁萬戈 (1918–2020)
+The artwork was on long term loan to the Harvard Art Museums 2003 to 2022."
+entity:artifact:2:78261,provenance,"Simone Schloss, Pelham, NY
+Lillian Schloss, New York"
+entity:artifact:2:8001,provenance,"Peter W. Scheinman purchased from dealer Roger Keverne, London
+Formerly in the collection of Toguri Museum, Tokyo"
+entity:artifact:2:8002,provenance,"Peter W. Scheinman purchased from J.J. Lally & Co., New York"
+entity:artifact:2:92536,provenance,"From Mogao Cave 321, Dunhuang, Gansu province; acquired during the First Fogg Expedition to China (1923-24) led by Langdon Warner (1881-1955)"
+entity:artifact:2:92622,provenance,"[Blitz Chinese Ceramics and Works of Art, Amsterdam, December 1999] sold; to Walter C. Sedgwick Foundation, Woodside, CA (1999-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:93619,provenance,"William B. Goldstein, Wilton, CT purchased from J.J. Lally & Co., New York"
+entity:artifact:2:93620,provenance,"William B. Goldstein, Wilton, CT purchased from J.J. Lally & Co., New York"
+entity:artifact:2:93621,provenance,"[J.J. Lally & Co., New York, 2003] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2003-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:93622,provenance,"[The Chinese Porcelain Company, New York, 2003] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2003-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:93653,provenance,"William B. Goldstein, Wilton, CT purchased from J.J. Lally & Co., New York"
+entity:artifact:2:93654,provenance,"William B. Goldstein, Wilton, CT purchased from Blitz Chinese Ceramics and Works of Art, Amsterdam"
+entity:artifact:2:93665,provenance,"William B. Goldstein, Wilton, CT purchased from J.J. Lally & Co., New York"
+entity:artifact:2:93703,provenance,"William B. Goldstein, Wilton, CT purchased from J.J. Lally & Co., New York"
+entity:artifact:2:94068,provenance,"Langdon Warner (1881-1955), Cambridge, Ma (by 1929), gift; to Fogg Art Museum, 1929."
+entity:artifact:2:94272,provenance,"Langdon Warner (1881-1955), Cambridge, Ma (by 1929), gift; to Fogg Art Museum, 1929."
+entity:artifact:2:94273,provenance,"Langdon Warner (1881-1955), Cambridge, Ma (by 1929), gift; to Fogg Art Museum, 1929."
+entity:artifact:2:94357,provenance,"Langdon Warner (1881-1955), Cambridge, Ma (by 1929), gift; to Fogg Art Museum, 1929."
+entity:artifact:2:94538,provenance,"Private Collection (by 1944), gift; to Fogg Art Museum, 1944."
+entity:artifact:2:94615,provenance,"Urugami Sokyu-do Co., Ltd., Japan"
+entity:artifact:2:94680,provenance,"Sorimachi Shigeo, Tokyo (by 1965), sold; to Philip Hofer, Cambridge, Massachusetts, (1965-1985), bequest; to The Harvard University Art Museums."
+entity:artifact:2:96180,provenance,Hong Kong/London June/76
+entity:artifact:2:96415,provenance,Hong Kong/London June/76
+entity:artifact:2:96416,provenance,Hong Kong/London June/76
+entity:artifact:2:96417,provenance,Hong Kong/London June/76
+entity:artifact:2:96818,provenance,"The Yellow Hall, Shanghai 6/41"
+entity:artifact:2:96819,provenance,"The Yellow Hall, Shanghai 6/41"
+entity:artifact:2:96820,provenance,"The Yellow Hall, Shanghai 6/41"
+entity:artifact:2:96821,provenance,"The Yellow Hall, Shanghai 6/41"
+entity:artifact:2:96832,provenance,"William B. Goldstein, Wilton, CT purchased from J.J. Lally & Co., New York"
+entity:artifact:2:96943,provenance,"The Yellow Hall, Shanghai 6/41"
+entity:artifact:2:96944,provenance,Coletts Chinese Bookstore 7/57
+entity:artifact:2:96945,provenance,Coletts Chinese Bookstore 7/57
+entity:artifact:2:96987,provenance,Hong Kong/London  /76
+entity:artifact:2:97164,provenance,Hong Kong/London June/76
+entity:artifact:2:97165,provenance,Hong Kong/London June/76
+entity:artifact:2:97296,provenance,"[Sotheby's, New York, 19 September 2002, lot. 17] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:97375,provenance,Hong Kong/London June/76
+entity:artifact:2:97376,provenance,Hong Kong/London June/76
+entity:artifact:2:97377,provenance,Hong Kong/London June/76
+entity:artifact:2:99543,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:99777,provenance,"Peter W. Scheinman purchased at Sotheby's, London"
+entity:artifact:2:99779,provenance,Purchased from J.J. Lally & Co. New York
+entity:artifact:2:99837,provenance,Source: The Chinese Porcelain Company
+entity:artifact:2:99839,provenance,"J.J. Lally & Co., New York"
+entity:artifact:2:99841,provenance,"[J.J. Lally & Co., New York, 2003] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2003-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:99854,provenance,"Howard and Mary Ann Rogers, New York (by 2002), gift; to Harvard University Art Museums, 2002."
+entity:artifact:2:99888,provenance,"[J.J. Lally & Co., New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:99889,provenance,"[The Chinese Porcelain Company, New York, 2002] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:2:99895,provenance,"[Sotheby's, New York, 19 September 2002, lot. 17] sold; to Walter C. Sedgwick Foundation, Woodside, CA (2002-2006), partial gift; to Harvard University Art Museums, 2006."
+entity:artifact:3:00.486,provenance,"Bought by the donor in Mexico, March 1900.  Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA in May 1900"
+entity:artifact:3:00.488,provenance,"Purchased by the donor in Mexico, March 1900.  Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA in May 1900"
+entity:artifact:3:00.581,provenance,"Gift from Mrs. George O. Rogers to the MFA, 1900"
+entity:artifact:3:00.613,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, October 25, 1900"
+entity:artifact:3:01.5661,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on May 8, 1901"
+entity:artifact:3:01.5662,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:01.5719,provenance,Purchased of Mrs. George O. Rogers
+entity:artifact:3:01.5721,provenance,Purchased of Mrs. George O. Rogers
+entity:artifact:3:01.5722,provenance,Purchased of Mrs. George O. Rogers
+entity:artifact:3:01.5726,provenance,"1901, sold by Mrs. George O. Rogers to the MFA. (Accession Date: April 18, 1901)"
+entity:artifact:3:01.5731,provenance,Purchased of Mrs. George O. Rogers
+entity:artifact:3:01.5732,provenance,Purchased of Mrs. George O. Rogers
+entity:artifact:3:01.5745,provenance,"1901, Mrs George O. Rogers; sold by  Mrs. George O. Rogers to the MFA for $8,750. [see note 1] (Accession Date: April 18,1901)
+Notes:
+[1] total price for 01.5714-01.5814"
+entity:artifact:3:01.5748,provenance,Purchased of Mrs. George O. Rogers
+entity:artifact:3:01.5771,provenance,Purchased of Mrs. George O. Rogers
+entity:artifact:3:01.5772,provenance,Purchased of Mrs. George O. Rogers
+entity:artifact:3:01.5804,provenance,Purchased of Mrs. George O. Rogers
+entity:artifact:3:01.6264,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:02.344,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:02.345,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, June 26, 1902"
+entity:artifact:3:02.346,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, June 26, 1902"
+entity:artifact:3:02.347,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, June 26, 1902"
+entity:artifact:3:02.348,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, June 26, 1902"
+entity:artifact:3:02.349,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, June 26, 1902"
+entity:artifact:3:02.350,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, June 26, 1902"
+entity:artifact:3:02.353,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, June 26, 1902"
+entity:artifact:3:02.354,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, June 26, 1902"
+entity:artifact:3:02.358,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, June 26, 1902"
+entity:artifact:3:02.393,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on August 8, 1902"
+entity:artifact:3:02.394,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on May 10, 1902"
+entity:artifact:3:02.396,provenance,"Denman Waldo Ross Collection; Gift of Denman Waldo Ross to the MFA, 1902"
+entity:artifact:3:02.397,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on May 10, 1902"
+entity:artifact:3:02.398,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on May 10, 1902"
+entity:artifact:3:02.399,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on May 10, 1902."
+entity:artifact:3:02.401,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, August 8, 1902"
+entity:artifact:3:02.402,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, May 8, 1902"
+entity:artifact:3:02.48,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.485,provenance,"Gift of Denman Waldo Ross to the MFA May 10, 1902. Transferred from Asiatic Dept. to Textiles."
+entity:artifact:3:02.49,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.50,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.51,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.52,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.53,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.54,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.55,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.56,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.57,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.58,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.59,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.60,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.62,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.63,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.64,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.65,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.66,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.67,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:02.68,provenance,"1902, Yamanaka and Co., Boston; sold by Yamanaka to the MFA for $2650 [see note 1].  (Accession Date: April 17, 1902)
+NOTES:
+[1] MFA accession nos. 02.48 - 02.68 were purchased together for this amount."
+entity:artifact:3:03.1046,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on May 26, 1903"
+entity:artifact:3:03.1157a-b,provenance,"By 1890, Mrs. E. W. Stevens, Boston [see note].  By 1903, Miss Lucretia K. Stevens, Boston; 1903, sold by Lucretia K. Stevens to the MFA for $30.00. (Accession date: October 8, 1903)
+NOTE:
+Lent by Mrs. E. W. Stevens to the MFA on June 19, 1890."
+entity:artifact:3:03.719,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on March 17, 1903"
+entity:artifact:3:04.1693a,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, December 5, 1904"
+entity:artifact:3:04.235,provenance,"1904, Bunkio Matsuki (1867-1940), Boston, MA; 1904, gift of the James Fund to the MFA. (Accession Date: April 24, 1904)"
+entity:artifact:3:04.276,provenance,"William Sturgis Bigelow Collection; gift of William Sturgis Bigelow to the MFA on June 2, 1904"
+entity:artifact:3:04.277,provenance,"William Sturgis Bigelow Collection; Gift of William Sturgis Bigelow to the MFA on June 2, 1904"
+entity:artifact:3:05.199,provenance,"1905, purchased in Japan by Okakura Kakuzo (b. 1863 - d. 1913), Boston, for the MFA.  (Accession Date: 1905)"
+entity:artifact:3:06.163a,provenance,"Prior to 1906, purchased by Denman W. Ross in Europe; gift of D.W. Ross, March 8, 1906."
+entity:artifact:3:06.1899,provenance,"Purchased in Japan by Okakura Kakuzo, 1906. Assigned. January 1908 to Mrs. Walter Scott Fitz's gift of July 1907."
+entity:artifact:3:06.1902,provenance,"Purchased in Japan by Okakura Kakuzo for the MFA, 1906."
+entity:artifact:3:06.2410,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on May 10, 1906"
+entity:artifact:3:06.2443a-b,provenance,"October 18, 1860, looted from the Yuanming Yuan (""Old Summer Palace""), Beijing, during the Second Opium War by Charles William Carrington (b. 1828 - d. 1918), Hove, England [see note 1]; 1870, sold by Carrington to John Hubbard Sturgis (b. 1834 - d. 1888), Boston; between 1870 and 1873, passed from Sturgis to Martin Brimmer (b. 1829 - d. 1896), Boston; to his widow, Mary Anne Timmins Brimmer (b. 1827 - d. 1906), Boston; 1906, bequest of Mrs. Martin Brimmer to the MFA.  (Accession Date: November 8, 1906)
+NOTES:
+[1] As attested in both an undated note and a letter to John Sturgis (August 2, 1870) written by Carrington, who was a British officer. In October 1860, British and French forces burned the Yuanming Yuan and took its contents as spoils of war."
+entity:artifact:3:07.222,provenance,Purchased by Mr. Okakura in China
+entity:artifact:3:07.245,provenance,Purchased by Mr. Okakura in China
+entity:artifact:3:07.31,provenance,"Gift of Denman W. Ross, February 14, 1907"
+entity:artifact:3:07.732,provenance,"1906, purchased for the Museum in China by former curator Okakura Kakuzo. (Accession date: November 21, 1907)"
+entity:artifact:3:07.740,provenance,Purchased in China by Mr. Okakura in 1907
+entity:artifact:3:07.741,provenance,"1906, purchased for the Museum in China by former curator Okakura Kakuzo. (Accession date: November 21, 1907)"
+entity:artifact:3:07.750,provenance,"1906, purchased in Japan by Okakura Kakuzo (b. 1862 - d. 1913) for the MFA for 3,200 yen [see note 1]. (Accession Date: November  21, 1907)
+NOTES:
+[1] This was the total price for MFA accession nos. 07.717- 07.750."
+entity:artifact:3:07.832,provenance,"Price paid Yamanaka (L.J. 1956) £ 1/2.  Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on December 11, 1907"
+entity:artifact:3:07.850,provenance,Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA in 1907
+entity:artifact:3:08.105,provenance,"Purchased by Okakura Kakuzo in China from the antique shop Dezenzhai in Beijing's Liulichang area on October 19, 1906."
+entity:artifact:3:08.273,provenance,"Bequest from Charles Henry Parker to the MFA, 1908"
+entity:artifact:3:11.4009,provenance,"1911, Museum purchase. (Accession date: December 7, 1911)"
+entity:artifact:3:11.6148,provenance,"By 1911, purchased by William Sturgis Bigelow (b. 1850 - d. 1926), Boston [see note 1]; 1911, gift of Bigelow to the MFA. (Accession Date: August 3, 1911)
+NOTES:
+[1]  Much of Bigelow's collection of Asian art was formed during his residence in Japan between 1882 and 1889, although he also made acquisitions in Europe and the United States.  Bigelow deposited many of these objects at the MFA in 1890 before donating them to the Museum's collection at later dates."
+entity:artifact:3:11.6152,provenance,"By 1911, purchased by William Sturgis Bigelow (b. 1850 - d. 1926), Boston [see note 1]; 1911, gift of Bigelow to the MFA. (Accession Date: August 3, 1911)
+NOTES:
+[1]  Much of Bigelow's collection of Asian art was formed during his residence in Japan between 1882 and 1889, although he also made acquisitions in Europe and the United States.  Bigelow deposited many of these objects at the MFA in 1890 before donating them to the Museum's collection at later dates."
+entity:artifact:3:11.6157,provenance,"By 1911, purchased by William Sturgis Bigelow (b. 1850 - d. 1926), Boston [see note 1]; 1911, gift of Bigelow to the MFA. (Accession Date: August 3, 1911)
+NOTES:
+[1]  Much of Bigelow's collection of Asian art was formed during his residence in Japan between 1882 and 1889, although he also made acquisitions in Europe and the United States.  Bigelow deposited many of these objects at the MFA in 1890 before donating them to the Museum's collection at later dates."
+entity:artifact:3:14.54,provenance,"1913, with a Mr. Re, China; October 5, 1913, sold by Mr. Re to Hayasaki Kokichi (b. 1874 - d. 1956) [see note 1] and taken to Japan; December, 1913, shipped to Boston and purchased by the MFA.  (Accession Date: January 8, 1914)
+NOTES:
+[1] The MFA's purchasing agent in China."
+entity:artifact:3:14.76,provenance,"1913, with a Mr. Re, China; October 5, 1913, sold by Mr. Re to Hayasaki Kokichi (b. 1874 - d. 1956) [see note 1] and taken to Japan; December, 1913, shipped to Boston and purchased by the MFA.  (Accession Date: January 8, 1914)
+NOTES:
+[1] The MFA's purchasing agent in China."
+entity:artifact:3:14.80,provenance,"1913, with a Mr. Re, China; October 5, 1913, sold by Mr. Re to Hayasaki Kokichi (b. 1874 - d. 1956) [see note 1] and taken to Japan; December, 1913, shipped to Boston and purchased by the MFA.  (Accession Date: January 8, 1914)
+NOTES:
+[1] The MFA's purchasing agent in China."
+entity:artifact:3:15.888,provenance,Bought in China
+entity:artifact:3:15.891,provenance,Bought in China.
+entity:artifact:3:15.896,provenance,"1915, purchased in China by the MFA. (Accession Date: June 3, 1915)"
+entity:artifact:3:15.897,provenance,"1915, purchased in China by the MFA. (Accession Date: June 3, 1915)"
+entity:artifact:3:17.698,provenance,"Ross Collection.  Lent by Denman W. Ross, March 6, 1911."
+entity:artifact:3:17.746,provenance,"Ross Collection.  Lent by Denman W. Ross, Sept. 30, 1913."
+entity:artifact:3:1975.314,provenance,"1975, sold by Zeng Xianqi (b. 1919 - d. 2000), Peterborough, NH, to the MFA. (Accession Date: May 14, 1975)"
+entity:artifact:3:29.1155,provenance,"Lent by Isaac T. Headland, Dec. 15, 1909. Purchased by E. J. Holmes,  August 16, 1929. Lent by E. J. Holmes, Sept. 6, 1929."
+entity:artifact:3:34.539,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:56.257,provenance,"Purchased by MFA, April 12, 1956"
+entity:artifact:3:85.21,provenance,"Gift of Charles Henry Parker, from the Estate of Alfred Greenough, to the MFA on April 9, 1885"
+entity:artifact:3:85.22,provenance,"Gift of Charles Henry Parker, from the Estate of Alfred Greenough, to the MFA on April 9, 1885"
+entity:artifact:3:85.23,provenance,"Gift of Charles Henry Parker, from the Estate of Alfred Greenough to the MFA on April 9, 1885"
+entity:artifact:3:85.24,provenance,"Gift of Charles Henry Parker, from the Estate of Alfred Greenough, to the MFA on April 9, 1885"
+entity:artifact:3:86.68,provenance,"Purchased in China by Mr. Edward Cunningham around 1850; gift from Mrs. Asa Gray to the MFA, April 14, 1885"
+entity:artifact:3:86.69,provenance,"Brought to the United States in 1850; Gift from Mrs. Asa Gray to the MFA, 1886"
+entity:artifact:3:86.70,provenance,"Purchased in China around 1850; Gift from Mrs. P. T. Jackson to the MFA, April 14, 1886"
+entity:artifact:3:87.38,provenance,"Gift of Miss Salome H. Snow to the MFA April 28, 1887.  Transferred from Asiatic Dept. to Textiles."
+entity:artifact:3:92.2719,provenance,"Gift to MFA in October, 1892"
+entity:artifact:3:92.2721,provenance,"Gift of Mrs. Henry P. Sturgis to the MFA on October 1, 1892"
+entity:artifact:3:93.1014,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on September 1, 1893"
+entity:artifact:3:93.1028,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, September 1, 1893"
+entity:artifact:3:93.1029,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, September 1, 1893"
+entity:artifact:3:93.1043,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA, September 1, 1893"
+entity:artifact:3:93.1044,provenance,Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on
+entity:artifact:3:93.1045,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on September 1, 1893"
+entity:artifact:3:93.1046,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:93.1086,provenance,Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA in 1893
+entity:artifact:3:93.1087,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on September 1, 1893"
+entity:artifact:3:93.1122,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:93.1123,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:93.1124,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:93.1125,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:93.1454,provenance,Gift of Miss Annie E. Newell to the MFA 1893
+entity:artifact:3:93.1459,provenance,"Gift of Lieut. Alexander Foster, U.S.N. in 1893. No further record of provenance."
+entity:artifact:3:95.1104,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:95.1235,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:95.1320,provenance,"Purchased by the donor of A.A. Vantine, of New York, for $75.
+Transferred from the Department of Asiatic Art"
+entity:artifact:3:95.1321,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:95.1328,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:95.211,provenance,"Gift of Denman Waldo Ross to the MFA, 1895. Transferred from Asiatic Dept. to Textiles."
+entity:artifact:3:95.542,provenance,"Bought of Dr. Algernon Coolidge, Nov. 1881."
+entity:artifact:3:95.548,provenance,"Bought at Sichell's auction, N.Y. for $135.00."
+entity:artifact:3:95.575,provenance,"Bought at Philadelphia Exposition, 1876."
+entity:artifact:3:95.577a,provenance,"1895, gift of Mr. and Mrs. George Washington Wales, Boston, to the MFA.  (Accession Date: March 28, 1895)"
+entity:artifact:3:95.636,provenance,"Bought of R.E. Moore, NY."
+entity:artifact:3:95.697,provenance,"Bought of Sichell, Paris, 1879."
+entity:artifact:3:95.725,provenance,"Bought at Sichell's auction, N.Y."
+entity:artifact:3:95.742,provenance,"Bought of Moore, N.Y."
+entity:artifact:3:95.759,provenance,"Bought at Vantine's, N.Y."
+entity:artifact:3:95.817,provenance,Bought of Moore.
+entity:artifact:3:96.651,provenance,"Purchased by donor in Beijing about 1889; gift of Mrs. H. M. von Brandt of Wiesbaden, Germany, wife of the late German minister, to the MFA on October 6, 1896."
+entity:artifact:3:96.652,provenance,"Purchased by donor in Beijing about 1889; gift of Mrs. H. M. von Brandt of Wiesbaden, Germany, wife of the late German minister, to the MFA on October 6, 1896."
+entity:artifact:3:96.653,provenance,"Mrs. H. M. von Brandt, purchased  in Peking, about 1889; gift to the MFA on October 6, 1896."
+entity:artifact:3:97.169,provenance,"Denman Waldo Ross Collection; Gift from Denman Waldo Ross to the MFA April 10, 1897"
+entity:artifact:3:97.451,provenance,"Denman Waldo Ross Collection; gift of Denman Waldo Ross to the MFA on November 24, 1897"
+entity:artifact:3:97.66,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:98.12,provenance,Prior to 1911 purchased by William Sturgis Bigelow; 1911 given to the Museum by William Sturgis Bigelow
+entity:artifact:3:98.208,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:98.209,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:98.210,provenance,Transferred from Asiatic Dept. to Textiles.
+entity:artifact:3:99.318,provenance,Purchased from Miss Lucretia K. Stevens

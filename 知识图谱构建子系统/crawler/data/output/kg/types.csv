@@ -1,0 +1,255 @@
+﻿type_id,type_name
+entity:artifacttype:albums-bound-books-albums,Albums (bound) & books; Albums
+entity:artifacttype:altar-and-altar-component-coverings-and-hangings-embroidery-visual-works,Altar and altar component coverings and hangings; Embroidery (visual works)
+entity:artifacttype:altar-frontal-embroidery-visual-works,Altar frontal; Embroidery (visual works)
+entity:artifacttype:animals-drawings,Animals; Drawings
+entity:artifacttype:animals-prints,Animals; Prints
+entity:artifacttype:architectural-elements,Architectural elements
+entity:artifacttype:archival-material,Archival Material
+entity:artifacttype:artists-tools,Artists' Tools
+entity:artifacttype:banners,Banners
+entity:artifacttype:basins,Basins
+entity:artifacttype:baskets-containers,Baskets (containers)
+entity:artifacttype:bed-coverings-embroidery-visual-works,Bed coverings; Embroidery (visual works)
+entity:artifacttype:belt-with-buckle-textiles,Belt with buckle; Textiles
+entity:artifacttype:birdcages-containers-containers-decorative-arts,Birdcages (containers); Containers; Decorative arts
+entity:artifacttype:books,Books
+entity:artifacttype:bowl-hot-water,"Bowl, Hot Water"
+entity:artifacttype:bowl-slop,"Bowl, Slop"
+entity:artifacttype:bowl-tea,"bowl, tea"
+entity:artifacttype:bowl-tea-saucers-plates,"bowl, tea; Saucers (plates)"
+entity:artifacttype:bowls-vessels,Bowls (vessels)
+entity:artifacttype:box-tea,"Box, Tea"
+entity:artifacttype:boxes,Boxes
+entity:artifacttype:cabinets-case-furniture-furniture-decorative-arts,Cabinets (case furniture); Furniture; Decorative arts
+entity:artifacttype:calligraphy,Calligraphy
+entity:artifacttype:calligraphy-visual-works,Calligraphy (visual works)
+entity:artifacttype:card-case-and-cover-containers-decorative-arts,Card case and cover; Containers; Decorative arts
+entity:artifacttype:cartoon,Cartoon
+entity:artifacttype:center-table-furniture-decorative-arts,Center table; Furniture; Decorative arts
+entity:artifacttype:ceramics,Ceramics
+entity:artifacttype:ceramics-objects-basins-decorative-arts,Ceramics (objects); Basins; Decorative arts
+entity:artifacttype:ceramics-objects-beakers-vessels-decorative-arts,Ceramics (objects); Beakers (vessels); Decorative arts
+entity:artifacttype:ceramics-objects-bowls-vessels-decorative-arts,Ceramics (objects); Bowls (vessels); Decorative arts
+entity:artifacttype:ceramics-objects-bulb-pot-decorative-arts,Ceramics (objects); Bulb pot; Decorative arts
+entity:artifacttype:ceramics-objects-cup-and-lid-decorative-arts,Ceramics (objects); Cup and lid; Decorative arts
+entity:artifacttype:ceramics-objects-cup-and-saucer-decorative-arts,Ceramics (objects); Cup and saucer; Decorative arts
+entity:artifacttype:ceramics-objects-cups-decorative-arts,Ceramics (objects); Cups; Decorative arts
+entity:artifacttype:ceramics-objects-decorative-arts-coffeepots,Ceramics (objects); Decorative arts; Coffeepots
+entity:artifacttype:ceramics-objects-decorative-arts-covers,Ceramics (objects); Decorative arts; covers
+entity:artifacttype:ceramics-objects-decorative-arts-pair-of-bowls,Ceramics (objects); Decorative arts; Pair of bowls
+entity:artifacttype:ceramics-objects-decorative-arts-plate,Ceramics (objects); Decorative arts; Plate
+entity:artifacttype:ceramics-objects-decorative-arts-platters,Ceramics (objects); Decorative arts; Platters
+entity:artifacttype:ceramics-objects-decorative-arts-tureens,Ceramics (objects); Decorative arts; Tureens
+entity:artifacttype:ceramics-objects-decorative-arts-vases,Ceramics (objects); Decorative arts; Vases
+entity:artifacttype:ceramics-objects-decorative-arts-verri-re,Ceramics (objects); Decorative arts; VerriÃ¨re
+entity:artifacttype:ceramics-objects-decorative-arts-wig-stand,Ceramics (objects); Decorative arts; Wig stand
+entity:artifacttype:ceramics-objects-dishes-vessels-decorative-arts,Ceramics (objects); Dishes (vessels); Decorative arts
+entity:artifacttype:ceramics-objects-ewers-decorative-arts,Ceramics (objects); Ewers; Decorative arts
+entity:artifacttype:ceramics-objects-figures-representations-decorative-arts,Ceramics (objects); Figures (representations); Decorative arts
+entity:artifacttype:ceramics-objects-figurines-decorative-arts,Ceramics (objects); Figurines; Decorative arts
+entity:artifacttype:ceramics-objects-jar-and-lid-decorative-arts,Ceramics (objects); Jar and lid; Decorative arts
+entity:artifacttype:ceramics-objects-jars-decorative-arts,Ceramics (objects); Jars; Decorative arts
+entity:artifacttype:ceramics-objects-mugs-decorative-arts,Ceramics (objects); Mugs; Decorative arts
+entity:artifacttype:ceramics-objects-pair-of-wig-stands-decorative-arts,Ceramics (objects); Pair of wig stands; Decorative arts
+entity:artifacttype:ceramics-objects-plate-decorative-arts,Ceramics (objects); plate; Decorative arts
+entity:artifacttype:ceramics-objects-soup-tureen-with-stand-decorative-arts,Ceramics (objects); soup tureen with stand; Decorative arts
+entity:artifacttype:ceramics-objects-tea-caddy-and-cover-decorative-arts,Ceramics (objects); Tea caddy and cover; Decorative arts
+entity:artifacttype:ceramics-porcelain,Ceramics – Porcelain
+entity:artifacttype:ceramics-pottery-earthenware,Ceramics – Pottery – Earthenware
+entity:artifacttype:ceramics-pottery-stoneware,Ceramics – Pottery – Stoneware
+entity:artifacttype:ceremonial-objects,Ceremonial objects
+entity:artifacttype:chest-tea,"Chest, Tea"
+entity:artifacttype:childs-bib-textiles,Child's bib; Textiles
+entity:artifacttype:chopsticks-set,"Chopsticks, set"
+entity:artifacttype:coins,Coins
+entity:artifacttype:coins-money,Coins (money)
+entity:artifacttype:compote,Compote
+entity:artifacttype:containers,Containers
+entity:artifacttype:containers-box-and-stand-decorative-arts,Containers; Box and stand; Decorative arts
+entity:artifacttype:containers-decorative-arts-covered-box-on-stand,Containers; Decorative arts; Covered Box on Stand
+entity:artifacttype:containers-decorative-arts-snuff-bottles,Containers; Decorative arts; Snuff bottles
+entity:artifacttype:costume-accessories-button-costume-decorative-arts,Costume accessories; Button; Costume; Decorative arts
+entity:artifacttype:costume-accessories-costume-bag-one-side,Costume accessories; Costume; Bag (one side)
+entity:artifacttype:costume-accessories-costume-bris-fan,Costume accessories; Costume; BrisÃ© fan
+entity:artifacttype:costume-accessories-costume-cases-containers,Costume accessories; Costume; Cases (containers)
+entity:artifacttype:costume-accessories-costume-coats-garments,Costume accessories; Costume; Coats (garments)
+entity:artifacttype:costume-accessories-costume-fan-case-and-bag,Costume accessories; Costume; Fan case and bag
+entity:artifacttype:costume-accessories-costume-fans-costume-accessories-cases-containers,Costume accessories; Costume; Fans (costume accessories); Cases (containers)
+entity:artifacttype:costume-accessories-costume-nurses-jacket-and-pants,Costume accessories; Costume; Nurse's jacket and pants
+entity:artifacttype:costume-accessories-costume-panel-for-a-fan-case,Costume accessories; Costume; Panel for a fan case
+entity:artifacttype:costume-accessories-costume-pleated-fan,Costume accessories; Costume; Pleated fan
+entity:artifacttype:costume-accessories-costume-robe-for-a-statue,Costume accessories; Costume; Robe for a statue
+entity:artifacttype:costume-accessories-costume-robes-main-garments,Costume accessories; Costume; Robes (main garments)
+entity:artifacttype:costume-accessories-costume-skirts-garments,Costume accessories; Costume; Skirts (garments)
+entity:artifacttype:costume-accessories-costume-stockings,Costume accessories; Costume; Stockings
+entity:artifacttype:costume-accessories-costume-trousers,Costume accessories; Costume; Trousers
+entity:artifacttype:costume-accessories-costume-womans-robe,Costume accessories; Costume; Woman's robe
+entity:artifacttype:costume-accessories-costume-womans-short-robe,Costume accessories; Costume; Woman's short robe
+entity:artifacttype:costume-accessories-costume-womans-surcoat,Costume accessories; Costume; Woman's surcoat
+entity:artifacttype:costume-accessories-fire-screens-furniture-costume-costume-accessories-carried-handscreens,Costume accessories; Fire screens (furniture); Costume; Costume accessories carried; Handscreens
+entity:artifacttype:costume-accessories-handscreen-and-case-costume,Costume accessories; Handscreen and case; Costume
+entity:artifacttype:costume-accessories-mans-robe-costume,Costume accessories; Man's robe; Costume
+entity:artifacttype:costume-accessories-uncut-textiles,Costume accessories (uncut); Textiles
+entity:artifacttype:costume-textiles,Costume; Textiles
+entity:artifacttype:costumes,Costumes
+entity:artifacttype:curtain-panel-textiles,Curtain panel; Textiles
+entity:artifacttype:cushion-cover-textiles,Cushion cover; Textiles
+entity:artifacttype:daoist-priests-robe-embroidery-visual-works,Daoist priest's robe; Embroidery (visual works)
+entity:artifacttype:decorative-arts,Decorative arts
+entity:artifacttype:desks-furniture-decorative-arts,Desks; Furniture; Decorative arts
+entity:artifacttype:devotional-sculpture-decorative-arts,devotional sculpture; Decorative arts
+entity:artifacttype:devotional-sculpture-sculpture-decorative-arts,devotional sculpture; Sculpture; Decorative arts
+entity:artifacttype:dinner-services,dinner services
+entity:artifacttype:dish-shell,"Dish, Shell"
+entity:artifacttype:dishes-vessels,Dishes (vessels)
+entity:artifacttype:drawings,Drawings
+entity:artifacttype:drawings-watercolors,Drawings / Watercolors
+entity:artifacttype:dress-3-piece,"Dress, 3-Piece"
+entity:artifacttype:dress-fragment-textiles,Dress fragment; Textiles
+entity:artifacttype:dress-panels-textiles,Dress panels; Textiles
+entity:artifacttype:dresses-garments-jackets,Dresses (garments); jackets
+entity:artifacttype:edge-panel-textiles,Edge panel; Textiles
+entity:artifacttype:embroidery-visual-works,Embroidery (visual works)
+entity:artifacttype:embroidery-visual-works-borders-ornament-areas,Embroidery (visual works); Borders (ornament areas)
+entity:artifacttype:embroidery-visual-works-panel-fragment,Embroidery (visual works); Panel fragment
+entity:artifacttype:embroidery-visual-works-sleeve-band,Embroidery (visual works); Sleeve band
+entity:artifacttype:embroidery-visual-works-sleeve-bands,Embroidery (visual works); Sleeve bands
+entity:artifacttype:embroidery-visual-works-textiles,Embroidery (visual works); Textiles
+entity:artifacttype:enamels-visual-works-decorative-arts-plate,Enamels (visual works); Decorative arts; Plate
+entity:artifacttype:enamels-visual-works-decorative-arts-vases,Enamels (visual works); Decorative arts; Vases
+entity:artifacttype:envelopes-theater-programs,Envelopes; Theater programs
+entity:artifacttype:eyeglass-cases-embroidery-visual-works,Eyeglass cases; Embroidery (visual works)
+entity:artifacttype:felt-textile-ceremonial-objects-rugs-mosen-textiles,Felt (textile); Ceremonial objects; Rugs; Mosen; Textiles
+entity:artifacttype:figures-representations-drawings,Figures (representations); Drawings
+entity:artifacttype:figures-representations-prints,Figures (representations); Prints
+entity:artifacttype:fill-papers-wall-coverings,Fill papers; Wall coverings
+entity:artifacttype:fragment-of-a-rank-badge-textiles,Fragment of a rank badge; Textiles
+entity:artifacttype:fragment-of-rank-badge-textiles,Fragment of rank badge; Textiles
+entity:artifacttype:fragments,Fragments
+entity:artifacttype:fragments-of-a-rank-badge-textiles,Fragments of a rank badge; Textiles
+entity:artifacttype:furnishings,Furnishings
+entity:artifacttype:furniture,Furniture
+entity:artifacttype:furniture-decorative-arts-armchairs,Furniture; Decorative arts; Armchairs
+entity:artifacttype:furniture-drawings,Furniture; Drawings
+entity:artifacttype:furniture-furnishings,Furniture; Furnishings
+entity:artifacttype:furniture-mirrors-furnishings,Furniture; Mirrors; Furnishings
+entity:artifacttype:furniture-prints,Furniture; Prints
+entity:artifacttype:glass,Glass
+entity:artifacttype:glassware-bowls-decorative-arts,Glassware; Bowls; Decorative arts
+entity:artifacttype:glassware-bowls-vessels-decorative-arts,Glassware; Bowls (vessels); Decorative arts
+entity:artifacttype:glassware-decorative-arts-snuff-bottles,Glassware; Decorative arts; Snuff bottles
+entity:artifacttype:graphic-arts,Graphic arts
+entity:artifacttype:hangings-coverings-embroidery-visual-works,Hangings (coverings); Embroidery (visual works)
+entity:artifacttype:hangings-coverings-textiles,Hangings (coverings); Textiles
+entity:artifacttype:hats,Hats
+entity:artifacttype:headboard-panel-embroidery-visual-works,Headboard panel; Embroidery (visual works)
+entity:artifacttype:insignias-badges-embroidery-visual-works,Insignias; Badges; Embroidery (visual works)
+entity:artifacttype:insignias-badges-textiles,Insignias; Badges; Textiles
+entity:artifacttype:interior-views-bound-print,Interior views; Bound print
+entity:artifacttype:interior-views-drawings,Interior views; Drawings
+entity:artifacttype:interior-views-table-screen-and-stand-decorative-arts,Interior views; Table screen and stand; Decorative arts
+entity:artifacttype:jars,Jars
+entity:artifacttype:jewelry,Jewelry
+entity:artifacttype:jewelry-decorative-arts-fingernail-guard,Jewelry; Decorative arts; Fingernail guard
+entity:artifacttype:jewelry-decorative-arts-headgear,Jewelry; Decorative arts; Headgear
+entity:artifacttype:knife-money,knife money
+entity:artifacttype:knives-decorative-arts-cutlery,Knives; Decorative arts; Cutlery
+entity:artifacttype:lace-handkerchief-edging-lace-needlework,"lace, handkerchief edging; Lace (needlework)"
+entity:artifacttype:lace-needlework,Lace (needlework)
+entity:artifacttype:lace-needlework-lace-sample,"Lace (needlework); lace, sample"
+entity:artifacttype:lacquer-works,Lacquer works
+entity:artifacttype:lantern-slide-games-toys-recreational-artifacts,Lantern slide; Games; Toys (recreational artifacts)
+entity:artifacttype:lighting-devices,Lighting Devices
+entity:artifacttype:lithographs,Lithographs
+entity:artifacttype:lobby-cards,Lobby cards
+entity:artifacttype:main-garments-trousers-girls-girl-trousers,"Main garments; trousers, girl's; Girl; Trousers"
+entity:artifacttype:manuscripts,Manuscripts
+entity:artifacttype:masks,Masks
+entity:artifacttype:match-safes-containers-decorative-arts,Match safes; Containers; Decorative arts
+entity:artifacttype:material-specimens,Material Specimens
+entity:artifacttype:mats-furniture-coverings-embroidery-visual-works,Mats (furniture coverings); Embroidery (visual works)
+entity:artifacttype:measuring-devices-sundial-compass-timepieces-decorative-arts,Measuring devices; sundial compass; Timepieces; Decorative arts
+entity:artifacttype:medallions-medals-embroidery-visual-works,Medallions (medals); Embroidery (visual works)
+entity:artifacttype:metalwork,Metalwork
+entity:artifacttype:metalwork-decorative-arts,Metalwork; Decorative arts
+entity:artifacttype:metalwork-decorative-arts-teapots,Metalwork; Decorative arts; Teapots
+entity:artifacttype:mirrors,Mirrors
+entity:artifacttype:models,Models
+entity:artifacttype:musical-instruments,Musical instruments
+entity:artifacttype:natural-materials,Natural materials
+entity:artifacttype:neckwear-costume-accessories-costume,Neckwear; Costume accessories; Costume
+entity:artifacttype:neckwear-embroidery-visual-works,Neckwear; Embroidery (visual works)
+entity:artifacttype:newspaper-clipping-printed-clipping-newspaper,"Newspaper Clipping; Printed; clipping, newspaper"
+entity:artifacttype:ornaments-jewelry,Ornaments; Jewelry
+entity:artifacttype:ornaments-prints,Ornaments; Prints
+entity:artifacttype:paintings,Paintings
+entity:artifacttype:paintings-figures-representations,Paintings; Figures (representations)
+entity:artifacttype:paintings-still-lifes,Paintings; Still lifes
+entity:artifacttype:paintings-with-calligraphy,Paintings with Calligraphy
+entity:artifacttype:panel-for-a-fan-case-embroidery-visual-works,Panel for a fan case; Embroidery (visual works)
+entity:artifacttype:panels,Panels
+entity:artifacttype:panels-textiles,Panels; Textiles
+entity:artifacttype:photographs,Photographs
+entity:artifacttype:photographs-furniture,Photographs; Furniture
+entity:artifacttype:pictures-object-genre,Pictures (object genre)
+entity:artifacttype:pillow-shams-textiles,Pillow shams; Textiles
+entity:artifacttype:plaques,Plaques
+entity:artifacttype:plate-plate,plate; Plate
+entity:artifacttype:platters,Platters
+entity:artifacttype:prints,Prints
+entity:artifacttype:punch-bowls,Punch bowls
+entity:artifacttype:punch-card-railroad,"punch card, railroad"
+entity:artifacttype:rank-badge-buzi-textiles,Rank badge (buzi); Textiles
+entity:artifacttype:recreational-artifacts,Recreational Artifacts
+entity:artifacttype:ribbon-material-textiles,Ribbon (material); Textiles
+entity:artifacttype:riding-equipment,Riding Equipment
+entity:artifacttype:ritual-implements,Ritual Implements
+entity:artifacttype:ritual-objects-metalwork-decorative-arts,Ritual objects Metalwork Decorative arts
+entity:artifacttype:roundels-embroidery-visual-works,Roundels; Embroidery (visual works)
+entity:artifacttype:rubbings,Rubbings
+entity:artifacttype:saucers-plates,Saucers (plates)
+entity:artifacttype:scores,Scores
+entity:artifacttype:sculpture,Sculpture
+entity:artifacttype:sculpture-decorative-arts-covered-bowls,Sculpture; Decorative arts; Covered bowls
+entity:artifacttype:sculpture-figures-representations-decorative-arts,Sculpture; Figures (representations); Decorative arts
+entity:artifacttype:sculpture-sculpture-on-stand-decorative-arts,Sculpture; Sculpture on stand; Decorative arts
+entity:artifacttype:seals,Seals
+entity:artifacttype:shades-coverings-wall-coverings,Shades (coverings); Wall coverings
+entity:artifacttype:shawls-embroidery-visual-works,Shawls; Embroidery (visual works)
+entity:artifacttype:shirts-jean-jackets-jackets-trousers-jeans,Shirts; jean jackets; jackets; Trousers; jeans
+entity:artifacttype:sleeve-cuff-embroidery-visual-works,Sleeve cuff; Embroidery (visual works)
+entity:artifacttype:sleeves-embroidery-visual-works,Sleeves; Embroidery (visual works)
+entity:artifacttype:snuff-bottle-and-stopper-containers-decorative-arts,Snuff bottle and stopper; Containers; Decorative arts
+entity:artifacttype:songs,Songs
+entity:artifacttype:songsheet,songsheet
+entity:artifacttype:spectacle-case-embroidery-visual-works,Spectacle case; Embroidery (visual works)
+entity:artifacttype:spoons,Spoons
+entity:artifacttype:stand-decorative-arts,Stand; Decorative arts
+entity:artifacttype:stereoview-stereograph,stereoview; stereograph
+entity:artifacttype:t-shirts-jackets-trousers,T-shirts; jackets; Trousers
+entity:artifacttype:table-frontal-textiles,Table frontal; Textiles
+entity:artifacttype:tablets,Tablets
+entity:artifacttype:tableware-design-drawings-drawings,Tableware; Design drawings; Drawings
+entity:artifacttype:tableware-design-drawings-prints,Tableware; Design drawings; Prints
+entity:artifacttype:teabowl-bowl-tea,"teabowl; bowl, tea"
+entity:artifacttype:textile-arts,Textile Arts
+entity:artifacttype:textile-fragment-textiles,Textile fragment; Textiles
+entity:artifacttype:textile-fragments-textiles,Textile fragments; Textiles
+entity:artifacttype:textiles,Textiles
+entity:artifacttype:theater-programs,Theater programs
+entity:artifacttype:theater-programs-tickets,Theater programs; Tickets
+entity:artifacttype:tools-and-equipment,Tools and equipment
+entity:artifacttype:trim-textiles,Trim; Textiles
+entity:artifacttype:unclassified,Unclassified
+entity:artifacttype:uncut-waistcoat-front-embroidery-visual-works,Uncut waistcoat front; Embroidery (visual works)
+entity:artifacttype:valances-embroidery-visual-works,Valances; Embroidery (visual works)
+entity:artifacttype:valances-textiles,Valances; Textiles
+entity:artifacttype:vessels,Vessels
+entity:artifacttype:vessels-containers,Vessels (containers)
+entity:artifacttype:vests-garments-vest-girls-main-garments-girl,"Vests (garments); vest, girl's; Main garments; Girl"
+entity:artifacttype:wall-coverings,Wall coverings
+entity:artifacttype:weapons-and-ammunition,Weapons and Ammunition
+entity:artifacttype:weapons-armor-protective-wear,Weapons; Armor (protective wear)
+entity:artifacttype:window-shade-and-cornice-wall-coverings,Window shade and cornice; Wall coverings
+entity:artifacttype:womans-short-coat-costume-accessories-costume,Woman's short coat; Costume accessories; Costume

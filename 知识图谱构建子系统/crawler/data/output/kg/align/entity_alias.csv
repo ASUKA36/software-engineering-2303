@@ -1,0 +1,1469 @@
+﻿canonical_id,alias,norm_alias,match_method,confidence
+entity:artifacttype:albums-bound-books-albums,Albums (bound) & books; Albums,albums bound & books albums,norm_label,1.0
+entity:artifacttype:altar-and-altar-component-coverings-and-hangings-embroidery-visual-works,Altar and altar component coverings and hangings; Embroidery (visual works),altar and altar component coverings and hangings embroidery visual works,norm_label,1.0
+entity:artifacttype:altar-frontal-embroidery-visual-works,Altar frontal; Embroidery (visual works),altar frontal embroidery visual works,norm_label,1.0
+entity:artifacttype:animals-drawings,Animals; Drawings,animals drawings,norm_label,1.0
+entity:artifacttype:animals-prints,Animals; Prints,animals prints,norm_label,1.0
+entity:artifacttype:architectural-elements,Architectural elements,architectural elements,norm_label,1.0
+entity:artifacttype:archival-material,Archival Material,archival material,norm_label,1.0
+entity:artifacttype:artists-tools,Artists' Tools,artists tools,norm_label,1.0
+entity:artifacttype:banners,Banners,banners,norm_label,1.0
+entity:artifacttype:basins,Basins,basins,norm_label,1.0
+entity:artifacttype:baskets-containers,Baskets (containers),baskets containers,norm_label,1.0
+entity:artifacttype:bed-coverings-embroidery-visual-works,Bed coverings; Embroidery (visual works),bed coverings embroidery visual works,norm_label,1.0
+entity:artifacttype:belt-with-buckle-textiles,Belt with buckle; Textiles,belt with buckle textiles,norm_label,1.0
+entity:artifacttype:birdcages-containers-containers-decorative-arts,Birdcages (containers); Containers; Decorative arts,birdcages containers containers decorative arts,norm_label,1.0
+entity:artifacttype:books,Books,books,norm_label,1.0
+entity:artifacttype:bowl-hot-water,"Bowl, Hot Water",bowl hot water,norm_label,1.0
+entity:artifacttype:bowl-slop,"Bowl, Slop",bowl slop,norm_label,1.0
+entity:artifacttype:bowl-tea,"bowl, tea",bowl tea,norm_label,1.0
+entity:artifacttype:bowl-tea-saucers-plates,"bowl, tea; Saucers (plates)",bowl tea saucers plates,norm_label,1.0
+entity:artifacttype:bowls-vessels,Bowls (vessels),bowls vessels,norm_label,1.0
+entity:artifacttype:box-tea,"Box, Tea",box tea,norm_label,1.0
+entity:artifacttype:boxes,Boxes,boxes,norm_label,1.0
+entity:artifacttype:cabinets-case-furniture-furniture-decorative-arts,Cabinets (case furniture); Furniture; Decorative arts,cabinets case furniture furniture decorative arts,norm_label,1.0
+entity:artifacttype:calligraphy,Calligraphy,calligraphy,norm_label,1.0
+entity:artifacttype:calligraphy-visual-works,Calligraphy (visual works),calligraphy visual works,norm_label,1.0
+entity:artifacttype:card-case-and-cover-containers-decorative-arts,Card case and cover; Containers; Decorative arts,card case and cover containers decorative arts,norm_label,1.0
+entity:artifacttype:cartoon,Cartoon,cartoon,norm_label,1.0
+entity:artifacttype:center-table-furniture-decorative-arts,Center table; Furniture; Decorative arts,center table furniture decorative arts,norm_label,1.0
+entity:artifacttype:ceramics,Ceramics,ceramics,norm_label,1.0
+entity:artifacttype:ceramics-objects-basins-decorative-arts,Ceramics (objects); Basins; Decorative arts,ceramics objects basins decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-beakers-vessels-decorative-arts,Ceramics (objects); Beakers (vessels); Decorative arts,ceramics objects beakers vessels decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-bowls-vessels-decorative-arts,Ceramics (objects); Bowls (vessels); Decorative arts,ceramics objects bowls vessels decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-bulb-pot-decorative-arts,Ceramics (objects); Bulb pot; Decorative arts,ceramics objects bulb pot decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-cup-and-lid-decorative-arts,Ceramics (objects); Cup and lid; Decorative arts,ceramics objects cup and lid decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-cup-and-saucer-decorative-arts,Ceramics (objects); Cup and saucer; Decorative arts,ceramics objects cup and saucer decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-cups-decorative-arts,Ceramics (objects); Cups; Decorative arts,ceramics objects cups decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-decorative-arts-coffeepots,Ceramics (objects); Decorative arts; Coffeepots,ceramics objects decorative arts coffeepots,norm_label,1.0
+entity:artifacttype:ceramics-objects-decorative-arts-covers,Ceramics (objects); Decorative arts; covers,ceramics objects decorative arts covers,norm_label,1.0
+entity:artifacttype:ceramics-objects-decorative-arts-pair-of-bowls,Ceramics (objects); Decorative arts; Pair of bowls,ceramics objects decorative arts pair of bowls,norm_label,1.0
+entity:artifacttype:ceramics-objects-decorative-arts-plate,Ceramics (objects); Decorative arts; Plate,ceramics objects decorative arts plate,norm_label,1.0
+entity:artifacttype:ceramics-objects-decorative-arts-platters,Ceramics (objects); Decorative arts; Platters,ceramics objects decorative arts platters,norm_label,1.0
+entity:artifacttype:ceramics-objects-decorative-arts-tureens,Ceramics (objects); Decorative arts; Tureens,ceramics objects decorative arts tureens,norm_label,1.0
+entity:artifacttype:ceramics-objects-decorative-arts-vases,Ceramics (objects); Decorative arts; Vases,ceramics objects decorative arts vases,norm_label,1.0
+entity:artifacttype:ceramics-objects-decorative-arts-verri-re,Ceramics (objects); Decorative arts; VerriÃ¨re,ceramics objects decorative arts verriã¨re,norm_label,1.0
+entity:artifacttype:ceramics-objects-decorative-arts-wig-stand,Ceramics (objects); Decorative arts; Wig stand,ceramics objects decorative arts wig stand,norm_label,1.0
+entity:artifacttype:ceramics-objects-dishes-vessels-decorative-arts,Ceramics (objects); Dishes (vessels); Decorative arts,ceramics objects dishes vessels decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-ewers-decorative-arts,Ceramics (objects); Ewers; Decorative arts,ceramics objects ewers decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-figures-representations-decorative-arts,Ceramics (objects); Figures (representations); Decorative arts,ceramics objects figures representations decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-figurines-decorative-arts,Ceramics (objects); Figurines; Decorative arts,ceramics objects figurines decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-jar-and-lid-decorative-arts,Ceramics (objects); Jar and lid; Decorative arts,ceramics objects jar and lid decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-jars-decorative-arts,Ceramics (objects); Jars; Decorative arts,ceramics objects jars decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-mugs-decorative-arts,Ceramics (objects); Mugs; Decorative arts,ceramics objects mugs decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-pair-of-wig-stands-decorative-arts,Ceramics (objects); Pair of wig stands; Decorative arts,ceramics objects pair of wig stands decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-plate-decorative-arts,Ceramics (objects); plate; Decorative arts,ceramics objects plate decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-soup-tureen-with-stand-decorative-arts,Ceramics (objects); soup tureen with stand; Decorative arts,ceramics objects soup tureen with stand decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-objects-tea-caddy-and-cover-decorative-arts,Ceramics (objects); Tea caddy and cover; Decorative arts,ceramics objects tea caddy and cover decorative arts,norm_label,1.0
+entity:artifacttype:ceramics-porcelain,Ceramics – Porcelain,ceramics – porcelain,norm_label,1.0
+entity:artifacttype:ceramics-pottery-earthenware,Ceramics – Pottery – Earthenware,ceramics – pottery – earthenware,norm_label,1.0
+entity:artifacttype:ceramics-pottery-stoneware,Ceramics – Pottery – Stoneware,ceramics – pottery – stoneware,norm_label,1.0
+entity:artifacttype:ceremonial-objects,Ceremonial objects,ceremonial objects,norm_label,1.0
+entity:artifacttype:chest-tea,"Chest, Tea",chest tea,norm_label,1.0
+entity:artifacttype:childs-bib-textiles,Child's bib; Textiles,childs bib textiles,norm_label,1.0
+entity:artifacttype:chopsticks-set,"Chopsticks, set",chopsticks set,norm_label,1.0
+entity:artifacttype:coins,Coins,coins,norm_label,1.0
+entity:artifacttype:coins-money,Coins (money),coins money,norm_label,1.0
+entity:artifacttype:compote,Compote,compote,norm_label,1.0
+entity:artifacttype:containers,Containers,containers,norm_label,1.0
+entity:artifacttype:containers-box-and-stand-decorative-arts,Containers; Box and stand; Decorative arts,containers box and stand decorative arts,norm_label,1.0
+entity:artifacttype:containers-decorative-arts-covered-box-on-stand,Containers; Decorative arts; Covered Box on Stand,containers decorative arts covered box on stand,norm_label,1.0
+entity:artifacttype:containers-decorative-arts-snuff-bottles,Containers; Decorative arts; Snuff bottles,containers decorative arts snuff bottles,norm_label,1.0
+entity:artifacttype:costume-accessories-button-costume-decorative-arts,Costume accessories; Button; Costume; Decorative arts,costume accessories button costume decorative arts,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-bag-one-side,Costume accessories; Costume; Bag (one side),costume accessories costume bag one side,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-bris-fan,Costume accessories; Costume; BrisÃ© fan,costume accessories costume brisã© fan,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-cases-containers,Costume accessories; Costume; Cases (containers),costume accessories costume cases containers,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-coats-garments,Costume accessories; Costume; Coats (garments),costume accessories costume coats garments,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-fan-case-and-bag,Costume accessories; Costume; Fan case and bag,costume accessories costume fan case and bag,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-fans-costume-accessories-cases-containers,Costume accessories; Costume; Fans (costume accessories); Cases (containers),costume accessories costume fans costume accessories cases containers,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-nurses-jacket-and-pants,Costume accessories; Costume; Nurse's jacket and pants,costume accessories costume nurses jacket and pants,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-panel-for-a-fan-case,Costume accessories; Costume; Panel for a fan case,costume accessories costume panel for a fan case,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-pleated-fan,Costume accessories; Costume; Pleated fan,costume accessories costume pleated fan,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-robe-for-a-statue,Costume accessories; Costume; Robe for a statue,costume accessories costume robe for a statue,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-robes-main-garments,Costume accessories; Costume; Robes (main garments),costume accessories costume robes main garments,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-skirts-garments,Costume accessories; Costume; Skirts (garments),costume accessories costume skirts garments,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-stockings,Costume accessories; Costume; Stockings,costume accessories costume stockings,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-trousers,Costume accessories; Costume; Trousers,costume accessories costume trousers,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-womans-robe,Costume accessories; Costume; Woman's robe,costume accessories costume womans robe,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-womans-short-robe,Costume accessories; Costume; Woman's short robe,costume accessories costume womans short robe,norm_label,1.0
+entity:artifacttype:costume-accessories-costume-womans-surcoat,Costume accessories; Costume; Woman's surcoat,costume accessories costume womans surcoat,norm_label,1.0
+entity:artifacttype:costume-accessories-fire-screens-furniture-costume-costume-accessories-carried-handscreens,Costume accessories; Fire screens (furniture); Costume; Costume accessories carried; Handscreens,costume accessories fire screens furniture costume costume accessories carried handscreens,norm_label,1.0
+entity:artifacttype:costume-accessories-handscreen-and-case-costume,Costume accessories; Handscreen and case; Costume,costume accessories handscreen and case costume,norm_label,1.0
+entity:artifacttype:costume-accessories-mans-robe-costume,Costume accessories; Man's robe; Costume,costume accessories mans robe costume,norm_label,1.0
+entity:artifacttype:costume-accessories-uncut-textiles,Costume accessories (uncut); Textiles,costume accessories uncut textiles,norm_label,1.0
+entity:artifacttype:costume-textiles,Costume; Textiles,costume textiles,norm_label,1.0
+entity:artifacttype:costumes,Costumes,costumes,norm_label,1.0
+entity:artifacttype:curtain-panel-textiles,Curtain panel; Textiles,curtain panel textiles,norm_label,1.0
+entity:artifacttype:cushion-cover-textiles,Cushion cover; Textiles,cushion cover textiles,norm_label,1.0
+entity:artifacttype:daoist-priests-robe-embroidery-visual-works,Daoist priest's robe; Embroidery (visual works),daoist priests robe embroidery visual works,norm_label,1.0
+entity:artifacttype:decorative-arts,Decorative arts,decorative arts,norm_label,1.0
+entity:artifacttype:desks-furniture-decorative-arts,Desks; Furniture; Decorative arts,desks furniture decorative arts,norm_label,1.0
+entity:artifacttype:devotional-sculpture-decorative-arts,devotional sculpture; Decorative arts,devotional sculpture decorative arts,norm_label,1.0
+entity:artifacttype:devotional-sculpture-sculpture-decorative-arts,devotional sculpture; Sculpture; Decorative arts,devotional sculpture sculpture decorative arts,norm_label,1.0
+entity:artifacttype:dinner-services,dinner services,dinner services,norm_label,1.0
+entity:artifacttype:dish-shell,"Dish, Shell",dish shell,norm_label,1.0
+entity:artifacttype:dishes-vessels,Dishes (vessels),dishes vessels,norm_label,1.0
+entity:artifacttype:drawings,Drawings,drawings,norm_label,1.0
+entity:artifacttype:drawings-watercolors,Drawings / Watercolors,drawings / watercolors,norm_label,1.0
+entity:artifacttype:dress-3-piece,"Dress, 3-Piece",dress 3-piece,norm_label,1.0
+entity:artifacttype:dress-fragment-textiles,Dress fragment; Textiles,dress fragment textiles,norm_label,1.0
+entity:artifacttype:dress-panels-textiles,Dress panels; Textiles,dress panels textiles,norm_label,1.0
+entity:artifacttype:dresses-garments-jackets,Dresses (garments); jackets,dresses garments jackets,norm_label,1.0
+entity:artifacttype:edge-panel-textiles,Edge panel; Textiles,edge panel textiles,norm_label,1.0
+entity:artifacttype:embroidery-visual-works,Embroidery (visual works),embroidery visual works,norm_label,1.0
+entity:artifacttype:embroidery-visual-works-borders-ornament-areas,Embroidery (visual works); Borders (ornament areas),embroidery visual works borders ornament areas,norm_label,1.0
+entity:artifacttype:embroidery-visual-works-panel-fragment,Embroidery (visual works); Panel fragment,embroidery visual works panel fragment,norm_label,1.0
+entity:artifacttype:embroidery-visual-works-sleeve-band,Embroidery (visual works); Sleeve band,embroidery visual works sleeve band,norm_label,1.0
+entity:artifacttype:embroidery-visual-works-sleeve-bands,Embroidery (visual works); Sleeve bands,embroidery visual works sleeve bands,norm_label,1.0
+entity:artifacttype:embroidery-visual-works-textiles,Embroidery (visual works); Textiles,embroidery visual works textiles,norm_label,1.0
+entity:artifacttype:enamels-visual-works-decorative-arts-plate,Enamels (visual works); Decorative arts; Plate,enamels visual works decorative arts plate,norm_label,1.0
+entity:artifacttype:enamels-visual-works-decorative-arts-vases,Enamels (visual works); Decorative arts; Vases,enamels visual works decorative arts vases,norm_label,1.0
+entity:artifacttype:envelopes-theater-programs,Envelopes; Theater programs,envelopes theater programs,norm_label,1.0
+entity:artifacttype:eyeglass-cases-embroidery-visual-works,Eyeglass cases; Embroidery (visual works),eyeglass cases embroidery visual works,norm_label,1.0
+entity:artifacttype:felt-textile-ceremonial-objects-rugs-mosen-textiles,Felt (textile); Ceremonial objects; Rugs; Mosen; Textiles,felt textile ceremonial objects rugs mosen textiles,norm_label,1.0
+entity:artifacttype:figures-representations-drawings,Figures (representations); Drawings,figures representations drawings,norm_label,1.0
+entity:artifacttype:figures-representations-prints,Figures (representations); Prints,figures representations prints,norm_label,1.0
+entity:artifacttype:fill-papers-wall-coverings,Fill papers; Wall coverings,fill papers wall coverings,norm_label,1.0
+entity:artifacttype:fragment-of-a-rank-badge-textiles,Fragment of a rank badge; Textiles,fragment of a rank badge textiles,norm_label,1.0
+entity:artifacttype:fragment-of-rank-badge-textiles,Fragment of rank badge; Textiles,fragment of rank badge textiles,norm_label,1.0
+entity:artifacttype:fragments,Fragments,fragments,norm_label,1.0
+entity:artifacttype:fragments-of-a-rank-badge-textiles,Fragments of a rank badge; Textiles,fragments of a rank badge textiles,norm_label,1.0
+entity:artifacttype:furnishings,Furnishings,furnishings,norm_label,1.0
+entity:artifacttype:furniture,Furniture,furniture,norm_label,1.0
+entity:artifacttype:furniture-decorative-arts-armchairs,Furniture; Decorative arts; Armchairs,furniture decorative arts armchairs,norm_label,1.0
+entity:artifacttype:furniture-drawings,Furniture; Drawings,furniture drawings,norm_label,1.0
+entity:artifacttype:furniture-furnishings,Furniture; Furnishings,furniture furnishings,norm_label,1.0
+entity:artifacttype:furniture-mirrors-furnishings,Furniture; Mirrors; Furnishings,furniture mirrors furnishings,norm_label,1.0
+entity:artifacttype:furniture-prints,Furniture; Prints,furniture prints,norm_label,1.0
+entity:artifacttype:glass,Glass,glass,norm_label,1.0
+entity:artifacttype:glassware-bowls-decorative-arts,Glassware; Bowls; Decorative arts,glassware bowls decorative arts,norm_label,1.0
+entity:artifacttype:glassware-bowls-vessels-decorative-arts,Glassware; Bowls (vessels); Decorative arts,glassware bowls vessels decorative arts,norm_label,1.0
+entity:artifacttype:glassware-decorative-arts-snuff-bottles,Glassware; Decorative arts; Snuff bottles,glassware decorative arts snuff bottles,norm_label,1.0
+entity:artifacttype:graphic-arts,Graphic arts,graphic arts,norm_label,1.0
+entity:artifacttype:hangings-coverings-embroidery-visual-works,Hangings (coverings); Embroidery (visual works),hangings coverings embroidery visual works,norm_label,1.0
+entity:artifacttype:hangings-coverings-textiles,Hangings (coverings); Textiles,hangings coverings textiles,norm_label,1.0
+entity:artifacttype:hats,Hats,hats,norm_label,1.0
+entity:artifacttype:headboard-panel-embroidery-visual-works,Headboard panel; Embroidery (visual works),headboard panel embroidery visual works,norm_label,1.0
+entity:artifacttype:insignias-badges-embroidery-visual-works,Insignias; Badges; Embroidery (visual works),insignias badges embroidery visual works,norm_label,1.0
+entity:artifacttype:insignias-badges-textiles,Insignias; Badges; Textiles,insignias badges textiles,norm_label,1.0
+entity:artifacttype:interior-views-bound-print,Interior views; Bound print,interior views bound print,norm_label,1.0
+entity:artifacttype:interior-views-drawings,Interior views; Drawings,interior views drawings,norm_label,1.0
+entity:artifacttype:interior-views-table-screen-and-stand-decorative-arts,Interior views; Table screen and stand; Decorative arts,interior views table screen and stand decorative arts,norm_label,1.0
+entity:artifacttype:jars,Jars,jars,norm_label,1.0
+entity:artifacttype:jewelry,Jewelry,jewelry,norm_label,1.0
+entity:artifacttype:jewelry-decorative-arts-fingernail-guard,Jewelry; Decorative arts; Fingernail guard,jewelry decorative arts fingernail guard,norm_label,1.0
+entity:artifacttype:jewelry-decorative-arts-headgear,Jewelry; Decorative arts; Headgear,jewelry decorative arts headgear,norm_label,1.0
+entity:artifacttype:knife-money,knife money,knife money,norm_label,1.0
+entity:artifacttype:knives-decorative-arts-cutlery,Knives; Decorative arts; Cutlery,knives decorative arts cutlery,norm_label,1.0
+entity:artifacttype:lace-handkerchief-edging-lace-needlework,"lace, handkerchief edging; Lace (needlework)",lace handkerchief edging lace needlework,norm_label,1.0
+entity:artifacttype:lace-needlework,Lace (needlework),lace needlework,norm_label,1.0
+entity:artifacttype:lace-needlework-lace-sample,"Lace (needlework); lace, sample",lace needlework lace sample,norm_label,1.0
+entity:artifacttype:lacquer-works,Lacquer works,lacquer works,norm_label,1.0
+entity:artifacttype:lantern-slide-games-toys-recreational-artifacts,Lantern slide; Games; Toys (recreational artifacts),lantern slide games toys recreational artifacts,norm_label,1.0
+entity:artifacttype:lighting-devices,Lighting Devices,lighting devices,norm_label,1.0
+entity:artifacttype:lithographs,Lithographs,lithographs,norm_label,1.0
+entity:artifacttype:lobby-cards,Lobby cards,lobby cards,norm_label,1.0
+entity:artifacttype:main-garments-trousers-girls-girl-trousers,"Main garments; trousers, girl's; Girl; Trousers",main garments trousers girls girl trousers,norm_label,1.0
+entity:artifacttype:manuscripts,Manuscripts,manuscripts,norm_label,1.0
+entity:artifacttype:masks,Masks,masks,norm_label,1.0
+entity:artifacttype:match-safes-containers-decorative-arts,Match safes; Containers; Decorative arts,match safes containers decorative arts,norm_label,1.0
+entity:artifacttype:material-specimens,Material Specimens,material specimens,norm_label,1.0
+entity:artifacttype:mats-furniture-coverings-embroidery-visual-works,Mats (furniture coverings); Embroidery (visual works),mats furniture coverings embroidery visual works,norm_label,1.0
+entity:artifacttype:measuring-devices-sundial-compass-timepieces-decorative-arts,Measuring devices; sundial compass; Timepieces; Decorative arts,measuring devices sundial compass timepieces decorative arts,norm_label,1.0
+entity:artifacttype:medallions-medals-embroidery-visual-works,Medallions (medals); Embroidery (visual works),medallions medals embroidery visual works,norm_label,1.0
+entity:artifacttype:metalwork,Metalwork,metalwork,norm_label,1.0
+entity:artifacttype:metalwork-decorative-arts,Metalwork; Decorative arts,metalwork decorative arts,norm_label,1.0
+entity:artifacttype:metalwork-decorative-arts-teapots,Metalwork; Decorative arts; Teapots,metalwork decorative arts teapots,norm_label,1.0
+entity:artifacttype:mirrors,Mirrors,mirrors,norm_label,1.0
+entity:artifacttype:models,Models,models,norm_label,1.0
+entity:artifacttype:musical-instruments,Musical instruments,musical instruments,norm_label,1.0
+entity:artifacttype:natural-materials,Natural materials,natural materials,norm_label,1.0
+entity:artifacttype:neckwear-costume-accessories-costume,Neckwear; Costume accessories; Costume,neckwear costume accessories costume,norm_label,1.0
+entity:artifacttype:neckwear-embroidery-visual-works,Neckwear; Embroidery (visual works),neckwear embroidery visual works,norm_label,1.0
+entity:artifacttype:newspaper-clipping-printed-clipping-newspaper,"Newspaper Clipping; Printed; clipping, newspaper",newspaper clipping printed clipping newspaper,norm_label,1.0
+entity:artifacttype:ornaments-jewelry,Ornaments; Jewelry,ornaments jewelry,norm_label,1.0
+entity:artifacttype:ornaments-prints,Ornaments; Prints,ornaments prints,norm_label,1.0
+entity:artifacttype:paintings,Paintings,paintings,norm_label,1.0
+entity:artifacttype:paintings-figures-representations,Paintings; Figures (representations),paintings figures representations,norm_label,1.0
+entity:artifacttype:paintings-still-lifes,Paintings; Still lifes,paintings still lifes,norm_label,1.0
+entity:artifacttype:paintings-with-calligraphy,Paintings with Calligraphy,paintings with calligraphy,norm_label,1.0
+entity:artifacttype:panel-for-a-fan-case-embroidery-visual-works,Panel for a fan case; Embroidery (visual works),panel for a fan case embroidery visual works,norm_label,1.0
+entity:artifacttype:panels,Panels,panels,norm_label,1.0
+entity:artifacttype:panels-textiles,Panels; Textiles,panels textiles,norm_label,1.0
+entity:artifacttype:photographs,Photographs,photographs,norm_label,1.0
+entity:artifacttype:photographs-furniture,Photographs; Furniture,photographs furniture,norm_label,1.0
+entity:artifacttype:pictures-object-genre,Pictures (object genre),pictures object genre,norm_label,1.0
+entity:artifacttype:pillow-shams-textiles,Pillow shams; Textiles,pillow shams textiles,norm_label,1.0
+entity:artifacttype:plaques,Plaques,plaques,norm_label,1.0
+entity:artifacttype:plate-plate,plate; Plate,plate plate,norm_label,1.0
+entity:artifacttype:platters,Platters,platters,norm_label,1.0
+entity:artifacttype:prints,Prints,prints,norm_label,1.0
+entity:artifacttype:punch-bowls,Punch bowls,punch bowls,norm_label,1.0
+entity:artifacttype:punch-card-railroad,"punch card, railroad",punch card railroad,norm_label,1.0
+entity:artifacttype:rank-badge-buzi-textiles,Rank badge (buzi); Textiles,rank badge buzi textiles,norm_label,1.0
+entity:artifacttype:recreational-artifacts,Recreational Artifacts,recreational artifacts,norm_label,1.0
+entity:artifacttype:ribbon-material-textiles,Ribbon (material); Textiles,ribbon material textiles,norm_label,1.0
+entity:artifacttype:riding-equipment,Riding Equipment,riding equipment,norm_label,1.0
+entity:artifacttype:ritual-implements,Ritual Implements,ritual implements,norm_label,1.0
+entity:artifacttype:ritual-objects-metalwork-decorative-arts,Ritual objects Metalwork Decorative arts,ritual objects metalwork decorative arts,norm_label,1.0
+entity:artifacttype:roundels-embroidery-visual-works,Roundels; Embroidery (visual works),roundels embroidery visual works,norm_label,1.0
+entity:artifacttype:rubbings,Rubbings,rubbings,norm_label,1.0
+entity:artifacttype:saucers-plates,Saucers (plates),saucers plates,norm_label,1.0
+entity:artifacttype:scores,Scores,scores,norm_label,1.0
+entity:artifacttype:sculpture,Sculpture,sculpture,norm_label,1.0
+entity:artifacttype:sculpture-decorative-arts-covered-bowls,Sculpture; Decorative arts; Covered bowls,sculpture decorative arts covered bowls,norm_label,1.0
+entity:artifacttype:sculpture-figures-representations-decorative-arts,Sculpture; Figures (representations); Decorative arts,sculpture figures representations decorative arts,norm_label,1.0
+entity:artifacttype:sculpture-sculpture-on-stand-decorative-arts,Sculpture; Sculpture on stand; Decorative arts,sculpture sculpture on stand decorative arts,norm_label,1.0
+entity:artifacttype:seals,Seals,seals,norm_label,1.0
+entity:artifacttype:shades-coverings-wall-coverings,Shades (coverings); Wall coverings,shades coverings wall coverings,norm_label,1.0
+entity:artifacttype:shawls-embroidery-visual-works,Shawls; Embroidery (visual works),shawls embroidery visual works,norm_label,1.0
+entity:artifacttype:shirts-jean-jackets-jackets-trousers-jeans,Shirts; jean jackets; jackets; Trousers; jeans,shirts jean jackets jackets trousers jeans,norm_label,1.0
+entity:artifacttype:sleeve-cuff-embroidery-visual-works,Sleeve cuff; Embroidery (visual works),sleeve cuff embroidery visual works,norm_label,1.0
+entity:artifacttype:sleeves-embroidery-visual-works,Sleeves; Embroidery (visual works),sleeves embroidery visual works,norm_label,1.0
+entity:artifacttype:snuff-bottle-and-stopper-containers-decorative-arts,Snuff bottle and stopper; Containers; Decorative arts,snuff bottle and stopper containers decorative arts,norm_label,1.0
+entity:artifacttype:songs,Songs,songs,norm_label,1.0
+entity:artifacttype:songsheet,songsheet,songsheet,norm_label,1.0
+entity:artifacttype:spectacle-case-embroidery-visual-works,Spectacle case; Embroidery (visual works),spectacle case embroidery visual works,norm_label,1.0
+entity:artifacttype:spoons,Spoons,spoons,norm_label,1.0
+entity:artifacttype:stand-decorative-arts,Stand; Decorative arts,stand decorative arts,norm_label,1.0
+entity:artifacttype:stereoview-stereograph,stereoview; stereograph,stereoview stereograph,norm_label,1.0
+entity:artifacttype:t-shirts-jackets-trousers,T-shirts; jackets; Trousers,t-shirts jackets trousers,norm_label,1.0
+entity:artifacttype:table-frontal-textiles,Table frontal; Textiles,table frontal textiles,norm_label,1.0
+entity:artifacttype:tablets,Tablets,tablets,norm_label,1.0
+entity:artifacttype:tableware-design-drawings-drawings,Tableware; Design drawings; Drawings,tableware design drawings drawings,norm_label,1.0
+entity:artifacttype:tableware-design-drawings-prints,Tableware; Design drawings; Prints,tableware design drawings prints,norm_label,1.0
+entity:artifacttype:teabowl-bowl-tea,"teabowl; bowl, tea",teabowl bowl tea,norm_label,1.0
+entity:artifacttype:textile-arts,Textile Arts,textile arts,norm_label,1.0
+entity:artifacttype:textile-fragment-textiles,Textile fragment; Textiles,textile fragment textiles,norm_label,1.0
+entity:artifacttype:textile-fragments-textiles,Textile fragments; Textiles,textile fragments textiles,norm_label,1.0
+entity:artifacttype:textiles,Textiles,textiles,norm_label,1.0
+entity:artifacttype:theater-programs,Theater programs,theater programs,norm_label,1.0
+entity:artifacttype:theater-programs-tickets,Theater programs; Tickets,theater programs tickets,norm_label,1.0
+entity:artifacttype:tools-and-equipment,Tools and equipment,tools and equipment,norm_label,1.0
+entity:artifacttype:trim-textiles,Trim; Textiles,trim textiles,norm_label,1.0
+entity:artifacttype:unclassified,Unclassified,unclassified,norm_label,1.0
+entity:artifacttype:uncut-waistcoat-front-embroidery-visual-works,Uncut waistcoat front; Embroidery (visual works),uncut waistcoat front embroidery visual works,norm_label,1.0
+entity:artifacttype:valances-embroidery-visual-works,Valances; Embroidery (visual works),valances embroidery visual works,norm_label,1.0
+entity:artifacttype:valances-textiles,Valances; Textiles,valances textiles,norm_label,1.0
+entity:artifacttype:vessels,Vessels,vessels,norm_label,1.0
+entity:artifacttype:vessels-containers,Vessels (containers),vessels containers,norm_label,1.0
+entity:artifacttype:vests-garments-vest-girls-main-garments-girl,"Vests (garments); vest, girl's; Main garments; Girl",vests garments vest girls main garments girl,norm_label,1.0
+entity:artifacttype:wall-coverings,Wall coverings,wall coverings,norm_label,1.0
+entity:artifacttype:weapons-and-ammunition,Weapons and Ammunition,weapons and ammunition,norm_label,1.0
+entity:artifacttype:weapons-armor-protective-wear,Weapons; Armor (protective wear),weapons armor protective wear,norm_label,1.0
+entity:artifacttype:window-shade-and-cornice-wall-coverings,Window shade and cornice; Wall coverings,window shade and cornice wall coverings,norm_label,1.0
+entity:artifacttype:womans-short-coat-costume-accessories-costume,Woman's short coat; Costume accessories; Costume,womans short coat costume accessories costume,norm_label,1.0
+entity:artist:1239-after-1301,1239–after 1301),1239–after 1301,norm_label,0.8
+entity:artist:1254-1322,1254–1322),1254–1322,norm_label,0.8
+entity:artist:1450-1535,1450–1535),1450–1535,norm_label,0.8
+entity:artist:1459-1508,1459–1508),1459–1508,norm_label,0.8
+entity:artist:1525-1605,1525–1605),1525–1605,norm_label,0.8
+entity:artist:1585-after-1664,1585–after 1664),1585–after 1664,norm_label,0.8
+entity:artist:1662-1721,1662–1721),1662–1721,norm_label,0.8
+entity:artist:1687-1770,1687–1770),1687–1770,norm_label,0.8
+entity:artist:1720-1776,1720–1776),1720–1776,norm_label,0.8
+entity:artist:1858-1927,1858–1927),1858–1927,norm_label,0.8
+entity:artist:1st-arkansas-regiment-volunteer-infantry-african-descent,1st Arkansas Regiment Volunteer Infantry (African Descent),1st arkansas regiment volunteer infantry african descent,norm_label,0.8
+entity:artist:Q1042125,Hua Yan 華喦,hua yan 華喦,wikidata,0.95
+entity:artist:Q10564133,Qian Hui'an 錢慧安,qian huian 錢慧安,wikidata,0.95
+entity:artist:Q106513189,Ananda,ananda,wikidata,0.95
+entity:artist:Q106513189,Worch et Cie,worch et cie,wikidata,0.95
+entity:artist:Q106513189,Yamanaka,yamanaka,wikidata,0.95
+entity:artist:Q108354092,Jui,jui,wikidata,0.95
+entity:artist:Q108354092,Li,li,wikidata,0.95
+entity:artist:Q10867336,Shangguan Zhou 上官周,shangguan zhou 上官周,wikidata,0.95
+entity:artist:Q109105009,Bahr,bahr,wikidata,0.95
+entity:artist:Q109105009,Peter Johannes,peter johannes,wikidata,0.95
+entity:artist:Q109856186,Pan Gongshou 潘恭壽,pan gongshou 潘恭壽,wikidata,0.95
+entity:artist:Q110400668,Jones,jones,wikidata,0.95
+entity:artist:Q110400668,Robert,robert,wikidata,0.95
+entity:artist:Q110476493,Estate of Agnes E. Meyer,estate of agnes e meyer,wikidata,0.95
+entity:artist:Q110740452,Scroggy,scroggy,wikidata,0.95
+entity:artist:Q110740452,Thomas M.,thomas m,wikidata,0.95
+entity:artist:Q11075314,Dai Mingyue 戴明說,dai mingyue 戴明說,wikidata,0.95
+entity:artist:Q11084707,Fang Shishu 方士庶,fang shishu 方士庶,wikidata,0.95
+entity:artist:Q11096759,Li Rihua 李日華,li rihua 李日華,wikidata,0.95
+entity:artist:Q11137021,Wang Youdun 汪由敦,wang youdun 汪由敦,wikidata,0.95
+entity:artist:Q113721827,Edgar,edgar,wikidata,0.95
+entity:artist:Q113721827,Worch,worch,wikidata,0.95
+entity:artist:Q1138248,Cox,cox,wikidata,0.95
+entity:artist:Q1138248,Kenyon,kenyon,wikidata,0.95
+entity:artist:Q11610448,Weng Fanggang 翁方綱,weng fanggang 翁方綱,wikidata,0.95
+entity:artist:Q118914089,Antonion Zeno,antonion zeno,wikidata,0.95
+entity:artist:Q118914089,Shindler,shindler,wikidata,0.95
+entity:artist:Q1223,George,george,wikidata,0.95
+entity:artist:Q1223,Washington,washington,wikidata,0.95
+entity:artist:Q12805597,Aleksandr,aleksandr,wikidata,0.95
+entity:artist:Q12805597,Vershinin,vershinin,wikidata,0.95
+entity:artist:Q1329823,Ascribed to Yun Shouping 惲壽平,ascribed to yun shouping 惲壽平,wikidata,0.95
+entity:artist:Q1329823,Yun Shouping 惲壽平,yun shouping 惲壽平,wikidata,0.95
+entity:artist:Q13409670,Hickman,hickman,wikidata,0.95
+entity:artist:Q13409670,Nathaniel,nathaniel,wikidata,0.95
+entity:artist:Q1360244,Manner of Xia Gui 夏圭,manner of xia gui 夏圭,wikidata,0.95
+entity:artist:Q1368910,Kellogg,kellogg,wikidata,0.95
+entity:artist:Q1368910,Miner Kilbourne,miner kilbourne,wikidata,0.95
+entity:artist:Q15430363,Hu Zhengyan 胡正言,hu zhengyan 胡正言,wikidata,0.95
+entity:artist:Q16075853,Dong Bangda 董邦達,dong bangda 董邦達,wikidata,0.95
+entity:artist:Q16961275,American Art Association,american art association,wikidata,0.95
+entity:artist:Q17864440,Grant,grant,wikidata,0.95
+entity:artist:Q17864440,Julia,julia,wikidata,0.95
+entity:artist:Q18511634,Zhang Xiong 張熊,zhang xiong 張熊,wikidata,0.95
+entity:artist:Q190568,Eadweard,eadweard,wikidata,0.95
+entity:artist:Q190568,Muybridge,muybridge,wikidata,0.95
+entity:artist:Q1965666,John,john,wikidata,0.95
+entity:artist:Q1965666,Nash,nash,wikidata,0.95
+entity:artist:Q198097,Bada Shanren (Zhu Da) 八大山人 (朱耷),bada shanren zhu da 八大山人 朱耷,wikidata,0.95
+entity:artist:Q200798,Ando,ando,wikidata,0.95
+entity:artist:Q200798,Hiroshige,hiroshige,wikidata,0.95
+entity:artist:Q2032614,Traditionally attributed to Ren Renfa 任仁發,traditionally attributed to ren renfa 任仁發,wikidata,0.95
+entity:artist:Q2080165,Helen,helen,wikidata,0.95
+entity:artist:Q2080165,Hyde,hyde,wikidata,0.95
+entity:artist:Q21388442,Arnoult,arnoult,wikidata,0.95
+entity:artist:Q21388442,Nicolas,nicolas,wikidata,0.95
+entity:artist:Q21449862,Eduard,eduard,wikidata,0.95
+entity:artist:Q21449862,Gaertner,gaertner,wikidata,0.95
+entity:artist:Q21504853,Elihu,elihu,wikidata,0.95
+entity:artist:Q21504853,Vedder,vedder,wikidata,0.95
+entity:artist:Q216936,Sean John,sean john,wikidata,0.95
+entity:artist:Q21810574,Li Huayi 李華弌,li huayi 李華弌,wikidata,0.95
+entity:artist:Q2248916,Tang Yin 唐寅,tang yin 唐寅,wikidata,0.95
+entity:artist:Q25439303,Fan,fan,wikidata,0.95
+entity:artist:Q25439303,George,george,wikidata,0.95
+entity:artist:Q270130,Traditionally attributed to Guan Daosheng 管道昇,traditionally attributed to guan daosheng 管道昇,wikidata,0.95
+entity:artist:Q28737356,Lee Chun-Yi (Li Junyi) 李君毅,lee chun-yi li junyi 李君毅,wikidata,0.95
+entity:artist:Q30230341,Chen Chi-kwan (Chen Qikuan) 陳其寬,chen chi-kwan chen qikuan 陳其寬,wikidata,0.95
+entity:artist:Q3028266,Ren Yi 任頤,ren yi 任頤,wikidata,0.95
+entity:artist:Q3138790,Lan Ying 藍瑛,lan ying 藍瑛,wikidata,0.95
+entity:artist:Q3165352,Dugourc,dugourc,wikidata,0.95
+entity:artist:Q3165352,Jean DÃ©mosthÃ¨ne,jean dã©mosthã¨ne,wikidata,0.95
+entity:artist:Q3200407,Kuncan 髡殘,kuncan 髡殘,wikidata,0.95
+entity:artist:Q320129,Style of Mi Fu 米芾,style of mi fu 米芾,wikidata,0.95
+entity:artist:Q330206,Manner of Wang E 王諤,manner of wang e 王諤,wikidata,0.95
+entity:artist:Q343633,Burgess,burgess,wikidata,0.95
+entity:artist:Q343633,Ruth Payne,ruth payne,wikidata,0.95
+entity:artist:Q347181,Adam,adam,wikidata,0.95
+entity:artist:Q347181,Victor Vincent,victor vincent,wikidata,0.95
+entity:artist:Q3566124,Traditionally attributed to Wang Zhenpeng 王振鵬,traditionally attributed to wang zhenpeng 王振鵬,wikidata,0.95
+entity:artist:Q3570964,Xiao Yuncong 蕭雲從,xiao yuncong 蕭雲從,wikidata,0.95
+entity:artist:Q3571842,Yao Shou 姚綬,yao shou 姚綬,wikidata,0.95
+entity:artist:Q36923787,Crace,crace,wikidata,0.95
+entity:artist:Q36923787,Frederick,frederick,wikidata,0.95
+entity:artist:Q369608,Qi Baishi (Qi Huang) 齊白石 (齊璜),qi baishi qi huang 齊白石 齊璜,wikidata,0.95
+entity:artist:Q37017903,Kriger,kriger,wikidata,0.95
+entity:artist:Q37017903,Simon,simon,wikidata,0.95
+entity:artist:Q37017903,Simon Kriger Inc.,simon kriger inc,wikidata,0.95
+entity:artist:Q374713,Jean-Baptiste,jean-baptiste,wikidata,0.95
+entity:artist:Q374713,Pillement,pillement,wikidata,0.95
+entity:artist:Q4164300,Sun Jin 孫金,sun jin 孫金,wikidata,0.95
+entity:artist:Q4233718,Unidentified Artist,unidentified artist,wikidata,0.95
+entity:artist:Q42511,Inc.,inc,wikidata,0.95
+entity:artist:Q42511,Wells,wells,wikidata,0.95
+entity:artist:Q42772724,Zhang Hong 張宏,zhang hong 張宏,wikidata,0.95
+entity:artist:Q45430740,COPY AFTER Qiu Wenbo 丘文播,copy after qiu wenbo 丘文播,wikidata,0.95
+entity:artist:Q45545802,Jin Junming,jin junming,wikidata,0.95
+entity:artist:Q45569178,Attributed to Ye Cheng,attributed to ye cheng,wikidata,0.95
+entity:artist:Q45585501,Wang Chen 王宸,wang chen 王宸,wikidata,0.95
+entity:artist:Q45656968,Manner of Jiang Song 蒋嵩,manner of jiang song 蒋嵩,wikidata,0.95
+entity:artist:Q469439,Shitao (Zhu Ruoji) 石濤 (朱若極),shitao zhu ruoji 石濤 朱若極,wikidata,0.95
+entity:artist:Q47842,Empress Dowager Cixi 慈禧,empress dowager cixi 慈禧,wikidata,0.95
+entity:artist:Q47842,Manner of Empress Dowager Cixi 慈禧,manner of empress dowager cixi 慈禧,wikidata,0.95
+entity:artist:Q4973682,Bromley Hall,bromley hall,wikidata,0.95
+entity:artist:Q5080060,Akimoto,akimoto,wikidata,0.95
+entity:artist:Q5080060,Daitoku-ji,daitoku-ji,wikidata,0.95
+entity:artist:Q5080060,Fujita,fujita,wikidata,0.95
+entity:artist:Q5080060,Ho,ho,wikidata,0.95
+entity:artist:Q5080060,Kee,kee,wikidata,0.95
+entity:artist:Q5080060,Pong,pong,wikidata,0.95
+entity:artist:Q5080060,Samurai Shokai,samurai shokai,wikidata,0.95
+entity:artist:Q5080060,Sato,sato,wikidata,0.95
+entity:artist:Q5080060,Sung,sung,wikidata,0.95
+entity:artist:Q5080060,Tanaka,tanaka,wikidata,0.95
+entity:artist:Q5080060,Whan,whan,wikidata,0.95
+entity:artist:Q5080060,Worch et Cie,worch et cie,wikidata,0.95
+entity:artist:Q5080060,Yamanaka,yamanaka,wikidata,0.95
+entity:artist:Q537211,Dong Qichang 董其昌,dong qichang 董其昌,wikidata,0.95
+entity:artist:Q55065697,Frederick,frederick,wikidata,0.95
+entity:artist:Q55065697,Marschall,marschall,wikidata,0.95
+entity:artist:Q558251,attributed to Chen Chun 陳淳,attributed to chen chun 陳淳,wikidata,0.95
+entity:artist:Q558863,Traditional Attribution to Shen Zhou 沈周,traditional attribution to shen zhou 沈周,wikidata,0.95
+entity:artist:Q5603,Andrew,andrew,wikidata,0.95
+entity:artist:Q5603,George Findlay,george findlay,wikidata,0.95
+entity:artist:Q588110,Previously attributed to Chen Hongshou 陳洪綬,previously attributed to chen hongshou 陳洪綬,wikidata,0.95
+entity:artist:Q5925500,Huang Ding 黃鼎,huang ding 黃鼎,wikidata,0.95
+entity:artist:Q615282,Adolphe,adolphe,wikidata,0.95
+entity:artist:Q615282,Mouilleron,mouilleron,wikidata,0.95
+entity:artist:Q65844980,Nan Wen,nan wen,wikidata,0.95
+entity:artist:Q6653515,Liu Kuo-sung (Liu Guosong) 劉國松,liu kuo-sung liu guosong 劉國松,wikidata,0.95
+entity:artist:Q66749854,Donald Shaw,donald shaw,wikidata,0.95
+entity:artist:Q66749854,MacLaughlan,maclaughlan,wikidata,0.95
+entity:artist:Q6691,Homer,homer,wikidata,0.95
+entity:artist:Q6691,Winslow,winslow,wikidata,0.95
+entity:artist:Q67416749,Yamanaka,yamanaka,wikidata,0.95
+entity:artist:Q696708,Liu Dan 劉丹,liu dan 劉丹,wikidata,0.95
+entity:artist:Q697720,Li Shan 李鱓,li shan 李鱓,wikidata,0.95
+entity:artist:Q698454,Gao Qipei 高其佩,gao qipei 高其佩,wikidata,0.95
+entity:artist:Q698454,Manner of Gao Qipei 高其佩,manner of gao qipei 高其佩,wikidata,0.95
+entity:artist:Q701076,Huang Shen 黄慎,huang shen 黄慎,wikidata,0.95
+entity:artist:Q711481,Wang Jian 王鑑,wang jian 王鑑,wikidata,0.95
+entity:artist:Q712007,Manner of Zheng Xie 鄭燮,manner of zheng xie 鄭燮,wikidata,0.95
+entity:artist:Q713272,Lee,lee,wikidata,0.95
+entity:artist:Q713272,Sung-shan,sung-shan,wikidata,0.95
+entity:artist:Q716222,Wang Hui 王翬,wang hui 王翬,wikidata,0.95
+entity:artist:Q716959,Jiang Tingxi 蔣廷錫,jiang tingxi 蔣廷錫,wikidata,0.95
+entity:artist:Q740332,Liang Kai 梁楷,liang kai 梁楷,wikidata,0.95
+entity:artist:Q7486,attributed to Zhao Ji (Emperor Huizong) 赵佶 (宋徽宗),attributed to zhao ji emperor huizong 赵佶 宋徽宗,wikidata,0.95
+entity:artist:Q75070738,Ernest Thompson,ernest thompson,wikidata,0.95
+entity:artist:Q75070738,Seton,seton,wikidata,0.95
+entity:artist:Q769372,Traditionally attributed to Qiu Ying 仇英,traditionally attributed to qiu ying 仇英,wikidata,0.95
+entity:artist:Q773765,Joseph,joseph,wikidata,0.95
+entity:artist:Q773765,Stella,stella,wikidata,0.95
+entity:artist:Q7782112,Theodore,theodore,wikidata,0.95
+entity:artist:Q7782112,Wores,wores,wikidata,0.95
+entity:artist:Q8004299,Delamotte,delamotte,wikidata,0.95
+entity:artist:Q8004299,William Alfred,william alfred,wikidata,0.95
+entity:artist:Q8060022,Yuan Jiang 袁江,yuan jiang 袁江,wikidata,0.95
+entity:artist:Q835579,Bian Shoumin 邊壽民,bian shoumin 邊壽民,wikidata,0.95
+entity:artist:Q835924,Copy after Zhou Wenju 周文矩,copy after zhou wenju 周文矩,wikidata,0.95
+entity:artist:Q86167,Anonymous,anonymous,wikidata,0.95
+entity:artist:Q86167,or Follower of Leng Mei 冷枚,or follower of leng mei 冷枚,wikidata,0.95
+entity:artist:Q865938,Wen Jia 文嘉,wen jia 文嘉,wikidata,0.95
+entity:artist:Q87185060,L.,l,wikidata,0.95
+entity:artist:Q87185060,Wannieck,wannieck,wikidata,0.95
+entity:artist:Q877224,Manner of Guo Zhongshu 郭忠恕,manner of guo zhongshu 郭忠恕,wikidata,0.95
+entity:artist:Q890282,Edited by Gao Fenghan 高鳳翰,edited by gao fenghan 高鳳翰,wikidata,0.95
+entity:artist:Q890282,Gao Fenghan 高鳳翰,gao fenghan 高鳳翰,wikidata,0.95
+entity:artist:Q910270,Yuan Yao 袁燿,yuan yao 袁燿,wikidata,0.95
+entity:artist:Q9441,Yamanaka,yamanaka,wikidata,0.95
+entity:artist:Q947892,Fang Lijun,fang lijun,wikidata,0.95
+entity:artist:Q948598,Albert Pinkham,albert pinkham,wikidata,0.95
+entity:artist:Q948598,Ryder,ryder,wikidata,0.95
+entity:artist:Q957734,Du Jin 杜堇,du jin 杜堇,wikidata,0.95
+entity:artist:Q971521,Handforth,handforth,wikidata,0.95
+entity:artist:Q971521,Thomas,thomas,wikidata,0.95
+entity:artist:aaron,Aaron,aaron,norm_label,0.8
+entity:artist:abe,Abe,abe,norm_label,0.8
+entity:artist:abel-william,Abel William,abel william,norm_label,0.8
+entity:artist:active-14th-century,active 14th century),active 14th century,norm_label,0.8
+entity:artist:active-15th-century,active 15th century),active 15th century,norm_label,0.8
+entity:artist:active-16th-century,active 16th century),active 16th century,norm_label,0.8
+entity:artist:active-16th-mid-16th-century,active 16th–mid 16th century),active 16th–mid 16th century,norm_label,0.8
+entity:artist:active-19th-century,active 19th century),active 19th century,norm_label,0.8
+entity:artist:active-about-1195-1230,active about 1195 – 1230),active about 1195 – 1230,norm_label,0.8
+entity:artist:active-around-1740-1780,active around 1740–1780),active around 1740–1780,norm_label,0.8
+entity:artist:active-late-16th-century,active late 16th century),active late 16th century,norm_label,0.8
+entity:artist:active-late-17th-century,active late 17th century),active late 17th century,norm_label,0.8
+entity:artist:adachi,Adachi,adachi,norm_label,0.8
+entity:artist:adolphe,Adolphe,adolphe,norm_label,0.8
+entity:artist:agnes-e,Agnes E.,agnes e,norm_label,0.8
+entity:artist:alice-pike,Alice Pike,alice pike,norm_label,0.8
+entity:artist:allen,Allen,allen,norm_label,0.8
+entity:artist:allie,Allie,allie,norm_label,0.8
+entity:artist:amoy-lace-guild,Amoy Lace Guild,amoy lace guild,norm_label,0.8
+entity:artist:an-davenport-co,A.N. Davenport Co.,an davenport co,norm_label,0.8
+entity:artist:ananda,Ananda,ananda,norm_label,0.8
+entity:artist:anna-m,Anna M.,anna m,norm_label,0.8
+entity:artist:anna-may,Anna May,anna may,norm_label,0.8
+entity:artist:anne,Anne,anne,norm_label,0.8
+entity:artist:arroyo,Arroyo,arroyo,norm_label,0.8
+entity:artist:arsacio-vanegas,Arsacio Vanegas,arsacio vanegas,norm_label,0.8
+entity:artist:art-ancien-de-chine,Art Ancien de Chine,art ancien de chine,norm_label,0.8
+entity:artist:arthur,Arthur,arthur,norm_label,0.8
+entity:artist:arthur-m,Arthur M.,arthur m,norm_label,0.8
+entity:artist:ashikaga,Ashikaga,ashikaga,norm_label,0.8
+entity:artist:attributed-to-xia-gui-chinese,Attributed to: Xia Gui (Chinese,attributed to xia gui chinese,norm_label,0.8
+entity:artist:avril,Avril,avril,norm_label,0.8
+entity:artist:b-f,B. F.,b f,norm_label,0.8
+entity:artist:backhouse,Backhouse,backhouse,norm_label,0.8
+entity:artist:bagley,Bagley,bagley,norm_label,0.8
+entity:artist:bahr,Bahr,bahr,norm_label,0.8
+entity:artist:barney,Barney,barney,norm_label,0.8
+entity:artist:baron,Baron,baron,norm_label,0.8
+entity:artist:berthold,Berthold,berthold,norm_label,0.8
+entity:artist:biddle,Biddle,biddle,norm_label,0.8
+entity:artist:bing,Bing,bing,norm_label,0.8
+entity:artist:black-fashion-museum,Black Fashion Museum,black fashion museum,norm_label,0.8
+entity:artist:born-in-1477,born in 1477),born in 1477,norm_label,0.8
+entity:artist:boucher,Boucher,boucher,norm_label,0.8
+entity:artist:breton,Breton,breton,norm_label,0.8
+entity:artist:bros,Bros.,bros,norm_label,0.8
+entity:artist:brown,Brown,brown,norm_label,0.8
+entity:artist:brownson,Brownson,brownson,norm_label,0.8
+entity:artist:buddha,buddha,buddha,norm_label,0.8
+entity:artist:bunkio,Bunkio,bunkio,norm_label,0.8
+entity:artist:bunshichi,Bunshichi,bunshichi,norm_label,0.8
+entity:artist:burchard,Burchard,burchard,norm_label,0.8
+entity:artist:butler,Butler,butler,norm_label,0.8
+entity:artist:by,By,by,norm_label,0.8
+entity:artist:c-d,C. D.,c d,norm_label,0.8
+entity:artist:c-k,C. K.,c k,norm_label,0.8
+entity:artist:c-t,C. T.,c t,norm_label,0.8
+entity:artist:c-t-loo,C. T. Loo,c t loo,norm_label,0.8
+entity:artist:c-t-loo-chinese-art,C. T. Loo Chinese Art,c t loo chinese art,norm_label,0.8
+entity:artist:caro,Caro,caro,norm_label,0.8
+entity:artist:cash,Cash,cash,norm_label,0.8
+entity:artist:chai,Chai,chai,norm_label,0.8
+entity:artist:chambers,Chambers,chambers,norm_label,0.8
+entity:artist:chang-lok,Chang Lok,chang lok,norm_label,0.8
+entity:artist:charles,Charles,charles,norm_label,0.8
+entity:artist:charles-a,Charles A.,charles a,norm_label,0.8
+entity:artist:charles-bird,Charles Bird,charles bird,norm_label,0.8
+entity:artist:charles-lang,Charles Lang,charles lang,norm_label,0.8
+entity:artist:charles-scribners-sons,Charles Scribner's Sons,charles scribners sons,norm_label,0.8
+entity:artist:chen,Chen,chen,norm_label,0.8
+entity:artist:chen-kai,Chen Kai,chen kai,norm_label,0.8
+entity:artist:chen-ruwen-chinese,Chen Ruwen (Chinese),chen ruwen chinese,norm_label,0.8
+entity:artist:chen-ta-whah,Chen Ta Whah,chen ta whah,norm_label,0.8
+entity:artist:cheng,Cheng,cheng,norm_label,0.8
+entity:artist:chi,Chi,chi,norm_label,0.8
+entity:artist:chien-mei,Chien Mei,chien mei,norm_label,0.8
+entity:artist:ching-i-chiang,Ching-i Ch'iang,ching-i chiang,norm_label,0.8
+entity:artist:ching-tong,Ching Tong,ching tong,norm_label,0.8
+entity:artist:chor,Chor,chor,norm_label,0.8
+entity:artist:chou-nien-tsu,Chou Nien-tsu,chou nien-tsu,norm_label,0.8
+entity:artist:christian-r,Christian R.,christian r,norm_label,0.8
+entity:artist:chu,Chu,chu,norm_label,0.8
+entity:artist:cie,Cie,cie,norm_label,0.8
+entity:artist:clayton,Clayton,clayton,norm_label,0.8
+entity:artist:clowes,Clowes,clowes,norm_label,0.8
+entity:artist:co,Co.,co,norm_label,0.8
+entity:artist:co-oriental-art,Co. Oriental Art,co oriental art,norm_label,0.8
+entity:artist:coleridge-taylor,Coleridge-Taylor,coleridge-taylor,norm_label,0.8
+entity:artist:colman,Colman,colman,norm_label,0.8
+entity:artist:company,Company,company,norm_label,0.8
+entity:artist:cooper-union-art-school,Cooper Union Art School,cooper union art school,norm_label,0.8
+entity:artist:copp-family,Copp Family,copp family,norm_label,0.8
+entity:artist:cox,Cox,cox,norm_label,0.8
+entity:artist:dacheng,Dacheng,dacheng,norm_label,0.8
+entity:artist:dana,Dana,dana,norm_label,0.8
+entity:artist:david,David,david,norm_label,0.8
+entity:artist:david-weill,David-Weill,david-weill,norm_label,0.8
+entity:artist:david-weill-family,David-Weill Family,david-weill family,norm_label,0.8
+entity:artist:de-lajo-e,de LajoÃ¼e,de lajoã¼e,norm_label,0.8
+entity:artist:de-pool,de Pool,de pool,norm_label,0.8
+entity:artist:denise,Denise,denise,norm_label,0.8
+entity:artist:desfoss-et-karth,DesfossÃ© et Karth,desfossã© et karth,norm_label,0.8
+entity:artist:dikran-garabed,Dikran Garabed,dikran garabed,norm_label,0.8
+entity:artist:donald-shaw,Donald Shaw,donald shaw,norm_label,0.8
+entity:artist:downing,Downing,downing,norm_label,0.8
+entity:artist:du,Du,du,norm_label,0.8
+entity:artist:duanfang,Duanfang,duanfang,norm_label,0.8
+entity:artist:dugourc,Dugourc,dugourc,norm_label,0.8
+entity:artist:duveen-brothers,Duveen Brothers,duveen brothers,norm_label,0.8
+entity:artist:e-c,E. C.,e c,norm_label,0.8
+entity:artist:eadweard,Eadweard,eadweard,norm_label,0.8
+entity:artist:ec-kellogg,E.C. Kellogg,ec kellogg,norm_label,0.8
+entity:artist:edmund,Edmund,edmund,norm_label,0.8
+entity:artist:elder,Elder,elder,norm_label,0.8
+entity:artist:eleanor-f,Eleanor F.,eleanor f,norm_label,0.8
+entity:artist:elizabeth-meyer,Elizabeth Meyer,elizabeth meyer,norm_label,0.8
+entity:artist:engelbrecht,Engelbrecht,engelbrecht,norm_label,0.8
+entity:artist:epstein,Epstein,epstein,norm_label,0.8
+entity:artist:ernest-francisco,Ernest Francisco,ernest francisco,norm_label,0.8
+entity:artist:ernest-thompson,Ernest Thompson,ernest thompson,norm_label,0.8
+entity:artist:eskenazi-ltd,Eskenazi Ltd.,eskenazi ltd,norm_label,0.8
+entity:artist:esnauts,Esnauts,esnauts,norm_label,0.8
+entity:artist:esther,Esther,esther,norm_label,0.8
+entity:artist:etienne-claude,Etienne Claude,etienne claude,norm_label,0.8
+entity:artist:eugene,Eugene,eugene,norm_label,0.8
+entity:artist:eugene-i,Eugene I.,eugene i,norm_label,0.8
+entity:artist:f-barbedienne-foundry,F. Barbedienne Foundry,f barbedienne foundry,norm_label,0.8
+entity:artist:falk,Falk,falk,norm_label,0.8
+entity:artist:fan-lin-樊麟-chinese,Fan Lin 樊麟 (Chinese),fan lin 樊麟 chinese,norm_label,0.8
+entity:artist:fat,Fat,fat,norm_label,0.8
+entity:artist:fenning,Fenning,fenning,norm_label,0.8
+entity:artist:fenollosa,Fenollosa,fenollosa,norm_label,0.8
+entity:artist:ferguson,Ferguson,ferguson,norm_label,0.8
+entity:artist:formerly-attributed-to-qin-yun-chinese,Formerly attributed to: Qin Yun (Chinese),formerly attributed to qin yun chinese,norm_label,0.8
+entity:artist:formerly-attributed-to-zhao-mengfu-chinese,Formerly attributed to: Zhao Mengfu (Chinese,formerly attributed to zhao mengfu chinese,norm_label,0.8
+entity:artist:foster,Foster,foster,norm_label,0.8
+entity:artist:fourdrinier,Fourdrinier,fourdrinier,norm_label,0.8
+entity:artist:fran-ois,FranÃ§ois,franã§ois,norm_label,0.8
+entity:artist:frances,Frances,frances,norm_label,0.8
+entity:artist:frank,Frank,frank,norm_label,0.8
+entity:artist:frank-caro-chinese-art,Frank Caro Chinese Art,frank caro chinese art,norm_label,0.8
+entity:artist:freer,Freer,freer,norm_label,0.8
+entity:artist:french,French,french,norm_label,0.8
+entity:artist:fue,Fue,fue,norm_label,0.8
+entity:artist:fukushima-company,Fukushima Company,fukushima company,norm_label,0.8
+entity:artist:g,G,g,norm_label,0.8
+entity:artist:gabriel,Gabriel,gabriel,norm_label,0.8
+entity:artist:ge-chung,Ge Chung,ge chung,norm_label,0.8
+entity:artist:ge-shang,Ge Shang,ge shang,norm_label,0.8
+entity:artist:george-augustus,George Augustus,george augustus,norm_label,0.8
+entity:artist:gie,Gie,gie,norm_label,0.8
+entity:artist:gillot,Gillot,gillot,norm_label,0.8
+entity:artist:golden,Golden,golden,norm_label,0.8
+entity:artist:graham,Graham,graham,norm_label,0.8
+entity:artist:gu-itsu,Gu-itsu,gu-itsu,norm_label,0.8
+entity:artist:gu-jiyu-顧季玉,Gu Jiyu 顧季玉,gu jiyu 顧季玉,norm_label,0.8
+entity:artist:gu-sai,Gu-sai,gu-sai,norm_label,0.8
+entity:artist:h-r,H. R.,h r,norm_label,0.8
+entity:artist:hall,Hall,hall,norm_label,0.8
+entity:artist:hammer-films,Hammer Films,hammer films,norm_label,0.8
+entity:artist:han-so,Han So,han so,norm_label,0.8
+entity:artist:hans-georg,Hans Georg,hans georg,norm_label,0.8
+entity:artist:hara,Hara,hara,norm_label,0.8
+entity:artist:harper,Harper,harper,norm_label,0.8
+entity:artist:hayashi,Hayashi,hayashi,norm_label,0.8
+entity:artist:hazel,Hazel,hazel,norm_label,0.8
+entity:artist:headland,Headland,headland,norm_label,0.8
+entity:artist:helen-marion,Helen Marion,helen marion,norm_label,0.8
+entity:artist:henry,Henry,henry,norm_label,0.8
+entity:artist:holmes,Holmes,holmes,norm_label,0.8
+entity:artist:holmes-foundation,Holmes Foundation,holmes foundation,norm_label,0.8
+entity:artist:hongli,Hongli,hongli,norm_label,0.8
+entity:artist:horace-thayer,Horace Thayer,horace thayer,norm_label,0.8
+entity:artist:hsu-sen-yu,Hsu-Sen-yu,hsu-sen-yu,norm_label,0.8
+entity:artist:huquier,Huquier,huquier,norm_label,0.8
+entity:artist:i-t-bowens-lithographic-establishment,I. T. Bowen's Lithographic Establishment,i t bowens lithographic establishment,norm_label,0.8
+entity:artist:in-the-style-of-giuseppe-castiglione-lang-shining-郞世寧,In the style of Giuseppe Castiglione (Lang Shining 郞世寧),in the style of giuseppe castiglione lang shining 郞世寧,norm_label,0.8
+entity:artist:isaac-taylor,Isaac Taylor,isaac taylor,norm_label,0.8
+entity:artist:j-j-lally,J. J. Lally,j j lally,norm_label,0.8
+entity:artist:j-rg,JÃ¶rg,jã¶rg,norm_label,0.8
+entity:artist:j-t-tai,J. T. Tai,j t tai,norm_label,0.8
+entity:artist:jacques,Jacques,jacques,norm_label,0.8
+entity:artist:jay,Jay,jay,norm_label,0.8
+entity:artist:jean-d-mosth-ne,Jean DÃ©mosthÃ¨ne,jean dã©mosthã¨ne,norm_label,0.8
+entity:artist:jean-jacques,Jean-Jacques,jean-jacques,norm_label,0.8
+entity:artist:jen,Jen,jen,norm_label,0.8
+entity:artist:jiantang,Jiantang,jiantang,norm_label,0.8
+entity:artist:jin-wenjin-金文璡,Jin Wenjin 金文璡,jin wenjin 金文璡,norm_label,0.8
+entity:artist:jingxian,Jingxian,jingxian,norm_label,0.8
+entity:artist:john,John,john,norm_label,0.8
+entity:artist:john-calvin,John Calvin,john calvin,norm_label,0.8
+entity:artist:john-hadley,John Hadley,john hadley,norm_label,0.8
+entity:artist:johnson,Johnson,johnson,norm_label,0.8
+entity:artist:jones,Jones,jones,norm_label,0.8
+entity:artist:jos-guadalupe,JosÃ© Guadalupe,josã© guadalupe,norm_label,0.8
+entity:artist:judyann,Judyann,judyann,norm_label,0.8
+entity:artist:jules,Jules,jules,norm_label,0.8
+entity:artist:jun-tsei,Jun Tsei,jun tsei,norm_label,0.8
+entity:artist:kang-youwei-chinese,Kang Youwei (Chinese,kang youwei chinese,norm_label,0.8
+entity:artist:karlbeck,Karlbeck,karlbeck,norm_label,0.8
+entity:artist:katharine-meyer,Katharine Meyer,katharine meyer,norm_label,0.8
+entity:artist:kee,Kee,kee,norm_label,0.8
+entity:artist:kelekian,Kelekian,kelekian,norm_label,0.8
+entity:artist:kihachiro,Kihachiro,kihachiro,norm_label,0.8
+entity:artist:king,King,king,norm_label,0.8
+entity:artist:kiroku,Kiroku,kiroku,norm_label,0.8
+entity:artist:kit,Kit,kit,norm_label,0.8
+entity:artist:kita,Kita,kita,norm_label,0.8
+entity:artist:kobayashi,Kobayashi,kobayashi,norm_label,0.8
+entity:artist:kong,Kong,kong,norm_label,0.8
+entity:artist:ku-chei,Ku-chei,ku-chei,norm_label,0.8
+entity:artist:kuan,Kuan,kuan,norm_label,0.8
+entity:artist:kung-ching,Kung Ching,kung ching,norm_label,0.8
+entity:artist:l-ji-chinese,Lü Ji (Chinese,lü ji chinese,norm_label,0.8
+entity:artist:lai-yuan,Lai-Yuan,lai-yuan,norm_label,0.8
+entity:artist:lan-ying-chinese,Lan Ying (Chinese,lan ying chinese,norm_label,0.8
+entity:artist:larkin,Larkin,larkin,norm_label,0.8
+entity:artist:late-14th-century,late 14th century),late 14th century,norm_label,0.8
+entity:artist:laufer,Laufer,laufer,norm_label,0.8
+entity:artist:lee-chiao,Lee Chiao,lee chiao,norm_label,0.8
+entity:artist:lee-kee,Lee Kee,lee kee,norm_label,0.8
+entity:artist:lenzner,Lenzner,lenzner,norm_label,0.8
+entity:artist:li,Li,li,norm_label,0.8
+entity:artist:li-ku,Li Ku,li ku,norm_label,0.8
+entity:artist:li-shizhuo-chinese,Li Shizhuo (Chinese,li shizhuo chinese,norm_label,0.8
+entity:artist:li-yin-active-1694-1707,Li Yin (active 1694–1707),li yin active 1694–1707,norm_label,0.8
+entity:artist:likely-william-saunders,Likely William Saunders,likely william saunders,norm_label,0.8
+entity:artist:limited,Limited,limited,norm_label,0.8
+entity:artist:lindley,Lindley,lindley,norm_label,0.8
+entity:artist:ling,Ling,ling,norm_label,0.8
+entity:artist:loew,Loew,loew,norm_label,0.8
+entity:artist:loo,Loo,loo,norm_label,0.8
+entity:artist:loon-gu,Loon Gu,loon gu,norm_label,0.8
+entity:artist:loon-wen,Loon Wen,loon wen,norm_label,0.8
+entity:artist:loong-shing-company,Loong Shing Company,loong shing company,norm_label,0.8
+entity:artist:lorentz,Lorentz,lorentz,norm_label,0.8
+entity:artist:ltd,Ltd.,ltd,norm_label,0.8
+entity:artist:lung,Lung,lung,norm_label,0.8
+entity:artist:m,M.,m,norm_label,0.8
+entity:artist:maclaughlan,MacLaughlan,maclaughlan,norm_label,0.8
+entity:artist:mah-zuh,Mah Zuh,mah zuh,norm_label,0.8
+entity:artist:maleuvre,Maleuvre,maleuvre,norm_label,0.8
+entity:artist:marcel,Marcel,marcel,norm_label,0.8
+entity:artist:martin,Martin,martin,norm_label,0.8
+entity:artist:martinet,Martinet,martinet,norm_label,0.8
+entity:artist:mary-morison,Mary Morison,mary morison,norm_label,0.8
+entity:artist:matsuki,Matsuki,matsuki,norm_label,0.8
+entity:artist:mcgrath,McGrath,mcgrath,norm_label,0.8
+entity:artist:mckenney,McKenney,mckenney,norm_label,0.8
+entity:artist:meh,Meh,meh,norm_label,0.8
+entity:artist:meissen-porcelain-manufactory,Meissen Porcelain Manufactory,meissen porcelain manufactory,norm_label,0.8
+entity:artist:meyer,Meyer,meyer,norm_label,0.8
+entity:artist:michael,Michael,michael,norm_label,0.8
+entity:artist:mildred-f,Mildred F.,mildred f,norm_label,0.8
+entity:artist:miller,Miller,miller,norm_label,0.8
+entity:artist:ming-sai,Ming Sai,ming sai,norm_label,0.8
+entity:artist:montross,Montross,montross,norm_label,0.8
+entity:artist:moore,Moore,moore,norm_label,0.8
+entity:artist:muybridge,Muybridge,muybridge,norm_label,0.8
+entity:artist:myron-s,Myron S.,myron s,norm_label,0.8
+entity:artist:n-e,N. E.,n e,norm_label,0.8
+entity:artist:naiji,Naiji,naiji,norm_label,0.8
+entity:artist:natalie-clifford,Natalie Clifford,natalie clifford,norm_label,0.8
+entity:artist:negro-ensemble-company,Negro Ensemble Company,negro ensemble company,norm_label,0.8
+entity:artist:nicholas,Nicholas,nicholas,norm_label,0.8
+entity:artist:noritake-co,Noritake Co.,noritake co,norm_label,0.8
+entity:artist:novello,Novello,novello,norm_label,0.8
+entity:artist:oeder,Oeder,oeder,norm_label,0.8
+entity:artist:oriental-bronzes,Oriental Bronzes,oriental bronzes,norm_label,0.8
+entity:artist:orvar,Orvar,orvar,norm_label,0.8
+entity:artist:otto-burchard,Otto Burchard,otto burchard,norm_label,0.8
+entity:artist:otto-c,Otto C.,otto c,norm_label,0.8
+entity:artist:pa-ku-cha,Pa Ku Cha,pa ku cha,norm_label,0.8
+entity:artist:pai-chai,Pai Chai,pai chai,norm_label,0.8
+entity:artist:pang,Pang,pang,norm_label,0.8
+entity:artist:pao,Pao,pao,norm_label,0.8
+entity:artist:parish-watson-company,Parish-Watson Company,parish-watson company,norm_label,0.8
+entity:artist:parke-bernet-galleries,Parke-Bernet Galleries,parke-bernet galleries,norm_label,0.8
+entity:artist:paul,Paul,paul,norm_label,0.8
+entity:artist:percy-moore,Percy Moore,percy moore,norm_label,0.8
+entity:artist:perronneau,Perronneau,perronneau,norm_label,0.8
+entity:artist:peter,Peter,peter,norm_label,0.8
+entity:artist:pierre,Pierre,pierre,norm_label,0.8
+entity:artist:posada,Posada,posada,norm_label,0.8
+entity:artist:pulun,Pulun,pulun,norm_label,0.8
+entity:artist:qian-weicheng-chinese,Qian Weicheng (Chinese,qian weicheng chinese,norm_label,0.8
+entity:artist:rai-sai,Rai-sai,rai-sai,norm_label,0.8
+entity:artist:ranson,Ranson,ranson,norm_label,0.8
+entity:artist:rapilly,Rapilly,rapilly,norm_label,0.8
+entity:artist:reinicke,Reinicke,reinicke,norm_label,0.8
+entity:artist:rentao,Rentao,rentao,norm_label,0.8
+entity:artist:riu-cheng-chai,Riu Cheng Chai,riu cheng chai,norm_label,0.8
+entity:artist:riu-gu,Riu Gu,riu gu,norm_label,0.8
+entity:artist:robert-c-eldred-co,Robert C. Eldred Co.,robert c eldred co,norm_label,0.8
+entity:artist:robert-w,Robert W.,robert w,norm_label,0.8
+entity:artist:robeson,Robeson,robeson,norm_label,0.8
+entity:artist:rock-rest-tourist-home,Rock Rest Tourist Home,rock rest tourist home,norm_label,0.8
+entity:artist:rolle,Rolle,rolle,norm_label,0.8
+entity:artist:rosalind,Rosalind,rosalind,norm_label,0.8
+entity:artist:rose,Rose,rose,norm_label,0.8
+entity:artist:rufus-e,Rufus E.,rufus e,norm_label,0.8
+entity:artist:ruth-meyer,Ruth Meyer,ruth meyer,norm_label,0.8
+entity:artist:s,S.,s,norm_label,0.8
+entity:artist:sackler,Sackler,sackler,norm_label,0.8
+entity:artist:sai,Sai,sai,norm_label,0.8
+entity:artist:sammons,Sammons,sammons,norm_label,0.8
+entity:artist:samson,Samson,samson,norm_label,0.8
+entity:artist:samuel,Samuel,samuel,norm_label,0.8
+entity:artist:san,San,san,norm_label,0.8
+entity:artist:seaton-enterprises-ltd,Seaton Enterprises Ltd.,seaton enterprises ltd,norm_label,0.8
+entity:artist:seton,Seton,seton,norm_label,0.8
+entity:artist:shanfang,Shanfang,shanfang,norm_label,0.8
+entity:artist:shen-xuzhai-沈虛齋,Shen Xuzhai 沈虛齋,shen xuzhai 沈虛齋,norm_label,0.8
+entity:artist:shinsuke,Shinsuke,shinsuke,norm_label,0.8
+entity:artist:shir-gu,Shir Gu,shir gu,norm_label,0.8
+entity:artist:shou-ting,Shou-ting,shou-ting,norm_label,0.8
+entity:artist:shu-gu,Shu Gu,shu gu,norm_label,0.8
+entity:artist:sinclair,Sinclair,sinclair,norm_label,0.8
+entity:artist:son,Son,son,norm_label,0.8
+entity:artist:song-xu-chinese,Song Xu (Chinese,song xu chinese,norm_label,0.8
+entity:artist:sothebys,Sotheby's,sothebys,norm_label,0.8
+entity:artist:stoclet,Stoclet,stoclet,norm_label,0.8
+entity:artist:studio-of-hai-shan-sen,Studio of Hai Shan-sen,studio of hai shan-sen,norm_label,0.8
+entity:artist:style-of-wu-wei-chinese,Style of: Wu Wei (Chinese,style of wu wei chinese,norm_label,0.8
+entity:artist:style-of-zhou-wenshu-周文樞,Style of Zhou Wenshu 周文樞,style of zhou wenshu 周文樞,norm_label,0.8
+entity:artist:su-tsar,Su-tsar,su-tsar,norm_label,0.8
+entity:artist:supervisory-committee-for-recruiting-colored-regiments,Supervisory Committee for Recruiting Colored Regiments,supervisory committee for recruiting colored regiments,norm_label,0.8
+entity:artist:ta,Ta,ta,norm_label,0.8
+entity:artist:ta-guwan,Ta Guwan,ta guwan,norm_label,0.8
+entity:artist:tai,Tai,tai,norm_label,0.8
+entity:artist:takayanagi,Takayanagi,takayanagi,norm_label,0.8
+entity:artist:taku,Taku,taku,norm_label,0.8
+entity:artist:terauchi,Terauchi,terauchi,norm_label,0.8
+entity:artist:thomas,Thomas,thomas,norm_label,0.8
+entity:artist:thomas-joseph,Thomas Joseph,thomas joseph,norm_label,0.8
+entity:artist:tiffany-studios,Tiffany Studios,tiffany studios,norm_label,0.8
+entity:artist:tinfook,Tinfook,tinfook,norm_label,0.8
+entity:artist:tish-co-han,TISH-CO-HAN,tish-co-han,norm_label,0.8
+entity:artist:tomitaro,Tomitaro,tomitaro,norm_label,0.8
+entity:artist:tomkinson,Tomkinson,tomkinson,norm_label,0.8
+entity:artist:toranosuke,Toranosuke,toranosuke,norm_label,0.8
+entity:artist:tozo,Tozo,tozo,norm_label,0.8
+entity:artist:tr-bner,TrÃ¼bner,trã¼bner,norm_label,0.8
+entity:artist:traditionally-attributed-to-philip-anstruther-aka-an-tu-de,Traditionally attributed to Philip Anstruther (a.k.a. An Tu De),traditionally attributed to philip anstruther aka an tu de,norm_label,0.8
+entity:artist:traditionally-attributed-to-qian-xuan-舊傳-錢選-chinese,Traditionally attributed to: Qian Xuan  舊傳 錢選 (Chinese,traditionally attributed to qian xuan 舊傳 錢選 chinese,norm_label,0.8
+entity:artist:traditionally-attributed-to-yueshan-y-eh-shan,Traditionally attributed to Yueshan [Yüeh-shan],traditionally attributed to yueshan yüeh-shan,norm_label,0.8
+entity:artist:tsou-hsu,Tsou Hsu,tsou hsu,norm_label,0.8
+entity:artist:tuh-kee,Tuh Kee,tuh kee,norm_label,0.8
+entity:artist:tung-kee-curio-shop,Tung Kee Curio Shop,tung kee curio shop,norm_label,0.8
+entity:artist:turner,Turner,turner,norm_label,0.8
+entity:artist:unidentified-artist-佚名-chinese,Unidentified artist 佚名 (Chinese,unidentified artist 佚名 chinese,norm_label,0.8
+entity:artist:unidentified-sino-tibetan-buddhist-painter-sino-tibetan,Unidentified Sino-Tibetan Buddhist painter (Sino-Tibetan,unidentified sino-tibetan buddhist painter sino-tibetan,norm_label,0.8
+entity:artist:us-customs-service,U.S. Customs Service,us customs service,norm_label,0.8
+entity:artist:vignier,Vignier,vignier,norm_label,0.8
+entity:artist:voysard,Voysard,voysard,norm_label,0.8
+entity:artist:wang,Wang,wang,norm_label,0.8
+entity:artist:wanyan,Wanyan,wanyan,norm_label,0.8
+entity:artist:wat-sai,Wat-sai,wat-sai,norm_label,0.8
+entity:artist:wen-sai,Wen-sai,wen-sai,norm_label,0.8
+entity:artist:wenlan,Wenlan,wenlan,norm_label,0.8
+entity:artist:wenqing,Wenqing,wenqing,norm_label,0.8
+entity:artist:wher,Wher,wher,norm_label,0.8
+entity:artist:william,William,william,norm_label,0.8
+entity:artist:wolf,Wolf,wolf,norm_label,0.8
+entity:artist:wong,Wong,wong,norm_label,0.8
+entity:artist:woods,Woods,woods,norm_label,0.8
+entity:artist:wu,Wu,wu,norm_label,0.8
+entity:artist:wu-dan-chinese,Wu Dan (Chinese,wu dan chinese,norm_label,0.8
+entity:artist:wun,Wun,wun,norm_label,0.8
+entity:artist:xiaoxi,Xiaoxi,xiaoxi,norm_label,0.8
+entity:artist:yamamoto,Yamamoto,yamamoto,norm_label,0.8
+entity:artist:ye-shing,Ye Shing,ye shing,norm_label,0.8
+entity:artist:yen,Yen,yen,norm_label,0.8
+entity:artist:yiweng,Yiweng,yiweng,norm_label,0.8
+entity:artist:yoshimitsu,Yoshimitsu,yoshimitsu,norm_label,0.8
+entity:artist:you,You,you,norm_label,0.8
+entity:artist:you-qiu-尤裘,You Qiu 尤裘,you qiu 尤裘,norm_label,0.8
+entity:artist:yuan-yao-chinese,Yuan Yao (Chinese,yuan yao chinese,norm_label,0.8
+entity:artist:yung,Yung,yung,norm_label,0.8
+entity:artist:yung-pao,Yung Pao,yung pao,norm_label,0.8
+entity:artist:zhang,Zhang,zhang,norm_label,0.8
+entity:artist:zhou-chen-chinese,Zhou Chen (Chinese,zhou chen chinese,norm_label,0.8
+entity:artist:zhou-wenshu-周文樞,Zhou Wenshu 周文樞,zhou wenshu 周文樞,norm_label,0.8
+entity:artist:zhu-jiyi-朱集義,Zhu Jiyi 朱集義,zhu jiyi 朱集義,norm_label,0.8
+entity:culture:abhaya-mudra,Abhaya mudra,abhaya mudra,norm_label,1.0
+entity:culture:actors-and-actresses,Actors and actresses,actors and actresses,norm_label,1.0
+entity:culture:allegory,Allegory,allegory,norm_label,1.0
+entity:culture:altars,Altars,altars,norm_label,1.0
+entity:culture:amitabha-buddha,Amitabha Buddha,amitabha buddha,norm_label,1.0
+entity:culture:amusements,Amusements,amusements,norm_label,1.0
+entity:culture:animals,Animals,animals,norm_label,1.0
+entity:culture:anjali-mudra,Anjali mudra,anjali mudra,norm_label,1.0
+entity:culture:anyang-period-late-shang-dynasty-ca-1300-1050-bce,"Anyang period, Late Shang dynasty (ca. 1300 - 1050 BCE)",anyang period late shang dynasty ca 1300 - 1050 bce,norm_label,1.0
+entity:culture:archery,Archery,archery,norm_label,1.0
+entity:culture:architecture,Architecture,architecture,norm_label,1.0
+entity:culture:art,Art,art,norm_label,1.0
+entity:culture:artifact-walls-exhibit,Artifact Walls exhibit,artifact walls exhibit,norm_label,1.0
+entity:culture:arts-and-sciences,Arts and sciences,arts and sciences,norm_label,1.0
+entity:culture:attendant,Attendant,attendant,norm_label,1.0
+entity:culture:autumn,Autumn,autumn,norm_label,1.0
+entity:culture:avalokitesvara-buddhist-deity,Avalokite?svara (Buddhist deity),avalokitesvara buddhist deity,norm_label,1.0
+entity:culture:ba-xian-taoist-mythology,Ba Xian (Taoist mythology),ba xian taoist mythology,norm_label,1.0
+entity:culture:baimiao-style,Baimiao style,baimiao style,norm_label,1.0
+entity:culture:bamboo,Bamboo,bamboo,norm_label,1.0
+entity:culture:bananas,Bananas,bananas,norm_label,1.0
+entity:culture:baskets,Baskets,baskets,norm_label,1.0
+entity:culture:bathing,Bathing,bathing,norm_label,1.0
+entity:culture:bats,Bats,bats,norm_label,1.0
+entity:culture:bears,Bears,bears,norm_label,1.0
+entity:culture:bees,Bees,bees,norm_label,1.0
+entity:culture:beetles,Beetles,beetles,norm_label,1.0
+entity:culture:bhumisparsha-mudra,Bhumisparsha mudra,bhumisparsha mudra,norm_label,1.0
+entity:culture:bird-and-flower,Bird and flower,bird and flower,norm_label,1.0
+entity:culture:birds,Birds,birds,norm_label,1.0
+entity:culture:biwa,Biwa,biwa,norm_label,1.0
+entity:culture:black-enterprise,Black Enterprise,black enterprise,norm_label,1.0
+entity:culture:black-interiors,Black interiors,black interiors,norm_label,1.0
+entity:culture:blue-and-green-style,Blue-and-green style,blue-and-green style,norm_label,1.0
+entity:culture:boar,Boar,boar,norm_label,1.0
+entity:culture:boats-and-boating,Boats and boating,boats and boating,norm_label,1.0
+entity:culture:bodhi-tree,Bodhi tree,bodhi tree,norm_label,1.0
+entity:culture:bodhidharma,Bodhidharma,bodhidharma,norm_label,1.0
+entity:culture:bodhisattva,Bodhisattva,bodhisattva,norm_label,1.0
+entity:culture:bone,Bone,bone,norm_label,1.0
+entity:culture:bow,Bow,bow,norm_label,1.0
+entity:culture:boy,Boy,boy,norm_label,1.0
+entity:culture:bridges,Bridges,bridges,norm_label,1.0
+entity:culture:brocading,Brocading,brocading,norm_label,1.0
+entity:culture:bronze,Bronze,bronze,norm_label,1.0
+entity:culture:bucket,Bucket,bucket,norm_label,1.0
+entity:culture:buddha-bhaisajyaguru,Buddha Bhaisajyaguru,buddha bhaisajyaguru,norm_label,1.0
+entity:culture:buffaloes,Buffaloes,buffaloes,norm_label,1.0
+entity:culture:bulls,Bulls,bulls,norm_label,1.0
+entity:culture:business,Business,business,norm_label,1.0
+entity:culture:butterflies,Butterflies,butterflies,norm_label,1.0
+entity:culture:cabbage,Cabbage,cabbage,norm_label,1.0
+entity:culture:camel,Camel,camel,norm_label,1.0
+entity:culture:camellia,Camellia,camellia,norm_label,1.0
+entity:culture:canals,Canals,canals,norm_label,1.0
+entity:culture:caricature-and-cartoons,Caricature and cartoons,caricature and cartoons,norm_label,1.0
+entity:culture:carl-whiting-bishop-collection,Carl Whiting Bishop collection,carl whiting bishop collection,norm_label,1.0
+entity:culture:cart,Cart,cart,norm_label,1.0
+entity:culture:carving,Carving,carving,norm_label,1.0
+entity:culture:cats,Cats,cats,norm_label,1.0
+entity:culture:cattle,Cattle,cattle,norm_label,1.0
+entity:culture:ceramics,Ceramics,ceramics,norm_label,1.0
+entity:culture:chairs,Chairs,chairs,norm_label,1.0
+entity:culture:change,Chang'e,change,norm_label,1.0
+entity:culture:charles-lang-freer-collection,Charles Lang Freer collection,charles lang freer collection,norm_label,1.0
+entity:culture:chasing,Chasing,chasing,norm_label,1.0
+entity:culture:chess,Chess,chess,norm_label,1.0
+entity:culture:chicken,Chicken,chicken,norm_label,1.0
+entity:culture:chief,Chief,chief,norm_label,1.0
+entity:culture:children,Children,children,norm_label,1.0
+entity:culture:chimera,Chimera,chimera,norm_label,1.0
+entity:culture:china-trade,China Trade,china trade,norm_label,1.0
+entity:culture:chinese,Chinese,chinese,norm_label,1.0
+entity:culture:chinese-art,Chinese Art,chinese art,norm_label,1.0
+entity:culture:chinese-for-western-market,Chinese (for Western market),chinese for western market,norm_label,1.0
+entity:culture:chinese-han,Chinese (Han),chinese han,norm_label,1.0
+entity:culture:chinese-in-indonesia,Chinese (in Indonesia?),chinese in indonesia,norm_label,1.0
+entity:culture:chinese-khotan-chinese-turkestan,"Chinese (Khotan, Chinese Turkestan)",chinese khotan chinese turkestan,norm_label,1.0
+entity:culture:chinese-manchu,Chinese (Manchu),chinese manchu,norm_label,1.0
+entity:culture:chinese-or-japanese,Chinese or Japanese,chinese or japanese,norm_label,1.0
+entity:culture:chinese-tibetan-style,"Chinese, Tibetan style",chinese tibetan style,norm_label,1.0
+entity:culture:chrysanthemum,Chrysanthemum,chrysanthemum,norm_label,1.0
+entity:culture:cicada,Cicada,cicada,norm_label,1.0
+entity:culture:cintamani,Cintamani,cintamani,norm_label,1.0
+entity:culture:cities-and-towns,Cities and towns,cities and towns,norm_label,1.0
+entity:culture:citron,Citron,citron,norm_label,1.0
+entity:culture:cityscapes,Cityscapes,cityscapes,norm_label,1.0
+entity:culture:civil-rights,Civil rights,civil rights,norm_label,1.0
+entity:culture:cloisonn,CloisonnÃ©,cloisonnã©,norm_label,1.0
+entity:culture:clothing-and-dress,Clothing and dress,clothing and dress,norm_label,1.0
+entity:culture:cloud,Cloud,cloud,norm_label,1.0
+entity:culture:coasts,Coasts,coasts,norm_label,1.0
+entity:culture:cobalt-pigment,Cobalt pigment,cobalt pigment,norm_label,1.0
+entity:culture:coins,Coins,coins,norm_label,1.0
+entity:culture:commercial,Commercial,commercial,norm_label,1.0
+entity:culture:conch-shell,Conch shell,conch shell,norm_label,1.0
+entity:culture:concubine,Concubine,concubine,norm_label,1.0
+entity:culture:confucius,Confucius,confucius,norm_label,1.0
+entity:culture:containers,Containers,containers,norm_label,1.0
+entity:culture:cooking,Cooking,cooking,norm_label,1.0
+entity:culture:copp-collection,Copp Collection,copp collection,norm_label,1.0
+entity:culture:copper-green-glaze,Copper-green glaze,copper-green glaze,norm_label,1.0
+entity:culture:copper-green-lead-glaze,Copper-green lead glaze,copper-green lead glaze,norm_label,1.0
+entity:culture:copy,Copy,copy,norm_label,1.0
+entity:culture:cormorant,Cormorant,cormorant,norm_label,1.0
+entity:culture:coromandel,Coromandel,coromandel,norm_label,1.0
+entity:culture:couching-embroidering,Couching (embroidering),couching embroidering,norm_label,1.0
+entity:culture:court,Court,court,norm_label,1.0
+entity:culture:courting,Courting,courting,norm_label,1.0
+entity:culture:cows,Cows,cows,norm_label,1.0
+entity:culture:craftsmanship,Craftsmanship,craftsmanship,norm_label,1.0
+entity:culture:crane,Crane,crane,norm_label,1.0
+entity:culture:crow,Crow,crow,norm_label,1.0
+entity:culture:cut-velvet,Cut velvet,cut velvet,norm_label,1.0
+entity:culture:cymbal,Cymbal,cymbal,norm_label,1.0
+entity:culture:dagger,Dagger,dagger,norm_label,1.0
+entity:culture:dance,Dance,dance,norm_label,1.0
+entity:culture:dancer,Dancer,dancer,norm_label,1.0
+entity:culture:daoism,Daoism,daoism,norm_label,1.0
+entity:culture:daoist-immortals,Daoist Immortals,daoist immortals,norm_label,1.0
+entity:culture:daylily,Daylily,daylily,norm_label,1.0
+entity:culture:demon,Demon,demon,norm_label,1.0
+entity:culture:description-and-travel,Description and travel,description and travel,norm_label,1.0
+entity:culture:deva,Deva,deva,norm_label,1.0
+entity:culture:dharmacakra,Dharmacakra,dharmacakra,norm_label,1.0
+entity:culture:dhayanibuddha,Dhayanibuddha,dhayanibuddha,norm_label,1.0
+entity:culture:dinners-and-dining,Dinners and dining,dinners and dining,norm_label,1.0
+entity:culture:disciple,Disciple,disciple,norm_label,1.0
+entity:culture:dogs,Dogs,dogs,norm_label,1.0
+entity:culture:domestic,Domestic,domestic,norm_label,1.0
+entity:culture:domestic-life,Domestic life,domestic life,norm_label,1.0
+entity:culture:donkey,Donkey,donkey,norm_label,1.0
+entity:culture:dove,Dove,dove,norm_label,1.0
+entity:culture:dragon,Dragon,dragon,norm_label,1.0
+entity:culture:dragon-boat-festival,Dragon Boat Festival,dragon boat festival,norm_label,1.0
+entity:culture:drama-theatre,Drama (Theatre),drama theatre,norm_label,1.0
+entity:culture:dreaming,Dreaming,dreaming,norm_label,1.0
+entity:culture:dress-accessories,Dress accessories,dress accessories,norm_label,1.0
+entity:culture:drug-use,Drug use,drug use,norm_label,1.0
+entity:culture:drums-membranophones,Drums (Membranophones),drums membranophones,norm_label,1.0
+entity:culture:ducks,Ducks,ducks,norm_label,1.0
+entity:culture:dwellings,Dwellings,dwellings,norm_label,1.0
+entity:culture:eagles,Eagles,eagles,norm_label,1.0
+entity:culture:eastern-wei-dynasty-534-550,Eastern Wei dynasty (534 - 550),eastern wei dynasty 534 - 550,norm_label,1.0
+entity:culture:eastern-zhou-dynasty-770-221-bce,Eastern Zhou dynasty (770 - 221 BCE),eastern zhou dynasty 770 - 221 bce,norm_label,1.0
+entity:culture:edo-period-japan-1600-1868,"Edo period, Japan, (1600 - 1868)",edo period japan 1600 - 1868,norm_label,1.0
+entity:culture:eggplant,Eggplant,eggplant,norm_label,1.0
+entity:culture:egrets,Egrets,egrets,norm_label,1.0
+entity:culture:eight-views-of-xiao-xiang,Eight Views of Xiao-Xiang,eight views of xiao-xiang,norm_label,1.0
+entity:culture:elections,Elections,elections,norm_label,1.0
+entity:culture:elephants,Elephants,elephants,norm_label,1.0
+entity:culture:emancipation,Emancipation,emancipation,norm_label,1.0
+entity:culture:embroidery,Embroidery,embroidery,norm_label,1.0
+entity:culture:emigration-and-immigration,Emigration and immigration,emigration and immigration,norm_label,1.0
+entity:culture:engraving-incising,Engraving (incising),engraving incising,norm_label,1.0
+entity:culture:entertainers,Entertainers,entertainers,norm_label,1.0
+entity:culture:erligang-period-early-shang-dynasty-ca-1600-ca-1400-bce,"Erligang period, Early Shang dynasty (ca. 1600 - ca. 1400 BCE)",erligang period early shang dynasty ca 1600 - ca 1400 bce,norm_label,1.0
+entity:culture:falconry,Falconry,falconry,norm_label,1.0
+entity:culture:family,Family,family,norm_label,1.0
+entity:culture:fans,Fans,fans,norm_label,1.0
+entity:culture:farms,Farms,farms,norm_label,1.0
+entity:culture:fashion,Fashion,fashion,norm_label,1.0
+entity:culture:female-and-child,Female and child,female and child,norm_label,1.0
+entity:culture:festivals,Festivals,festivals,norm_label,1.0
+entity:culture:figure-female,Figure female,figure female,norm_label,1.0
+entity:culture:figure-group,Figure group,figure group,norm_label,1.0
+entity:culture:figure-male,Figure male,figure male,norm_label,1.0
+entity:culture:first-ladies,First ladies,first ladies,norm_label,1.0
+entity:culture:fishes,Fishes,fishes,norm_label,1.0
+entity:culture:fishing,Fishing,fishing,norm_label,1.0
+entity:culture:fishmonger,Fishmonger,fishmonger,norm_label,1.0
+entity:culture:five-dynasties-period-907-960,Five Dynasties period (907 - 960),five dynasties period 907 - 960,norm_label,1.0
+entity:culture:flaming-pearl,Flaming pearl,flaming pearl,norm_label,1.0
+entity:culture:floral-patterns,Floral patterns,floral patterns,norm_label,1.0
+entity:culture:flowers,Flowers,flowers,norm_label,1.0
+entity:culture:flute,Flute,flute,norm_label,1.0
+entity:culture:fly-whisk,Fly whisk,fly whisk,norm_label,1.0
+entity:culture:folk-tales,Folk tales,folk tales,norm_label,1.0
+entity:culture:food,Food,food,norm_label,1.0
+entity:culture:food-culture,Food Culture,food culture,norm_label,1.0
+entity:culture:food-habits,Food habits,food habits,norm_label,1.0
+entity:culture:forests-and-forestry,Forests and forestry,forests and forestry,norm_label,1.0
+entity:culture:forgery,Forgery,forgery,norm_label,1.0
+entity:culture:frogs,Frogs,frogs,norm_label,1.0
+entity:culture:fruit,Fruit,fruit,norm_label,1.0
+entity:culture:funeral-rites-and-customs,Funeral rites and customs,funeral rites and customs,norm_label,1.0
+entity:culture:funerary,Funerary,funerary,norm_label,1.0
+entity:culture:fungi,Fungi,fungi,norm_label,1.0
+entity:culture:fungus-of-immortality,Fungus-of-immortality,fungus-of-immortality,norm_label,1.0
+entity:culture:furnishings,Furnishings,furnishings,norm_label,1.0
+entity:culture:game-playing,Game playing,game playing,norm_label,1.0
+entity:culture:games,Games,games,norm_label,1.0
+entity:culture:gansu-ware,Gansu ware,gansu ware,norm_label,1.0
+entity:culture:garden-rock,Garden rock,garden rock,norm_label,1.0
+entity:culture:gardens,Gardens,gardens,norm_label,1.0
+entity:culture:gautama-buddha,Gautama Buddha,gautama buddha,norm_label,1.0
+entity:culture:geneaology,Geneaology,geneaology,norm_label,1.0
+entity:culture:gilding,Gilding,gilding,norm_label,1.0
+entity:culture:glass,Glass,glass,norm_label,1.0
+entity:culture:glassblowing,Glassblowing,glassblowing,norm_label,1.0
+entity:culture:glassware,Glassware,glassware,norm_label,1.0
+entity:culture:go-game,Go (Game),go game,norm_label,1.0
+entity:culture:goat,Goat,goat,norm_label,1.0
+entity:culture:gondola,Gondola,gondola,norm_label,1.0
+entity:culture:goose,Goose,goose,norm_label,1.0
+entity:culture:goryeo-period-918-1392,Goryeo period (918 - 1392),goryeo period 918 - 1392,norm_label,1.0
+entity:culture:government,Government,government,norm_label,1.0
+entity:culture:grape,Grape,grape,norm_label,1.0
+entity:culture:green-glaze,Green glaze,green glaze,norm_label,1.0
+entity:culture:groom,Groom,groom,norm_label,1.0
+entity:culture:guanyin,Guanyin,guanyin,norm_label,1.0
+entity:culture:guardian-lion,Guardian lion,guardian lion,norm_label,1.0
+entity:culture:hagi-ware,Hagi ware,hagi ware,norm_label,1.0
+entity:culture:halo,Halo,halo,norm_label,1.0
+entity:culture:hammering,Hammering,hammering,norm_label,1.0
+entity:culture:han-dynasty-202-bc-220-ad,"Han dynasty, 202 B.C.-220 A.D.",han dynasty 202 bc-220 ad,norm_label,1.0
+entity:culture:han-dynasty-206-bce-220-ce,Han dynasty (206 BCE - 220 CE),han dynasty 206 bce - 220 ce,norm_label,1.0
+entity:culture:harpers-weekly,Harper's Weekly,harpers weekly,norm_label,1.0
+entity:culture:hats,Hats,hats,norm_label,1.0
+entity:culture:hawk,Hawk,hawk,norm_label,1.0
+entity:culture:heaven,Heaven,heaven,norm_label,1.0
+entity:culture:hell,Hell,hell,norm_label,1.0
+entity:culture:herb-gathering,Herb gathering,herb gathering,norm_label,1.0
+entity:culture:herd-boy,Herd boy,herd boy,norm_label,1.0
+entity:culture:herding,Herding,herding,norm_label,1.0
+entity:culture:herons,Herons,herons,norm_label,1.0
+entity:culture:hibiscus,Hibiscus,hibiscus,norm_label,1.0
+entity:culture:hill,Hill,hill,norm_label,1.0
+entity:culture:hollyhock,Hollyhock,hollyhock,norm_label,1.0
+entity:culture:homage,Homage,homage,norm_label,1.0
+entity:culture:horn,Horn,horn,norm_label,1.0
+entity:culture:horsemen-and-horsewomen,Horsemen and horsewomen,horsemen and horsewomen,norm_label,1.0
+entity:culture:horses,Horses,horses,norm_label,1.0
+entity:culture:hotei,Hotei,hotei,norm_label,1.0
+entity:culture:hunting,Hunting,hunting,norm_label,1.0
+entity:culture:in-pursuit-of-life-liberty-and-happiness,"In Pursuit of Life, Liberty, and Happiness",in pursuit of life liberty and happiness,norm_label,1.0
+entity:culture:incense,Incense,incense,norm_label,1.0
+entity:culture:incising,Incising,incising,norm_label,1.0
+entity:culture:industrialization,Industrialization,industrialization,norm_label,1.0
+entity:culture:inlay-process,Inlay (process),inlay process,norm_label,1.0
+entity:culture:inn,Inn,inn,norm_label,1.0
+entity:culture:insects,Insects,insects,norm_label,1.0
+entity:culture:iridescence,Iridescence,iridescence,norm_label,1.0
+entity:culture:iron,Iron,iron,norm_label,1.0
+entity:culture:islands,Islands,islands,norm_label,1.0
+entity:culture:ivory,Ivory,ivory,norm_label,1.0
+entity:culture:jade,Jade,jade,norm_label,1.0
+entity:culture:japanese-art,Japanese Art,japanese art,norm_label,1.0
+entity:culture:japanese-made-from-chinese-fabric,"Japanese, made from Chinese fabric",japanese made from chinese fabric,norm_label,1.0
+entity:culture:japanese-or-chinese,Japanese or Chinese,japanese or chinese,norm_label,1.0
+entity:culture:japanese-tea-ceremony,Japanese tea ceremony,japanese tea ceremony,norm_label,1.0
+entity:culture:jiehua,Jiehua,jiehua,norm_label,1.0
+entity:culture:jin-dynasty-1115-1234,Jin dynasty (1115 - 1234),jin dynasty 1115 - 1234,norm_label,1.0
+entity:culture:jingdezhen-ware,Jingdezhen ware,jingdezhen ware,norm_label,1.0
+entity:culture:joseon-period-1392-1910,Joseon period (1392 - 1910),joseon period 1392 - 1910,norm_label,1.0
+entity:culture:josiah-k-lilly-jr-collection,Josiah K. Lilly Jr. Collection,josiah k lilly jr collection,norm_label,1.0
+entity:culture:kakemono,Kakemono,kakemono,norm_label,1.0
+entity:culture:kalasa,Kalasa,kalasa,norm_label,1.0
+entity:culture:kangxi-reign-1662-1722,Kangxi reign (1662 - 1722),kangxi reign 1662 - 1722,norm_label,1.0
+entity:culture:kasyapa,Kasyapa,kasyapa,norm_label,1.0
+entity:culture:khakkhara,Khakkhara,khakkhara,norm_label,1.0
+entity:culture:khayyam-omar,"Khayyam, Omar",khayyam omar,norm_label,1.0
+entity:culture:king,King,king,norm_label,1.0
+entity:culture:kingdom-of-dali-1096-1253,Kingdom of Dali (1096-1253),kingdom of dali 1096-1253,norm_label,1.0
+entity:culture:kings-and-rulers,Kings and rulers,kings and rulers,norm_label,1.0
+entity:culture:korean-art,Korean Art,korean art,norm_label,1.0
+entity:culture:kuancai,Kuancai,kuancai,norm_label,1.0
+entity:culture:kundika,Kundika,kundika,norm_label,1.0
+entity:culture:lace-and-lace-making,Lace and lace making,lace and lace making,norm_label,1.0
+entity:culture:lacquer,Lacquer,lacquer,norm_label,1.0
+entity:culture:lacquer-repair,Lacquer repair,lacquer repair,norm_label,1.0
+entity:culture:lakes,Lakes,lakes,norm_label,1.0
+entity:culture:lama,Lama,lama,norm_label,1.0
+entity:culture:landscapes,Landscapes,landscapes,norm_label,1.0
+entity:culture:laozi,Laozi,laozi,norm_label,1.0
+entity:culture:late-neolithic-period-ca-5000-ca-1700-bce,Late Neolithic period (ca. 5000 - ca. 1700 BCE),late neolithic period ca 5000 - ca 1700 bce,norm_label,1.0
+entity:culture:lead,Lead,lead,norm_label,1.0
+entity:culture:lettering,Lettering,lettering,norm_label,1.0
+entity:culture:li-tiegnai,Li Tiegnai,li tiegnai,norm_label,1.0
+entity:culture:lily,Lily,lily,norm_label,1.0
+entity:culture:litchi,Litchi,litchi,norm_label,1.0
+entity:culture:literature,Literature,literature,norm_label,1.0
+entity:culture:liu-song-dynasty-420-479,Liu Song dynasty (420 - 479),liu song dynasty 420 - 479,norm_label,1.0
+entity:culture:lotus,Lotus,lotus,norm_label,1.0
+entity:culture:lotus-sutra,Lotus Sutra,lotus sutra,norm_label,1.0
+entity:culture:lovers,Lovers,lovers,norm_label,1.0
+entity:culture:lu-dongbin,Lu Dongbin,lu dongbin,norm_label,1.0
+entity:culture:luohan,Luohan,luohan,norm_label,1.0
+entity:culture:lute,Lute,lute,norm_label,1.0
+entity:culture:ma-gu,Ma Gu,ma gu,norm_label,1.0
+entity:culture:magpie,Magpie,magpie,norm_label,1.0
+entity:culture:mahasthamaprapta,Mahasthamaprapta,mahasthamaprapta,norm_label,1.0
+entity:culture:maitreya-buddha,Maitreya Buddha,maitreya buddha,norm_label,1.0
+entity:culture:male-and-female,Male and female,male and female,norm_label,1.0
+entity:culture:mandorla,Mandorla,mandorla,norm_label,1.0
+entity:culture:manjushri,Manjushri,manjushri,norm_label,1.0
+entity:culture:manufacturing-industries,Manufacturing industries,manufacturing industries,norm_label,1.0
+entity:culture:market,Market,market,norm_label,1.0
+entity:culture:marriage,Marriage,marriage,norm_label,1.0
+entity:culture:masks,Masks,masks,norm_label,1.0
+entity:culture:medicine,Medicine,medicine,norm_label,1.0
+entity:culture:meditation,Meditation,meditation,norm_label,1.0
+entity:culture:melon,Melon,melon,norm_label,1.0
+entity:culture:men,Men,men,norm_label,1.0
+entity:culture:metal-work,Metal-work,metal-work,norm_label,1.0
+entity:culture:metasomatic-rock,Metasomatic rock,metasomatic rock,norm_label,1.0
+entity:culture:military,Military,military,norm_label,1.0
+entity:culture:mill,Mill,mill,norm_label,1.0
+entity:culture:millinery,Millinery,millinery,norm_label,1.0
+entity:culture:miners,Miners,miners,norm_label,1.0
+entity:culture:ming-dynasty-1368-1644,Ming dynasty (1368 - 1644),ming dynasty 1368 - 1644,norm_label,1.0
+entity:culture:minister,Minister,minister,norm_label,1.0
+entity:culture:miracle,Miracle,miracle,norm_label,1.0
+entity:culture:modern-period-1912-present,Modern period (1912 - present),modern period 1912 - present,norm_label,1.0
+entity:culture:molding,Molding,molding,norm_label,1.0
+entity:culture:momoyama-period-1573-1615,Momoyama period (1573 - 1615),momoyama period 1573 - 1615,norm_label,1.0
+entity:culture:money,Money,money,norm_label,1.0
+entity:culture:monk,Monk,monk,norm_label,1.0
+entity:culture:monkeys,Monkeys,monkeys,norm_label,1.0
+entity:culture:monsters,Monsters,monsters,norm_label,1.0
+entity:culture:moon,Moon,moon,norm_label,1.0
+entity:culture:morning,Morning,morning,norm_label,1.0
+entity:culture:motion-pictures,Motion pictures,motion pictures,norm_label,1.0
+entity:culture:mount-meru,Mount Meru,mount meru,norm_label,1.0
+entity:culture:mountains,Mountains,mountains,norm_label,1.0
+entity:culture:mouse,Mouse,mouse,norm_label,1.0
+entity:culture:mudra,Mudra,mudra,norm_label,1.0
+entity:culture:mule,Mule,mule,norm_label,1.0
+entity:culture:muromachi-period-1333-1573,Muromachi period (1333 - 1573),muromachi period 1333 - 1573,norm_label,1.0
+entity:culture:music,Music,music,norm_label,1.0
+entity:culture:musical-instruments,Musical instruments,musical instruments,norm_label,1.0
+entity:culture:musicians,Musicians,musicians,norm_label,1.0
+entity:culture:mynah-bird,Mynah bird,mynah bird,norm_label,1.0
+entity:culture:mythological-animal,Mythological animal,mythological animal,norm_label,1.0
+entity:culture:mythological-subject,Mythological subject,mythological subject,norm_label,1.0
+entity:culture:neolithic-period-ca-7000-ca-1700-bce,Neolithic period (ca. 7000 - ca. 1700 BCE),neolithic period ca 7000 - ca 1700 bce,norm_label,1.0
+entity:culture:nephrite,Nephrite,nephrite,norm_label,1.0
+entity:culture:new-year,New year,new year,norm_label,1.0
+entity:culture:night,Night,night,norm_label,1.0
+entity:culture:northern-dynasties-386-581,Northern dynasties (386 - 581),northern dynasties 386 - 581,norm_label,1.0
+entity:culture:northern-qi-dynasty-550-577,Northern Qi dynasty (550 - 577),northern qi dynasty 550 - 577,norm_label,1.0
+entity:culture:northern-song-dynasty-960-1127,Northern Song dynasty (960 - 1127),northern song dynasty 960 - 1127,norm_label,1.0
+entity:culture:northern-wei-dynasty-386-534,Northern Wei dynasty (386 - 534),northern wei dynasty 386 - 534,norm_label,1.0
+entity:culture:northern-zhou-dynasty-557-581,Northern Zhou dynasty (557 - 581),northern zhou dynasty 557 - 581,norm_label,1.0
+entity:culture:occupations,Occupations,occupations,norm_label,1.0
+entity:culture:ocean,Ocean,ocean,norm_label,1.0
+entity:culture:older-people,Older people,older people,norm_label,1.0
+entity:culture:opera-music,Opera (Music),opera music,norm_label,1.0
+entity:culture:orchids,Orchids,orchids,norm_label,1.0
+entity:culture:ornamentation,Ornamentation,ornamentation,norm_label,1.0
+entity:culture:outer-space,Outer space,outer space,norm_label,1.0
+entity:culture:oxen,Oxen,oxen,norm_label,1.0
+entity:culture:pagoda,Pagoda,pagoda,norm_label,1.0
+entity:culture:painting-image-making,Painting (image-making),painting image-making,norm_label,1.0
+entity:culture:palace,Palace,palace,norm_label,1.0
+entity:culture:parasol,Parasol,parasol,norm_label,1.0
+entity:culture:parinirvana,Parinirvana,parinirvana,norm_label,1.0
+entity:culture:parrot,Parrot,parrot,norm_label,1.0
+entity:culture:passing-song,Passing Song,passing song,norm_label,1.0
+entity:culture:pavilion,Pavilion,pavilion,norm_label,1.0
+entity:culture:peach,Peach,peach,norm_label,1.0
+entity:culture:peach-tree,Peach tree,peach tree,norm_label,1.0
+entity:culture:peacock,Peacock,peacock,norm_label,1.0
+entity:culture:pear,Pear,pear,norm_label,1.0
+entity:culture:peasant,Peasant,peasant,norm_label,1.0
+entity:culture:penglai,Penglai,penglai,norm_label,1.0
+entity:culture:peony,Peony,peony,norm_label,1.0
+entity:culture:period-of-division-220-589,Period of Division (220 - 589),period of division 220 - 589,norm_label,1.0
+entity:culture:persimmon,Persimmon,persimmon,norm_label,1.0
+entity:culture:peters-prints,Peters Prints,peters prints,norm_label,1.0
+entity:culture:pheasant,Pheasant,pheasant,norm_label,1.0
+entity:culture:phoenix,Phoenix,phoenix,norm_label,1.0
+entity:culture:photography,Photography,photography,norm_label,1.0
+entity:culture:piercing,Piercing,piercing,norm_label,1.0
+entity:culture:pine-tree,Pine tree,pine tree,norm_label,1.0
+entity:culture:pingtuo,Pingtuo,pingtuo,norm_label,1.0
+entity:culture:pipa,Pipa,pipa,norm_label,1.0
+entity:culture:plants,Plants,plants,norm_label,1.0
+entity:culture:playing,Playing,playing,norm_label,1.0
+entity:culture:plum-blossom,Plum blossom,plum blossom,norm_label,1.0
+entity:culture:plum-tree,Plum tree,plum tree,norm_label,1.0
+entity:culture:poetry,Poetry,poetry,norm_label,1.0
+entity:culture:poets,Poets,poets,norm_label,1.0
+entity:culture:politics,Politics,politics,norm_label,1.0
+entity:culture:pomegranate,Pomegranate,pomegranate,norm_label,1.0
+entity:culture:porcelain,Porcelain,porcelain,norm_label,1.0
+entity:culture:portraits,Portraits,portraits,norm_label,1.0
+entity:culture:pottery,Pottery,pottery,norm_label,1.0
+entity:culture:prabhutaratna-buddha,Prabhutaratna Buddha,prabhutaratna buddha,norm_label,1.0
+entity:culture:prayer-beads,Prayer beads,prayer beads,norm_label,1.0
+entity:culture:preaching,Preaching,preaching,norm_label,1.0
+entity:culture:presidents-spouses,Presidents' spouses,presidents spouses,norm_label,1.0
+entity:culture:protection,Protection,protection,norm_label,1.0
+entity:culture:punching,Punching,punching,norm_label,1.0
+entity:culture:puppet,Puppet,puppet,norm_label,1.0
+entity:culture:puppets,Puppets,puppets,norm_label,1.0
+entity:culture:pure-land,Pure Land,pure land,norm_label,1.0
+entity:culture:qianlong-reign-1736-1796,Qianlong reign (1736 - 1796),qianlong reign 1736 - 1796,norm_label,1.0
+entity:culture:qilin,Qilin,qilin,norm_label,1.0
+entity:culture:qin,Qin,qin,norm_label,1.0
+entity:culture:qin-dynasty-221-206-bce,Qin dynasty (221 - 206 BCE),qin dynasty 221 - 206 bce,norm_label,1.0
+entity:culture:qing-dynasty-1644-1911,Qing dynasty (1644 - 1911),qing dynasty 1644 - 1911,norm_label,1.0
+entity:culture:quail,Quail,quail,norm_label,1.0
+entity:culture:quartz,Quartz,quartz,norm_label,1.0
+entity:culture:queen-mother-of-the-west,Queen Mother of the West,queen mother of the west,norm_label,1.0
+entity:culture:rabbits,Rabbits,rabbits,norm_label,1.0
+entity:culture:race-films,Race films,race films,norm_label,1.0
+entity:culture:rain,Rain,rain,norm_label,1.0
+entity:culture:rams,Rams,rams,norm_label,1.0
+entity:culture:rats,Rats,rats,norm_label,1.0
+entity:culture:reading,Reading,reading,norm_label,1.0
+entity:culture:recreation,Recreation,recreation,norm_label,1.0
+entity:culture:reincarnation,Reincarnation,reincarnation,norm_label,1.0
+entity:culture:relief-seal,Relief seal,relief seal,norm_label,1.0
+entity:culture:religion,Religion,religion,norm_label,1.0
+entity:culture:repouss,RepoussÃ©,repoussã©,norm_label,1.0
+entity:culture:rice,Rice,rice,norm_label,1.0
+entity:culture:rice-straw-ash-glaze,Rice-straw-ash glaze,rice-straw-ash glaze,norm_label,1.0
+entity:culture:rites-and-ceremonies,Rites and ceremonies,rites and ceremonies,norm_label,1.0
+entity:culture:rivers,Rivers,rivers,norm_label,1.0
+entity:culture:roads,Roads,roads,norm_label,1.0
+entity:culture:rocks,Rocks,rocks,norm_label,1.0
+entity:culture:roman-period-30-bce-395-ce,Roman Period (30 BCE - 395 CE),roman period 30 bce - 395 ce,norm_label,1.0
+entity:culture:roses,Roses,roses,norm_label,1.0
+entity:culture:rowboat,Rowboat,rowboat,norm_label,1.0
+entity:culture:royalty,Royalty,royalty,norm_label,1.0
+entity:culture:rubaiyat,Rubaiyat,rubaiyat,norm_label,1.0
+entity:culture:rugmaking,Rugmaking,rugmaking,norm_label,1.0
+entity:culture:running-script,Running script,running script,norm_label,1.0
+entity:culture:ryder,Ryder,ryder,norm_label,1.0
+entity:culture:sage,Sage,sage,norm_label,1.0
+entity:culture:sailors,Sailors,sailors,norm_label,1.0
+entity:culture:scepter,Scepter,scepter,norm_label,1.0
+entity:culture:scholar,Scholar,scholar,norm_label,1.0
+entity:culture:screen,Screen,screen,norm_label,1.0
+entity:culture:sculpture,Sculpture,sculpture,norm_label,1.0
+entity:culture:scythe,Scythe,scythe,norm_label,1.0
+entity:culture:seal,Seal,seal,norm_label,1.0
+entity:culture:seascape,Seascape,seascape,norm_label,1.0
+entity:culture:segregation,Segregation,segregation,norm_label,1.0
+entity:culture:serpentine-mineral,Serpentine (mineral),serpentine mineral,norm_label,1.0
+entity:culture:sewing,Sewing,sewing,norm_label,1.0
+entity:culture:shakyamuni,Shakyamuni,shakyamuni,norm_label,1.0
+entity:culture:shakyamuni-buddha,Shakyamuni Buddha,shakyamuni buddha,norm_label,1.0
+entity:culture:shang-dynasty-ca-1600-ca-1050-bce,Shang dynasty (ca. 1600 - ca. 1050 BCE),shang dynasty ca 1600 - ca 1050 bce,norm_label,1.0
+entity:culture:sheep,Sheep,sheep,norm_label,1.0
+entity:culture:shells,Shells,shells,norm_label,1.0
+entity:culture:sheng,Sheng,sheng,norm_label,1.0
+entity:culture:shepherd,Shepherd,shepherd,norm_label,1.0
+entity:culture:shield,Shield,shield,norm_label,1.0
+entity:culture:shodai-ware,Shodai ware,shodai ware,norm_label,1.0
+entity:culture:shrine,Shrine,shrine,norm_label,1.0
+entity:culture:signs-and-signboards,Signs and signboards,signs and signboards,norm_label,1.0
+entity:culture:silk-fiber,Silk (fiber),silk fiber,norm_label,1.0
+entity:culture:silver,Silver,silver,norm_label,1.0
+entity:culture:silvering,Silvering,silvering,norm_label,1.0
+entity:culture:slavery,Slavery,slavery,norm_label,1.0
+entity:culture:sleeping,Sleeping,sleeping,norm_label,1.0
+entity:culture:slit-tapestry,Slit tapestry,slit tapestry,norm_label,1.0
+entity:culture:smoking,Smoking,smoking,norm_label,1.0
+entity:culture:snakes,Snakes,snakes,norm_label,1.0
+entity:culture:snow,Snow,snow,norm_label,1.0
+entity:culture:social-life-and-customs,Social life and customs,social life and customs,norm_label,1.0
+entity:culture:social-reformers,Social reformers,social reformers,norm_label,1.0
+entity:culture:song-dynasty-960-1279,Song dynasty (960 - 1279),song dynasty 960 - 1279,norm_label,1.0
+entity:culture:soochow,Soochow,soochow,norm_label,1.0
+entity:culture:south-asian-and-himalayan-art,South Asian and Himalayan Art,south asian and himalayan art,norm_label,1.0
+entity:culture:southern-song-dynasty-1127-1279,Southern Song dynasty (1127 - 1279),southern song dynasty 1127 - 1279,norm_label,1.0
+entity:culture:souvenir-nation,Souvenir Nation,souvenir nation,norm_label,1.0
+entity:culture:sparrow,Sparrow,sparrow,norm_label,1.0
+entity:culture:spear-point,Spear point,spear point,norm_label,1.0
+entity:culture:spiral,Spiral,spiral,norm_label,1.0
+entity:culture:sport-and-play,Sport and play,sport and play,norm_label,1.0
+entity:culture:spring,Spring,spring,norm_label,1.0
+entity:culture:spring-and-autumn-period-770-476-bce,Spring and Autumn period (770 - 476 BCE),spring and autumn period 770 - 476 bce,norm_label,1.0
+entity:culture:standard-script,Standard script,standard script,norm_label,1.0
+entity:culture:state-of-being,State of being,state of being,norm_label,1.0
+entity:culture:steatite,Steatite,steatite,norm_label,1.0
+entity:culture:stone,Stone,stone,norm_label,1.0
+entity:culture:stoneware,Stoneware,stoneware,norm_label,1.0
+entity:culture:store,Store,store,norm_label,1.0
+entity:culture:stork,Stork,stork,norm_label,1.0
+entity:culture:streets,Streets,streets,norm_label,1.0
+entity:culture:streetwear,Streetwear,streetwear,norm_label,1.0
+entity:culture:stupa,Stupa,stupa,norm_label,1.0
+entity:culture:sui-dynasty-581-618,Sui dynasty (581 - 618),sui dynasty 581 - 618,norm_label,1.0
+entity:culture:summer,Summer,summer,norm_label,1.0
+entity:culture:sunrise,Sunrise,sunrise,norm_label,1.0
+entity:culture:sutra,Sutra,sutra,norm_label,1.0
+entity:culture:swallow,Swallow,swallow,norm_label,1.0
+entity:culture:swords,Swords,swords,norm_label,1.0
+entity:culture:symbolism,Symbolism,symbolism,norm_label,1.0
+entity:culture:talisman,Talisman,talisman,norm_label,1.0
+entity:culture:tang-dynasty-618-907,Tang dynasty (618 - 907),tang dynasty 618 - 907,norm_label,1.0
+entity:culture:taotie,Taotie,taotie,norm_label,1.0
+entity:culture:tapestries,Tapestries,tapestries,norm_label,1.0
+entity:culture:tea,Tea,tea,norm_label,1.0
+entity:culture:teaching,Teaching,teaching,norm_label,1.0
+entity:culture:temple,Temple,temple,norm_label,1.0
+entity:culture:tents,Tents,tents,norm_label,1.0
+entity:culture:textiles,Textiles,textiles,norm_label,1.0
+entity:culture:thangka,Thangka,thangka,norm_label,1.0
+entity:culture:theater,Theater,theater,norm_label,1.0
+entity:culture:throne,Throne,throne,norm_label,1.0
+entity:culture:tibetan-or-chinese,Tibetan or Chinese,tibetan or chinese,norm_label,1.0
+entity:culture:tiger,Tiger,tiger,norm_label,1.0
+entity:culture:toads,Toads,toads,norm_label,1.0
+entity:culture:tobacco-use,Tobacco Use,tobacco use,norm_label,1.0
+entity:culture:tomb,Tomb,tomb,norm_label,1.0
+entity:culture:tools,Tools,tools,norm_label,1.0
+entity:culture:tortoise,Tortoise,tortoise,norm_label,1.0
+entity:culture:tower,Tower,tower,norm_label,1.0
+entity:culture:toys,Toys,toys,norm_label,1.0
+entity:culture:transcontinental-railroad,Transcontinental Railroad,transcontinental railroad,norm_label,1.0
+entity:culture:treaty,Treaty,treaty,norm_label,1.0
+entity:culture:trees,Trees,trees,norm_label,1.0
+entity:culture:trident,Trident,trident,norm_label,1.0
+entity:culture:trishula,Trishula,trishula,norm_label,1.0
+entity:culture:tsongkhapa,Tsongkhapa,tsongkhapa,norm_label,1.0
+entity:culture:turtles,Turtles,turtles,norm_label,1.0
+entity:culture:twill,Twill,twill,norm_label,1.0
+entity:culture:ukiyo-e,Ukiyo-e,ukiyo-e,norm_label,1.0
+entity:culture:umbrellas,Umbrellas,umbrellas,norm_label,1.0
+entity:culture:unglazed,Unglazed,unglazed,norm_label,1.0
+entity:culture:urna,Urna,urna,norm_label,1.0
+entity:culture:us-history-civil-war-1861-1865,"U.S. History, Civil War, 1861-1865",us history civil war 1861-1865,norm_label,1.0
+entity:culture:ushnisha,Ushnisha,ushnisha,norm_label,1.0
+entity:culture:vairocana-buddha,Vairocana Buddha,vairocana buddha,norm_label,1.0
+entity:culture:vaisravana,Vaisravana,vaisravana,norm_label,1.0
+entity:culture:vajra,Vajra,vajra,norm_label,1.0
+entity:culture:vajrapani,Vajrapani,vajrapani,norm_label,1.0
+entity:culture:vajrayana-buddhism,Vajrayana Buddhism,vajrayana buddhism,norm_label,1.0
+entity:culture:varada-mudra,Varada mudra,varada mudra,norm_label,1.0
+entity:culture:vase,Vase,vase,norm_label,1.0
+entity:culture:vehicles,Vehicles,vehicles,norm_label,1.0
+entity:culture:vendor,Vendor,vendor,norm_label,1.0
+entity:culture:villages,Villages,villages,norm_label,1.0
+entity:culture:vimalakirti,Vimalakirti,vimalakirti,norm_label,1.0
+entity:culture:vitarka-mudra,Vitarka mudra,vitarka mudra,norm_label,1.0
+entity:culture:voice,Voice,voice,norm_label,1.0
+entity:culture:voting,Voting,voting,norm_label,1.0
+entity:culture:wang-wei,Wang Wei,wang wei,norm_label,1.0
+entity:culture:wangchuan-villa,Wangchuan Villa,wangchuan villa,norm_label,1.0
+entity:culture:wanli-reign-1573-1620,Wanli reign (1573 - 1620),wanli reign 1573 - 1620,norm_label,1.0
+entity:culture:warring-states-period-475-221-bce,Warring States period (475 - 221 BCE),warring states period 475 - 221 bce,norm_label,1.0
+entity:culture:water,Water,water,norm_label,1.0
+entity:culture:water-buffalo,Water buffalo,water buffalo,norm_label,1.0
+entity:culture:waterfalls,Waterfalls,waterfalls,norm_label,1.0
+entity:culture:waterscapes,Waterscapes,waterscapes,norm_label,1.0
+entity:culture:wave,Wave,wave,norm_label,1.0
+entity:culture:weapons,Weapons,weapons,norm_label,1.0
+entity:culture:weft-patterning,Weft patterning,weft patterning,norm_label,1.0
+entity:culture:weimo,Weimo,weimo,norm_label,1.0
+entity:culture:wenshu,Wenshu,wenshu,norm_label,1.0
+entity:culture:western-han-dynasty-206-bce-9-ce,Western Han dynasty (206 BCE - 9 CE),western han dynasty 206 bce - 9 ce,norm_label,1.0
+entity:culture:western-wei-dynasty-535-556,Western Wei dynasty (535 - 556),western wei dynasty 535 - 556,norm_label,1.0
+entity:culture:western-zhou-dynasty-ca-1050-771-bce,Western Zhou dynasty (ca. 1050 - 771 BCE),western zhou dynasty ca 1050 - 771 bce,norm_label,1.0
+entity:culture:white-slip,White slip,white slip,norm_label,1.0
+entity:culture:willow-tree,Willow tree,willow tree,norm_label,1.0
+entity:culture:wine-and-wine-making,Wine and wine making,wine and wine making,norm_label,1.0
+entity:culture:winter,Winter,winter,norm_label,1.0
+entity:culture:woman,Woman,woman,norm_label,1.0
+entity:culture:women,Women,women,norm_label,1.0
+entity:culture:wood,Wood,wood,norm_label,1.0
+entity:culture:wood-gathering,Wood-gathering,wood-gathering,norm_label,1.0
+entity:culture:wool-hair,Wool (hair),wool hair,norm_label,1.0
+entity:culture:worship,Worship,worship,norm_label,1.0
+entity:culture:worshiper,Worshiper,worshiper,norm_label,1.0
+entity:culture:writing,Writing,writing,norm_label,1.0
+entity:culture:yaksa,Yaksa,yaksa,norm_label,1.0
+entity:culture:yaksha,Yaksha,yaksha,norm_label,1.0
+entity:culture:yuan-dynasty-1279-1368,Yuan dynasty (1279 - 1368),yuan dynasty 1279 - 1368,norm_label,1.0
+entity:culture:yue-ware,Yue ware,yue ware,norm_label,1.0
+entity:culture:zen-buddhism,Zen Buddhism,zen buddhism,norm_label,1.0
+entity:culture:zhejiang-green-glazed-ware,Zhejiang green-glazed ware,zhejiang green-glazed ware,norm_label,1.0
+entity:culture:zhong-kui,Zhong Kui,zhong kui,norm_label,1.0
+entity:culture:zhou-dynasty-ca-1050-221-bce,Zhou dynasty (ca. 1050 - 221 BCE),zhou dynasty ca 1050 - 221 bce,norm_label,1.0
+entity:culture:zhuangzi,Zhuangzi,zhuangzi,norm_label,1.0
+entity:culture:zongzi,Zongzi,zongzi,norm_label,1.0
+entity:dynasty:eastern-han东汉,Eastern Han（东汉）,eastern han东汉,norm_label,1.0
+entity:dynasty:eastern-jin东晋,Eastern Jin（东晋）,eastern jin东晋,norm_label,1.0
+entity:dynasty:five-dynasties五代,Five Dynasties（五代）,five dynasties五代,norm_label,1.0
+entity:dynasty:han汉,Han（汉）,han汉,norm_label,1.0
+entity:dynasty:jin金,Jin（金）,jin金,norm_label,1.0
+entity:dynasty:ming明,Ming（明）,ming明,norm_label,1.0
+entity:dynasty:neolithic新石器时代,Neolithic（新石器时代）,neolithic新石器时代,norm_label,1.0
+entity:dynasty:northern-and-southern南北朝,Northern and Southern（南北朝）,northern and southern南北朝,norm_label,1.0
+entity:dynasty:northern-song北宋,Northern Song（北宋）,northern song北宋,norm_label,1.0
+entity:dynasty:qing清,Qing（清）,qing清,norm_label,1.0
+entity:dynasty:qin秦,Qin（秦）,qin秦,norm_label,1.0
+entity:dynasty:republic民国,Republic（民国）,republic民国,norm_label,1.0
+entity:dynasty:shang商,Shang（商）,shang商,norm_label,1.0
+entity:dynasty:southern-song南宋,Southern Song（南宋）,southern song南宋,norm_label,1.0
+entity:dynasty:sui隋,Sui（隋）,sui隋,norm_label,1.0
+entity:dynasty:tang唐,Tang（唐）,tang唐,norm_label,1.0
+entity:dynasty:three-kingdoms三国,Three Kingdoms（三国）,three kingdoms三国,norm_label,1.0
+entity:dynasty:western-han西汉,Western Han（西汉）,western han西汉,norm_label,1.0
+entity:dynasty:western-jin西晋,Western Jin（西晋）,western jin西晋,norm_label,1.0
+entity:dynasty:yuan元,Yuan（元）,yuan元,norm_label,1.0
+entity:dynasty:zhou周,Zhou（周）,zhou周,norm_label,1.0
+entity:location:boston-ma-usa,"Boston, MA, USA",boston ma usa,norm_label,1.0
+entity:location:cambridge-ma-usa,"Cambridge, MA, USA",cambridge ma usa,norm_label,1.0
+entity:location:washington-dc-usa,"Washington, DC, USA",washington dc usa,norm_label,1.0
+entity:material:amber,amber,amber,norm_label,1.0
+entity:material:bamboo,bamboo,bamboo,norm_label,1.0
+entity:material:bone,bone,bone,norm_label,1.0
+entity:material:bronze,bronze,bronze,norm_label,1.0
+entity:material:canvas,canvas,canvas,norm_label,1.0
+entity:material:ceramic,ceramic,ceramic,norm_label,1.0
+entity:material:clay,clay,clay,norm_label,1.0
+entity:material:copper,copper,copper,norm_label,1.0
+entity:material:cotton,cotton,cotton,norm_label,1.0
+entity:material:earthenware,earthenware,earthenware,norm_label,1.0
+entity:material:enamel,enamel,enamel,norm_label,1.0
+entity:material:glass,glass,glass,norm_label,1.0
+entity:material:gold,gold,gold,norm_label,1.0
+entity:material:horn,horn,horn,norm_label,1.0
+entity:material:ink,ink,ink,norm_label,1.0
+entity:material:iron,iron,iron,norm_label,1.0
+entity:material:ivory,ivory,ivory,norm_label,1.0
+entity:material:jade,jade,jade,norm_label,1.0
+entity:material:jadeite,jadeite,jadeite,norm_label,1.0
+entity:material:lacquer,lacquer,lacquer,norm_label,1.0
+entity:material:leather,leather,leather,norm_label,1.0
+entity:material:linen,linen,linen,norm_label,1.0
+entity:material:metal,metal,metal,norm_label,1.0
+entity:material:nephrite,nephrite,nephrite,norm_label,1.0
+entity:material:oil,oil,oil,norm_label,1.0
+entity:material:paper,paper,paper,norm_label,1.0
+entity:material:pigment,pigment,pigment,norm_label,1.0
+entity:material:plaster,plaster,plaster,norm_label,1.0
+entity:material:porcelain,porcelain,porcelain,norm_label,1.0
+entity:material:rhinoceros-horn,rhinoceros horn,rhinoceros horn,norm_label,1.0
+entity:material:shell,shell,shell,norm_label,1.0
+entity:material:silk,silk,silk,norm_label,1.0
+entity:material:silver,silver,silver,norm_label,1.0
+entity:material:stone,stone,stone,norm_label,1.0
+entity:material:textile,textile,textile,norm_label,1.0
+entity:material:wax,wax,wax,norm_label,1.0
+entity:material:wood,wood,wood,norm_label,1.0
+entity:museum:1,Smithsonian Institution,smithsonian institution,norm_label,1.0
+entity:museum:2,Harvard Art Museums,harvard art museums,norm_label,1.0
+entity:museum:3,"Museum of Fine Arts, Boston",museum of fine arts boston,norm_label,1.0
