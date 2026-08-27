@@ -9,36 +9,16 @@ import csv
 import json
 from pathlib import Path
 
-from museum_crawler.config import BASE_DIR, setup_logging
+from museum_crawler.config import BASE_DIR, OUTPUT_DIR, iter_museum_csv_paths, setup_logging
 from museum_crawler.data_clean import clean_csv_file
 
 log = setup_logging()
 
 
-def _default_inputs(out_dir: Path) -> list[Path]:
-    names = [
-        "harvard_art_museums.fixed.csv",
-        "harvard_art_museums.csv",
-        "smithsonian_institution.csv",
-        "museum_of_fine_arts_boston.csv",
-    ]
-    seen: set[str] = set()
-    paths: list[Path] = []
-    for name in names:
-        key = name.replace(".fixed", "")
-        if key in seen:
-            continue
-        p = out_dir / name
-        if p.exists() and p.stat().st_size > 0:
-            seen.add(key)
-            paths.append(p)
-    return paths
-
-
 def main() -> int:
     ap = argparse.ArgumentParser(description="清洗爬取 CSV：标准化 / 去重 / 图片检测")
-    ap.add_argument("--csv", type=Path, nargs="*", help="输入 CSV（默认 output 下三馆）")
-    ap.add_argument("--out-dir", type=Path, default=BASE_DIR / "output" / "clean")
+    ap.add_argument("--csv", type=Path, nargs="*", help="输入 CSV（默认产出目录下三馆）")
+    ap.add_argument("--out-dir", type=Path, default=OUTPUT_DIR / "clean")
     ap.add_argument("--check-images", action="store_true", help="HEAD 检测图片 URL（较慢）")
     ap.add_argument(
         "--drop-no-image",
@@ -50,8 +30,8 @@ def main() -> int:
     ap.add_argument("--image-timeout", type=float, default=12.0)
     args = ap.parse_args()
 
-    src_dir = BASE_DIR / "output"
-    inputs = list(args.csv) if args.csv else _default_inputs(src_dir)
+    src_dir = OUTPUT_DIR
+    inputs = list(args.csv) if args.csv else iter_museum_csv_paths(src_dir)
     if not inputs:
         log.error("未找到输入 CSV")
         return 1

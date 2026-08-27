@@ -22,14 +22,15 @@ def build_image_roots() -> List[Path]:
     if harvard:
         roots.append(Path(harvard))
 
-    # 通用根：crawler/output/images 或自定义
+    # 通用根：crawler/data/output/images 或自定义
     base = os.environ.get("IMAGE_BASE_DIR", "").strip()
     if base:
         roots.append(Path(base))
 
-    # 默认：项目内 crawler/output/images
+    # 默认：项目内 crawler/data/output/images，其次 crawler/output/images
     project_root = Path(__file__).resolve().parent.parent
     defaults = [
+        project_root / "crawler" / "data" / "output" / "images",
         project_root / "crawler" / "output" / "images",
         project_root / "crawler" / "images",
     ]

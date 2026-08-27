@@ -593,7 +593,7 @@ if __name__ == "__main__":
         "museum_crawler.db 为库模块，请从 crawler 目录运行入口脚本，例如：\n"
         "  cd crawler\n"
         "  python museum_spider.py --help\n"
-        "  python csv_mysql_sync.py import --csv output/harvard_art_museums.csv\n"
+        "  python csv_mysql_sync.py import --csv data/output/harvard_art_museums.fixed.csv\n"
         "（直接运行本文件仅用于验证 import 与 ARTIFACT_COL_DDL 校验已通过。）",
         flush=True,
     )

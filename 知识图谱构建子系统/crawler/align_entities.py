@@ -8,7 +8,7 @@ import argparse
 import json
 from pathlib import Path
 
-from museum_crawler.config import BASE_DIR, setup_logging
+from museum_crawler.config import BASE_DIR, OUTPUT_DIR, iter_museum_csv_paths, setup_logging
 from museum_crawler.entity_align import DEFAULT_URI_BASE, build_registry_from_csvs
 
 log = setup_logging()
@@ -17,36 +17,17 @@ log = setup_logging()
 def _resolve_csv_paths(out_dir: Path, explicit: list[Path] | None) -> list[Path]:
     if explicit:
         return [p if p.is_absolute() else (BASE_DIR / p) for p in explicit]
-    clean_dir = out_dir / "clean"
-    candidates = [
-        clean_dir / "smithsonian_institution.cleaned.csv",
-        clean_dir / "harvard_art_museums.fixed.cleaned.csv",
-        clean_dir / "harvard_art_museums.cleaned.csv",
-        out_dir / "smithsonian_institution.csv",
-        out_dir / "harvard_art_museums.fixed.csv",
-        out_dir / "harvard_art_museums.csv",
-        out_dir / "museum_of_fine_arts_boston.csv",
-    ]
-    seen: set[str] = set()
-    paths: list[Path] = []
-    for p in candidates:
-        key = p.name.replace(".fixed", "").replace(".cleaned", "")
-        if key in seen:
-            continue
-        if p.exists() and p.stat().st_size > 0:
-            seen.add(key)
-            paths.append(p)
-    return paths
+    return iter_museum_csv_paths(out_dir, include_clean=True)
 
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="跨馆实体对齐")
     ap.add_argument("--csv", type=Path, nargs="*")
-    ap.add_argument("--out-dir", type=Path, default=BASE_DIR / "output" / "kg" / "align")
+    ap.add_argument("--out-dir", type=Path, default=OUTPUT_DIR / "kg" / "align")
     ap.add_argument("--uri-base", default=DEFAULT_URI_BASE)
     args = ap.parse_args()
 
-    out_dir = BASE_DIR / "output"
+    out_dir = OUTPUT_DIR
     inputs = _resolve_csv_paths(out_dir, list(args.csv) if args.csv else None)
     if not inputs:
         log.error("未找到 CSV")

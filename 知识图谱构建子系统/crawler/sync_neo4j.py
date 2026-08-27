@@ -28,7 +28,7 @@ from dotenv import load_dotenv
 
 load_dotenv(Path(__file__).resolve().parent / ".env")
 
-from museum_crawler.config import BASE_DIR, setup_logging
+from museum_crawler.config import BASE_DIR, OUTPUT_DIR, setup_logging
 from museum_crawler.neo4j_sync import neo4j_configured, sync_kg_to_neo4j, connect_neo4j
 
 log = setup_logging()
@@ -39,8 +39,8 @@ def main() -> int:
     ap.add_argument(
         "--kg-dir",
         type=Path,
-        default=BASE_DIR / "output" / "kg",
-        help="KG CSV 目录（默认 output/kg）",
+        default=OUTPUT_DIR / "kg",
+        help="KG CSV 目录（默认 data/output/kg 或 output/kg）",
     )
     ap.add_argument("--wipe", action="store_true", help="导入前清空全图（慎用）")
     ap.add_argument("--skip-properties", action="store_true", help="跳过 properties 属性写入")

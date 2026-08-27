@@ -13,8 +13,8 @@
 
 CSV 与 MySQL 同步::
 
-    python csv_mysql_sync.py import --csv output/harvard_art_museums.csv
-    python museum_spider.py csv-sync export --csv output/from_db.csv --museum-id 2
+    python csv_mysql_sync.py import --csv data/output/harvard_art_museums.fixed.csv
+    python museum_spider.py csv-sync export --csv data/output/from_db.csv --museum-id 2
 """
 
 import sys

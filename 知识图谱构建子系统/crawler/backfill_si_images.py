@@ -15,7 +15,7 @@ import os
 import sys
 from pathlib import Path
 
-from museum_crawler.config import BASE_DIR, setup_logging
+from museum_crawler.config import BASE_DIR, OUTPUT_DIR, setup_logging
 from museum_crawler.db import MySQLWriter, mysql_configured
 from museum_crawler.smithsonian import backfill_smithsonian_images
 
@@ -33,7 +33,7 @@ def main() -> int:
     ap.add_argument(
         "--img-root",
         type=Path,
-        default=BASE_DIR / "output" / "images",
+        default=OUTPUT_DIR / "images",
     )
     ap.add_argument("--limit", type=int, default=0, help="仅处理前 N 条（0=全部）")
     ap.add_argument("--api-delay", type=float, default=0.8)
@@ -61,8 +61,8 @@ def main() -> int:
         return 1
 
     csv_paths = args.csv or [
-        BASE_DIR / "output" / "clean" / "smithsonian_institution.cleaned.csv",
-        BASE_DIR / "output" / "smithsonian_institution.csv",
+        OUTPUT_DIR / "clean" / "smithsonian_institution.cleaned.csv",
+        OUTPUT_DIR / "smithsonian_institution.csv",
     ]
     img_root = args.img_root if args.img_root.is_absolute() else BASE_DIR / args.img_root
     db_writer = None
