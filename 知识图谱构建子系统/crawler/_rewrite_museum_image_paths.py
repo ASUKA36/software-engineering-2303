@@ -6,7 +6,7 @@ import csv
 import re
 from pathlib import Path
 
-from museum_crawler.config import BASE_DIR, CSV_FIELDS
+from museum_crawler.config import CSV_FIELDS, OUTPUT_DIR
 from museum_crawler.io_csv import write_csv
 
 SERVER_BASE = r"C:\Users\Administrator\Desktop"
@@ -18,13 +18,13 @@ MUSEUMS: tuple[tuple[str, str], ...] = (
 )
 
 CSV_FILES: tuple[Path, ...] = (
-    BASE_DIR / "output" / "harvard_art_museums.fixed.csv",
-    BASE_DIR / "output" / "clean" / "harvard_art_museums.fixed.cleaned.csv",
-    BASE_DIR / "output" / "smithsonian_institution.csv",
-    BASE_DIR / "output" / "clean" / "smithsonian_institution.cleaned.csv",
-    BASE_DIR / "output" / "museum_of_fine_arts_boston.csv",
-    BASE_DIR / "output" / "museum_of_fine_arts_boston.from_db.csv",
-    BASE_DIR / "output" / "clean" / "museum_of_fine_arts_boston.cleaned.csv",
+    OUTPUT_DIR / "harvard_art_museums.fixed.csv",
+    OUTPUT_DIR / "clean" / "harvard_art_museums.fixed.cleaned.csv",
+    OUTPUT_DIR / "smithsonian_institution.csv",
+    OUTPUT_DIR / "clean" / "smithsonian_institution.cleaned.csv",
+    OUTPUT_DIR / "museum_of_fine_arts_boston.csv",
+    OUTPUT_DIR / "museum_of_fine_arts_boston.from_db.csv",
+    OUTPUT_DIR / "clean" / "museum_of_fine_arts_boston.cleaned.csv",
 )
 
 _PATTERNS: list[tuple[re.Pattern[str], str]] = [

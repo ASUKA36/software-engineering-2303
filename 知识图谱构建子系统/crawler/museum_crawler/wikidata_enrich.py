@@ -8,7 +8,7 @@
 - 仅当下列字段为空时，用 Wikidata/维基补全：``artist_wikidata_id``、
   ``artist_birth``、``artist_death``、``artist_bio``、``artist_wikipedia_summary``。
 - ``--force`` 只强制重拉上述补全列，仍不改动爬虫作者/籍贯。
-- ``--csv`` 只会处理你显式传入的文件；不传时，默认按 ``output/`` 下三馆 CSV 依次处理。
+- ``--csv`` 只会处理你显式传入的文件；不传时，默认按产出目录下三馆 CSV 依次处理。
 - 对 ``artist`` 去重后，每个唯一作者名最多请求一次 Wikidata；检索名跳过藏家/交易商
   （如 ``Freer, Charles Lang``），优先画家段（如 ``San, Lee Chiao; Freer, …`` → ``San, Lee Chiao``）。
 - 若某作者各补全列均已非空且未 ``--force``，则跳过该作者的 API 请求。
@@ -42,7 +42,7 @@ from urllib.parse import quote
 import requests
 from requests import exceptions as req_exc
 
-from museum_crawler.config import BASE_DIR, CSV_FIELDS, LOG_PATH, setup_logging
+from museum_crawler.config import CSV_FIELDS, LOG_PATH, OUTPUT_DIR, iter_museum_csv_paths, setup_logging
 from museum_crawler.date_format import normalize_iso_date
 from museum_crawler.db import MySQLWriter, mysql_configured
 from museum_crawler.io_csv import write_csv
@@ -630,12 +630,12 @@ def main() -> None:
         "--csv",
         type=Path,
         nargs="*",
-        help="要处理的 CSV；不传则默认处理 output 下三馆 CSV。注意：这里是输入文件列表，不是按馆别自动展开。",
+        help="要处理的 CSV；不传则默认处理产出目录下三馆 CSV。注意：这里是输入文件列表，不是按馆别自动展开。",
     )
     ap.add_argument(
         "--output-dir",
         type=Path,
-        default=BASE_DIR / "output",
+        default=OUTPUT_DIR,
         help="默认 CSV 所在目录（与爬虫 --output 一致）",
     )
     ap.add_argument(
@@ -666,11 +666,7 @@ def main() -> None:
     )
     args = ap.parse_args()
 
-    paths = list(args.csv) if args.csv else [
-        args.output_dir / "smithsonian_institution.csv",
-        args.output_dir / "harvard_art_museums.csv",
-        args.output_dir / "museum_of_fine_arts_boston.csv",
-    ]
+    paths = list(args.csv) if args.csv else iter_museum_csv_paths(args.output_dir)
 
     db_writer: Optional[MySQLWriter] = None
     if not args.no_mysql and mysql_configured():

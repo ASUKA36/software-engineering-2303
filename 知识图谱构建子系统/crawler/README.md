@@ -13,7 +13,7 @@
 | 指标 | 数值 |
 |------|------|
 | MySQL 文物总条数 | **7151**（史密森尼 2244 + 哈佛 4644 + MFA 263） |
-| 关系三元组（CSV） | **70,888** 条（`output/kg/relations/`） |
+| 关系三元组（CSV） | **70,888** 条（`data/output/kg/relations/`） |
 | Neo4j 图库边 | **143,623** 条 |
 | 统一主键 | `(museum_id, object_id)` |
 | 标准字段数 | **34** 列（`config.CSV_FIELDS`） |
@@ -50,16 +50,16 @@ crawler/
 │   └── wikidata_enrich.py    # 作者 Wikidata 补全
 │
 ├── export_kg.py              # 从 CSV 导出 KG
-├── sync_neo4j.py             # 同步 output/kg → Neo4j
+├── sync_neo4j.py             # 同步 data/output/kg → Neo4j
 ├── clean_data.py             # 离线 CSV 清洗
 ├── enrich_wikidata.py        # 作者信息补全入口
 ├── csv_mysql_sync.py         # csv-sync 薄封装
 │
-├── output/                   # 产出目录（运行时生成）
+├── data/output/              # 仓库内已提交的 CSV / KG / 清洗结果
 │   ├── *.csv                 # 三馆文物 CSV
-│   ├── images/               # 本地图片
 │   ├── kg/                   # 三元组 / 实体 / 关系
 │   └── clean/                # 清洗后 CSV
+├── output/                   # 本地全新爬取时的产出目录（若 data/output 不存在）
 │
 ├── _check_mysql.py           # MySQL 连接与行数检测
 ├── _check_databases.py       # MySQL + Neo4j 联合检测
@@ -108,6 +108,8 @@ NEO4J_PASSWORD=你的密码
 ```
 
 > 勿将含真实密码的 `.env` 提交至 Git。
+>
+> 仓库已提交的三馆 CSV / KG 位于 `data/output/`。`export_kg.py`、`clean_data.py`、`sync_neo4j.py` 等脚本会自动使用该目录，无需再指定 `--out-dir`。若 `data/output` 不存在，则回退到 `output/`。
 
 ---
 
@@ -164,22 +166,22 @@ python museum_spider.py --museums harvard --ham-repair-multi-images --limit 0 --
 
 ```powershell
 python clean_data.py
-python clean_data.py --csv output/harvard_art_museums.csv
-python normalize_csv_dates.py --csv output/harvard_art_museums.csv
+python clean_data.py --csv data/output/harvard_art_museums.fixed.csv
+python normalize_csv_dates.py --csv data/output/harvard_art_museums.fixed.csv
 ```
 
 ### 作者信息补全（Wikidata）
 
 ```powershell
-python enrich_wikidata.py --csv output/harvard_art_museums.csv --delay 1.5
-python museum_spider.py enrich-wikidata --csv output/harvard_art_museums.csv
+python enrich_wikidata.py --csv data/output/harvard_art_museums.fixed.csv --delay 1.5
+python museum_spider.py enrich-wikidata --csv data/output/harvard_art_museums.fixed.csv
 ```
 
 ### CSV ↔ MySQL 同步
 
 ```powershell
-python museum_spider.py csv-sync import --csv output/harvard_art_museums.csv
-python museum_spider.py csv-sync export --csv output/from_db.csv --museum-id 2
+python museum_spider.py csv-sync import --csv data/output/harvard_art_museums.fixed.csv
+python museum_spider.py csv-sync export --csv data/output/from_db.csv --museum-id 2
 ```
 
 ### 知识图谱导出与 Neo4j 同步
@@ -214,14 +216,14 @@ python _check_databases.py
 
 | 路径 | 内容 |
 |------|------|
-| `output/smithsonian_institution.csv` | 史密森尼文物 |
-| `output/harvard_art_museums.csv` | 哈佛文物 |
-| `output/museum_of_fine_arts_boston.csv` | MFA 文物 |
-| `output/images/{馆别}/` | 本地图片 |
-| `output/kg/artifacts.csv` | 文物实体 |
-| `output/kg/relations/*.csv` | 8 类关系三元组 |
-| `output/kg/properties/*.csv` | 字面量属性 |
-| `output/kg/align/` | 实体对齐表 |
+| `data/output/smithsonian_institution.csv` | 史密森尼文物 |
+| `data/output/harvard_art_museums.fixed.csv` | 哈佛文物 |
+| `data/output/museum_of_fine_arts_boston.csv` | MFA 文物 |
+| `data/output/images/{馆别}/` | 本地图片（约 40GB，未纳入 Git） |
+| `data/output/kg/artifacts.csv` | 文物实体 |
+| `data/output/kg/relations/*.csv` | 8 类关系三元组 |
+| `data/output/kg/properties/*.csv` | 字面量属性 |
+| `data/output/kg/align/` | 实体对齐表 |
 | `crawler.log` | 运行日志 |
 
 **编码：** CSV 统一 **UTF-8-SIG**；MySQL 使用 **utf8mb4**。
@@ -243,7 +245,7 @@ python _check_databases.py
 ```
 三馆爬虫 → CSV + 图片
          → MySQL artifact 表（7151 条）
-         → output/kg/ 三元组（70888 关系）
+         → data/output/kg/ 三元组（70888 关系）
          → Neo4j 图库（143623 边）
          → backend FastAPI（5 个 GET 接口）
          → Web / App 前端
@@ -272,7 +274,7 @@ python _check_databases.py
 | 史密森尼 0 条 | 加 `--si-s3-only`；检查 `SI_DATA_GOV_API_KEY` |
 | MFA 无链接 | 安装 Playwright；勿用 `--mfa-headless` |
 | MySQL 连接失败 | 检查 `.env` 中 `MYSQL_HOST` + `MYSQL_DATABASE` |
-| 图片 404（前端） | 配置 backend 的 `HARVARD_IMAGE_DIR` / `IMAGE_BASE_DIR` |
+| 图片 404（前端） | 配置 backend 的 `HARVARD_IMAGE_DIR` / `IMAGE_BASE_DIR`；确认 `crawler/data/output/images/` |
 | Neo4j 同步慢 | 使用 `sync_neo4j.py --skip-properties` 先导入关系 |
 
 ---

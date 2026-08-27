@@ -9,7 +9,7 @@ import csv
 import shutil
 from pathlib import Path
 
-from museum_crawler.config import BASE_DIR, CSV_FIELDS
+from museum_crawler.config import CSV_FIELDS, default_harvard_csv
 from museum_crawler.date_format import normalize_row_dates
 from museum_crawler.io_csv import write_csv
 
@@ -43,11 +43,11 @@ def main() -> None:
         "--csv",
         type=Path,
         nargs="*",
-        help="要处理的 CSV（默认 harvard_art_museums.csv）",
+        help="要处理的 CSV（默认哈佛主表，优先 *.fixed.csv）",
     )
     ap.add_argument("--no-backup", action="store_true", help="不生成 .bak 备份")
     args = ap.parse_args()
-    paths = list(args.csv) if args.csv else [BASE_DIR / "output" / "harvard_art_museums.csv"]
+    paths = list(args.csv) if args.csv else [default_harvard_csv()]
     for p in paths:
         total, changed = _normalize_csv(p, backup=not args.no_backup)
         print(f"{p.name}: 已写回 {total} 行，日期格式调整 {changed} 行")

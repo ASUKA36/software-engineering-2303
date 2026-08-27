@@ -17,7 +17,7 @@ from urllib.parse import quote, urlsplit, urlunsplit
 
 import requests
 
-from museum_crawler.config import BASE_DIR, CSV_FIELDS
+from museum_crawler.config import BASE_DIR, CSV_FIELDS, OUTPUT_DIR
 from museum_crawler.date_format import normalize_row_dates
 from museum_crawler.io_csv import write_csv
 from museum_crawler.material_normalize import clean_material_text
@@ -194,7 +194,9 @@ def _resolve_local_image(path_str: str) -> Optional[Path]:
     for cand in (
         Path(lp),
         BASE_DIR / lp,
+        OUTPUT_DIR / lp,
         BASE_DIR / "output" / lp,
+        OUTPUT_DIR / Path(lp).name,
     ):
         try:
             if cand.is_file() and cand.stat().st_size > 512:

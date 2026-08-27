@@ -263,7 +263,7 @@ backend/
 | API 超时 / 无法访问 | 服务器上 backend 进程未启动或 8000 端口未放行 |
 | `503 MySQL 未配置` | 检查 `backend/.env` 或 `crawler/.env` 中 `MYSQL_*` |
 | `has_local_image: false` | 本地无图或 `HARVARD_IMAGE_DIR` 路径未配对 |
-| 图片 404 | 确认 `image_resolver` 能找到 `crawler/output/images/` 下文件 |
+| 图片 404 | 确认 `image_resolver` 能找到 `crawler/data/output/images/` 或 `crawler/output/images/` 下文件 |
 | 需要 MySQL 账号？ | **仅展示走 API 即可**；用户/收藏等扩展功能联系后台管理组 |
 
 ---

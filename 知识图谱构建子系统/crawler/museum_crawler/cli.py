@@ -20,7 +20,7 @@ if __package__ in (None, ""):
     if str(_project_root) not in sys.path:
         sys.path.insert(0, str(_project_root))
 
-from museum_crawler.config import BASE_DIR, LOG_PATH, setup_logging
+from museum_crawler.config import LOG_PATH, OUTPUT_DIR, setup_logging
 from museum_crawler.db import MySQLWriter, mysql_configured
 from museum_crawler.incremental import append_change_log, append_run_log, save_state
 from museum_crawler.harvard import crawl_harvard, repair_harvard_multi_images
@@ -108,8 +108,8 @@ def main() -> None:
   python museum_spider.py --museums harvard --limit 0
   # 配置 .env 中 MYSQL_* 后自动写库；仅 CSV 不写库：
   python museum_spider.py --no-mysql --museums harvard --limit 50
-  # 作者 Wikidata / 维基增量（默认处理 output 下三馆 CSV）：
-  python enrich_wikidata.py --csv output/harvard_art_museums.csv
+  # 作者 Wikidata / 维基增量（默认处理产出目录下三馆 CSV）：
+  python enrich_wikidata.py --csv data/output/harvard_art_museums.fixed.csv
   python museum_spider.py enrich-wikidata --delay 1.5
 
 说明：
@@ -118,8 +118,8 @@ def main() -> None:
         """,
     )
     ap.add_argument(
-        "--output", type=Path, default=BASE_DIR / "output",
-        help="输出根目录（CSV 与 images/）",
+        "--output", type=Path, default=OUTPUT_DIR,
+        help="输出根目录（CSV 与 images/；默认 data/output 或 output）",
     )
     ap.add_argument(
         "--museums", type=str, default="all",

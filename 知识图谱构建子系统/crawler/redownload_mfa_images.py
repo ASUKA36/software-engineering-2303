@@ -26,7 +26,7 @@ import logging
 import sys
 from pathlib import Path
 
-from museum_crawler.config import BASE_DIR, LOG_PATH, setup_logging
+from museum_crawler.config import LOG_PATH, OUTPUT_DIR, setup_logging
 from museum_crawler.io_csv import write_csv
 from museum_crawler.mfa_boston import (
     _MFA_SERVER_IMAGE_DIR,
@@ -99,14 +99,14 @@ def main() -> int:
     ap.add_argument(
         "--csv",
         type=Path,
-        default=BASE_DIR / "output" / "museum_of_fine_arts_boston.from_db.csv",
+        default=OUTPUT_DIR / "museum_of_fine_arts_boston.from_db.csv",
         help="源 CSV（含 detail_url / image_url）",
     )
     ap.add_argument(
         "--output",
         type=Path,
-        default=BASE_DIR / "output",
-        help="图片保存根目录（实际为 output/images/mfa/）",
+        default=OUTPUT_DIR,
+        help="图片保存根目录（实际为 <output>/images/mfa/）",
     )
     ap.add_argument(
         "--force",
